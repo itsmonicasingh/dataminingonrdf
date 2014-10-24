@@ -1,0 +1,2894 @@
+On the Design of Minimum Length Fault Tests for Combinational Circuits
+International Symposium on Fault Tolerant Computing 1971
+Algorithms for Detection of Faults in Logic Circuits
+Boolean Difference for Fault-Detection in Asynchronous Sequential Machines
+An Efficient Algorithm for Generating Complete Test Sets for Combinational Logic Circuits
+Generation of Fault Detection Tests for Sequential Circuits
+Diagnosable Machine Realizations of Sequential Behavior
+A Graph Theoretical and Probabilistic Approach to the Fault Detection of Digital Circuits
+Locatability of Faults in Abstract Networks
+Structural Factors in the Fault Diagnosis of Combinational Networks
+Cause-Effect Analysis for Multiple Fault Detection in Combinational Networks
+The Algebraic Appoach to Faulty Logic Networks
+On the Design of Multiple Fault Diagnosable Networks
+Problems Associated with the Implementation and Utilization of Digital Simulators and Diagnostic Test Generation Systems
+Testing and Diagnosing A Practitioner's Point of View
+Diagnosis and Testing Aerospace Digital Computers
+Increasing System Availability by Using On Line Test and Diagnosing
+Reliability Modeling for Fault Tolerant Computers
+Analysis of Parallel Systems
+A Method for Redundancy Scheme Performance Assessment
+Diagnostic Results of Field Test of Platon Switching System
+Reliability Modeling Analysis and Prediction of Ultrareliable Fault-Tolerant Digital Systems
+A Theory of Design of Fault-Tolerant Computers Using Standby Sparing
+The MECRA a Self-Reconfigurable Computer for Highly Reliable Process
+The STAR (Self-Testing-and-Repairing) Computer An Investigation of the Theory and Practice of Fault-Tolerant Computer Design
+A Fault-Tolerant Information Processing Concept for Space Vehicles
+A Three Failure Tolerant Computer System
+A Log-Out Analysis Method for Fault Detection in Computer
+Error Switch of Duplicated Processor in the No. 2 Electronic Switching System
+A Residue Checker for Arithmetic and Logical Operations
+International Symposium on Fault Tolerant Computing 1972
+Look-Aside Techniques for Minimum Circuit Memory Translators
+A Design Technique for Synthesis of Fault-Tolerant Adders
+Arithmetric Algorithms for Error-Coded Operands
+Detection of Multiple Faults in Combinational Circuits
+A Comparison of Digital Simulation and Physical Fault Insertion in Diagnostic Test Development
+A Set of Interactive APL Programs for Fault Detection and Location in Digital Circuits
+Generation of Fault Detection Tests for Intermittent Faults in Sequential Circuits
+Additional Applications of the Boolean Difference to Fault Detection and Diagnosis
+Central Processor Diagnosis by Function
+FACOM 230-60 Diagnostic Program
+Automatic Exhaustive Testing and Diagnostics of Sequential Logic Networks
+Fault-Tolerant Programming
+On Software Quality
+A Fail-Softly System for Time-Sharing Use
+Software Defenses in Real-Time Control Systems
+Models for the Control of Errors in a Management Information System
+A Fault-Tolerant Spacecraft
+System Modeling and Testing Procedures for Microdiagnostics
+Fault Detection in Uniform Modular Realizations of Sequential Machines
+Multiple Fault Detection in Combinational Circuits Algorithms and Experimental Results
+Easily Testable Realizations for Logic Functions
+Fault-Locating Test Generation for Combinational Logic Networks
+A Homing Sequence Generation Algorithm for Fault Detection in Asynchronous Sequential Circuits
+Use of Spoofs for Faulty Logic Network Analysis
+On Numerical Bounds in Diagnosable Systems
+Computer Error Control by Testable Morphic Boolean Functions A Way of Removing Hardcore
+Design of a Microprogram Control for Self-Checking
+Recovery Strategies in the No. 2 Electronic Switching System
+Design of Asynchronous Sequential Machines for Fault Detection
+A Fault-Tolerant Asynchronous Sequential Machine
+An Iterative Cell Switch Design for Hybrid Redundancy
+Figure of Merit for Fault-Tolerant Space Computers
+Modeling of a Bubble Memory Organization with Self-Checking Translators to Achieve High Reliability
+The Concept of Coverage and its Effect on the Reliability Model of a Repairable System
+Inherent Redundancy in Combinational Behaviors
+Probabilistic Models for Software Reliability Prediction
+The Design and Verification of a Synchronous Executive for a Fault-Tolerant System
+International Symposium on Fault Tolerant Computing 1973
+STAREX Self-Repair Routines Software Recovery in the JPL-STAR Computer
+A Fault-Tolerant Digital Clocking System
+The SERF Fault-Tolerant Computer Part I Conceptual Design
+The SERF Fault-Tolerant Computer Part II Implementation and Reliability Analysis
+Fault-Tolerant Plated Wire Memory for Long Duration Space Missions
+Fault-Tolerant Storage Systems Design Studies
+Application of Arithmetic Error Codes for Checking of Mass Memories
+Error Corrections in Byte-Organized Arithmetic Processors
+An Organization for a Highly Survivable Memory
+Partially Self-Checking Circuits and Their Use in Performing Logical Operations
+Test Point Placement to Simplify Fault Detection
+A Gate Equivalent Model for Combinational Logic Network Analysis
+Algebraic Techniques for Finding Tests for Several Fault Types
+Bridging and Stuck-At Faults
+Diagnosis Of Short Faults In Combinational Circuits
+Distance Measures on Detection Test Sets and Their Applications
+Fault-Tolerance of the Iterative Cell Array Switch for Hybrid Redundancy
+Design of a Voter-Comparator-Switch for Redundant Computer Modules
+An Algoritrm for the Accurate Reliability Evaluation of TMR Networks
+The Theoretical Analysis of Redundant Systems Reliability
+RMS A Reliability Modeling System for Self-Repairing Computers
+On the Diagnosability of Digital Systems
+On-Set Realization of Fail-Safe Sequential Machines
+Asynchronous Sequential Circuits Capable of Detecting and Tolerating Single Faults
+Fault Diagnosis in Uniform Modular Realizations of Sequential Machines
+Some Results on the Application of FLT Generator to a Large Scale Computer
+Fault Location in Iterative Logic Arrays
+International Symposium on Fault Tolerant Computing 1974
+Analysis of Logic Circuits with Faults Using Input Signal Probabilities
+The Probability of a Correct Output From a Combinational Circuit
+A Method for Obtaining SPOOF's
+Fault Masking in Combinational Logic Circuits
+Reliability Modelling Considerations for a Real-Time Control System
+A Fault-Tolerant Parallel Computer System for Signal Processing
+Reliability Modeling of Compensating Module Failures in Majority Voted Redundancy
+GMR General Modular Redundancy
+An Analysis of PRIME Using a New Reliability Model
+A Unified Approach to the Realization of Fail-Safe Sequential Machines
+Fail-Safe Synchronous Sequential Machines Using Modified On-Set Realizations
+Modeling Circuits for Test Generation
+Design of Totally Self Checking and Fail Safe Sequential Machines
+Search for a Particular Synchronizing Sequence of an Automaton
+The Architectural Elements of a Symmetric Fault-Tolerant Multiprocessor
+A Damage-and-Fault-Tolerant Input/Output Network
+Orthogonal Latin Square Configuration for LSI Memory Yield and Reliability Enhancement
+A Comparative Study of Architectures for Fault-Tolerance
+Synthesis of Fault-Tolerant Arithmetic and Logic Processors by Using Nonbinary Codes
+Recovery from Faults in the No. 1A Processor
+Diagnostic Test Design
+Test of a Process Control Unit
+Software Testing An Overview
+Experiments in Proving Design Correctness for Microprogram Controlled Computers
+Architecture of Fault-Tolerant Computing Systems
+International Symposium on Fault Tolerant Computing 1975
+La Detection et la Localisation des Defauts dans les Circuits Logiques
+Software Reliability
+New Problems in Fault-Tolerant Computing
+A Logic System for Fault Test Generation
+A Nine-Valued Circuit Model to Generate Tests for Sequential Circuits
+Fault Diagnosis in Combinational Tree Networks
+Symetrie Recurrence et Test
+Test Algorithms for Active Input/Output Networks
+Test de Memoire Dynamique a Technologies MOS
+Reliability Modeling and Analysis of Hybrid Redundancy
+Influence of Fault-Detection and Switching Mechanisms on the Reliability of Stand-By Systems
+Reliability and Availability of Repairable Structures
+Modeling of Tradeoffs in Fault-Tolerant Homogeneous Array Processors
+Evaluation Globale de la Surete de Fonctionnement des Systemes Informatiques
+A Simulation Program for Reliability Prediction of Fault Tolerant Systems
+Implementation of an Experimental Fault Tolerant Memory System
+Some Fault Tolerance Design Principles for Modular Redundant Structures
+Fail-Safe Asynchronous Machines with Multiple Input Changes
+Design of Built-In Self-Checking Monitoring Circuits for Discrete Devices
+Design of Self-Checking Microprogrammed Controls
+An Error Analysis of Loop-Free Iterative Adders for Digit Complement Code
+A Schema for Producing Reliable Software
+Some Observations Concerning the Structure of Fortran Progams
+Comprehensive Diagnostic Planning
+A New Measure of Digital System Diagnosis
+Diagnosability of Systems Partitioned into Complex Units
+Methodologies de Test Efficace pour des Unites Centrales
+Program and Input-Output Management for a Distributed Fault-Tolerant Digital System
+MARIGNAN An Intermittent Failure Correction Method
+System Malfunction Detection & Correction
+On Improving the Efficiency of Monte Carlo Test Generation
+The Error Latency of a Fault in a Combinational Digital Circuit
+Testing Logic Circuits by Transition Counting
+Computation-Based Reliability Analysis
+A Unifying Reliability Model for Closed Fault-Tolerant Systems
+Le Réseau de Téléinformatique de la S.N.C.F. Résultats d'une Étude de Disponibilité
+LAURA (Linear Automatic Reliability Analysis)
+Reliability Enhancement through Monitored Redundancy
+Fault Absorption by Hardware and Software
+A LOGOS Representation of Fault Tolerant Phenomena
+Procedes de Defense des Systemes de Telecommunication Geres par Ordinateurs Application au Concentrateur Telephonique CELTIC
+Systeme E10 Traitement des Fautes
+Fault Tolerant Hybrid Computation
+A Method for Multiple Fault Diagnosis in Fanout Free Networks
+Computation of Fault-Diagnosis Test Sets for Logic Boards Using the Equivalence-Method
+Sur la Detection des Pannes dans les Circuits Combinatoires par des Sequences d'Entree Alratoires
+Algebraic Properities of Testing and Diagnosing Sequences for Sequential Machines
+Dynamically Checked Sequential Logic Using Rate-2/3 Shift Register Mechanizations
+Automated Experiments in Validating Microprograms
+Design and Code Inspections in the Development of Programs
+Consistency Considerations on Checkpoints
+COPRA Un Multiprocesseur a Haute Surete de Fonctionnement
+The Pluribus Multiprocessor
+On Improvement of Fail-Safe Synchronous Machine Design Using On-Set Realization
+Abstract Synthesis of Fail-Safe Automata
+Multiple Fault Tolerant Design of Asynchronous Sequential Machines
+Fault-Tolerant Asynchronous Networks Using (21) Assignments
+Sub-Optimal Sequencing Procedure for Job Allocation or Failure Localization Given a priori Information
+The COSU Through-Line Test-Process-Interpreter
+Composition and Fault Diagnosis of Failure Tolerant Communication Networks
+Error Correction with Askew Redundancy Check
+A Research Oriented Microcomputer with Built In Auto-Diagnostics
+International Symposium on Fault Tolerant Computing 1976
+Redundancy Design Approach Applied To Electronic Telephone Exchange Realizations
+Fault Analysis and Recovery System in an Electronic Terminal Telephone Exchange
+Automatic Rollback Techniques of The COPRA Computer
+A Two-Level Approach to Modeling System Diagnosability
+Design of Self-Repair Systems by Using Self-Checking Circuits
+Designing Reliable Microprogram Control with Partitioned Hybrid Redundancy
+On Balancing Safety and Reliability of Hybrid and Bi-Duplexed Systems
+On Test Generation for Asynchronous Seqential Circuits
+A Masked-Fault-Free Realization of Fail-Safe Asynchronous Sequential Circuits
+Universal Preset Tests of Sequential Circuits
+A Probabilistic Model for the Evaluation of Signal Reliability of Self-Checking Logic Circuits
+Statistical Fault-Location In Logical Circuits
+Compact Testing Testing with Compressed Data
+A Testability Measure for Register Transfer Level Digital Circuits
+Referenceless Random Testing
+Checksum Test Methods
+Partitioning for Testability
+Specification of the Fault-Tolerant Spaceborne Computer (FTSC)
+Architectural Design for Near 100% Fault Coverage
+Rollback Point Insertion Strategies
+Software Recovery in the Fault-Tolerant Spaceborne Computer
+On Totally-Self-Checking Checkers for Separable Codes
+Fault Detection Capabilities Of Alternating Logic
+A Rollback Interval for Networks with an Imperfect Self-Checking Property
+A High Safety Multi-Microprocessor Architecture
+A Diagnostic and Reconfiguration System for the MU5 Multicomputer Complex
+A Model for Transient and Permanent Fault Recovery in Closed Fault-Tolerant Systems
+Test Oriented Interpreted Petri Nets for Concurrent Systems
+Fault-Tolerable Three-Port Network and its Characterisitics
+A Reliability Analysis of Fault-Tolerant Memories
+Reliability Modeling of After-Failure and Periodically Maintained Redundant Structures
+A General Program-Verification Method Applied to Microprograms
+Techniques to Simplify Microcode Validation
+Detection of Fault-Tolerance in Digital Systems
+Easily Diagnosable Control in a Processor
+Reliability Models for Multiprocessor Systems with and without Periodic Maintenance
+International Symposium on Fault Tolerant Computing 1977
+C.vmp The Architecture and Implementation of a Fault Tolerant Multiprocessor
+Design of a Self-Checking Microprogrammed Processor
+The Reliability of a MOS Memory with Error Correction
+A Theory of Digital System Fault Diagnosis
+Procedures to Obtain Optimal Test Sequences
+The BIBORE A Convenient Tool for Fault Diagnosis in Combinational Networks
+Fault Diagnosis in Gunn Logic Network
+Multiple Fault Resolution and the Fault Dependent Boolean Difference
+Diagnosis of Intermittent Faults in Combinational Networks
+Design of Self-Checking Sequential Machines Using Read-Only Memories
+Package Detectability of Error Correcting Codes
+N-Version Programming A Fault-Tolerance Approach to Reliability of Software Operation
+International Symposium on Fault Tolerant Computing 1978
+Design Methodology for Secure Microcomputers Application to the Implementation of the Control of a Turbo-Jet Engine
+UDET 7116 Common Control for PCM Telephone Exchange Diagnostic Software Design and Availability Evaluation
+Reliability and Maintainability Enhancements for the VAX-11/780
+Enumeration of the Critical Fault Patterns in Fault-Tolerant Computer Systems
+Survival and Dispatch Probability Models for the FTMP Computer
+On Evaluating the Performability of Degradable Computing Systems
+Modeling of Diagnosis in Fail-Softly Computer Systems
+Performance Evaluation of Self-Diagnosing Multiprocessing Systems
+Logic Design for Dynamic and Interactive Recovery
+Analysis of Fault Detection Coverage of a Self-Test Software Program
+Functional Testing with Binary Decision Diagrams
+Fault Analysis and Test Generation for Programmable Logic Arrays (PLA)
+A Methodology for Functional Level Testing of Microprocessors
+Fault Simulation Strategy for Combinational Logic Networks
+Feedback Shift Register Testing
+Testing Logic Circuits with Compressed Data
+RHEA A System for Reliable and Survivable Interconnection of Real-Time Processing Elements
+Fault Recovery in Multiprocessor Networks
+State Restoration in Distributed Systems
+Fault-Tolerance of a General Purpose Computer Implemented by Very Large Scale Integration
+A Study of Standard Building Blocks for the Design of Fault-Tolerant Distributed Computer Systems
+The Effect of Semiconductor Memory Chip Failure Modes on System Reliability and Performance
+Delay Testing LSI Logic
+Arithmetic Error Codes Cost and Effectiveness Studies for Application in Digital System Design
+Computer System Diagnosis Using Test Gates Method
+An Improved System to Verify Assembled Programs
+Software Reliability Through Proving Programs Correct
+Shift Registers Designed for On-Line Fault Detection
+Proving Programs to be Correct
+Prevention of Deadlocks in Multiprocessing Supervisory Software
+Design of Self-Checking Checkers for Berger Codes
+Program Correctness Software Reliability and Todays Capabilities
+A Comparison of Formal Program Validation Techniques
+A Testable Design of Sequential Machines
+A Concept for a Gracefully Degrading Memory
+Architectural Description of a Fault-Tolerant Multiprocessor Engineering Prototype
+Design of a Continuously Available Distributed Real-Time System
+Redundancy Allocation in the Fault-Tolerant Spaceborne Computer
+Performance Considerations for Reliability Analysis A Statistical Case Study
+An Approach to Optimal Reconfiguration in Dynamic Fault-Tolerant Systems
+An Approach Towards a Unified Design Methodology for Gracefully Degradable Periodically Maintained Computers
+On a Fault-Tolerant Network Composition
+Fault-Tolerant Communication Networks for Computer Networks
+Realization of Fault-Tolerant Systems by Coding Petri Nets
+Rollback Model for Interactive Processes
+Fault-Tolerant Sequential Programming Using Recovery Blocks
+Structured Computer-Design System
+Feedback Bridging Faults in General Combinational Networks
+Testing for Multiple Intermittent Failures in Combinational Circuits by Maximizing the Probability of Fault Detection
+Asynchronous Random Testing of Sequential Circuits
+In-Situ Testing of Combinational and Memory Circuits Using a Compact Tester
+Generation of Diagnostic Data by Using Testpoint-Sequences
+Improving Testability by Simple Modifications of Combinational Nets
+Easily Tested Tree Realization of Reed-Muller Expansion
+Quantitative Comparison of Self-Checking Circuit Designs Definitions and an Example for Linear Feedback Shift Registers
+Compared Reliability Analysis of Redundant Systems
+Totally Self-Checking Peripheral Circuits for Associative Devices
+Checksum Versus Residue Codes for Multiple Error Detection
+An Adjacent-Error-Correcting Code Based on the Threshold Decoding
+Possibilities and Boundaries for the Use of Control Sequence Checking
+A Recovery Cache for the PDP-11
+International Symposium on Fault Tolerant Computing 1979
+Reliability Issues in Distributed Information Processing Systems
+Design of a Distributed Fault-Tolerant Loop Network
+Recovery and Diagnostics in the Central Control of the AXE Switching System
+A Fault-Tolerant Clock Using Standby Sparing
+Performability Evaluation of the SIFT Computer
+Performance Evaluation for Gracefully Degrading Systems
+Performance Evaluation of a Fault-Tolerant Computing System
+On the Employment of Variance for Reliability Modelling of Fault Tolerant Systems
+The Measurement and Analysis of Transient Errors in Digital Computer Systems
+Some Results About the Efficiency of Simple Mechanisms for the Detection of Microcomputer Malfunctions
+Reliability and Availability Modeling of Systems Featuring Hardware and Software Faults
+OBSERVER A Concept for On-Line Detection of Control Errors in Concurrent Systems
+The Provision of Recoverable Interfaces
+Simulations of a Fault-Tolerant Deadline Mechanism
+Using Executable Assertions for Testing and Fault Tolerance
+Multiprocess Recovery Using Conversations
+Performance Related Reliability Measures for Computing Systems
+A Reliability Model for Gracefully Degrading and Repairable Fault-Tolerant Systems
+Effects of Failures on Gracefully Degradable Systems
+Probabilistic Techniques for Test Generation from Functional Descriptions
+Test Evaluation with a Decision Machine
+Detecting Transition Sequences Application to Random Testing of Sequential Circuits
+Unknown Signal Values in Fault Simulation
+Deduction of Internal Signal Values in Combinational Networks Based Upon Test Results
+Improved Test Set Generation Algorithm for Combinational Circuit Control
+Syndrome-Testable Design of Combinational Circuits
+FTSC Fault-Tolerant Spaceborne Computer
+Fault Tolerance of the Digital ESS-E10
+Fault-Tolerant ESS Processors
+Concurrent Computation and Diagnosis in Multiprocessor Systems
+On the Diagnosability of Systems with Self-Testing Units
+Testing of Microprogrammed Units
+Hardware and Software Design of the Fault Tolerant Computer COPRA
+Progress on the FTMP Program
+SIFT Software Implemented Fault-Tolerance
+The Design of Totally Self Checking Circuits Using Programmable Logic Arrays
+Multivalued I2L Circuits for TSC Checkers
+Parity Prediction in Combinational Circuits
+Design of Self-Checking MOS-LSI Circuits Application to a Four-Bit Microprocessor
+Physical Versus Logical Fault Models in MOS LSI Circuits Impact on Their Testability
+Test Generation for General Microprocessor Architectures
+Testing Bit-Sliced Microprocessors
+An Algorithm to Detect a Class of Pattern Sensitive Faults in Semiconductor Random Access Memories
+Multiple Fault Detection in Programmable Logic Arrays
+Dynamic Reconfiguration An Algorithm and its Efficiency Evaluation
+Development of a Spaceborne Memory with a Single Error and Erasure Correction Scheme
+A System Interconnection Model for Diagnosability Analysis
+System Diagnosis with t/s Diagnosibility
+Probabilistic Treatment of Diagnosis in Digital Systems
+Testing of Semiconductor Random Access Memories
+On the Specification and Analysis of Large Digital Functions
+On Line Test Modeling in Non-Redundant Distributed Systems
+Generation of Tests for Digital Circuits Using Generalized Fault Lists
+Local Irredundancy in Combinational Circuits
+Cost Effectiveness of Self Checking Computer Design
+Design of Totally Self-Checking Asynchronous and Synchronous Sequential Machines
+The Design of Totally Self-Checking Combinational Circuits
+Reliability of Partially Self-Checking Circuits
+Efficient Design of Self-Checking Checkers for M-Out -of-N Codes
+Cascade Structure in Totally Self-Checking Networks
+A Markov Model of Intermittent Faults in Digital Systems
+Signal Reliability of Combinational and Sequential Circuits
+Efficiency of Compact Testing for Sequential Circuits
+Random Testing Practicality vs. Verified Effectiveness
+Optimal Random Testing of Single Intermittent Failures in Combinational Circuits
+Asynchronous Sequential Circuits Designed for Efficient Fault Detection Tests
+High Speed Parity Prediction for Binary Adders
+Multiple Redundancy In Combinational Logic Circuits
+On Undetectability of Bridging Faults
+Totally-Self-Checking Modular Asynchronous Circuits
+Multiple Pin Fault Detection in Combinational and Sequential Modules
+Recursive Coverage Projection of Test Sets
+A Fault-Tolerant Failure-Operable and Fail-Safe Logic System
+A Class of Linear Codes for Error Control in Byte-per-card Organized Digital Systems
+Coding for Random-Access Memories
+Modularized b-Adjacent Error Correction
+Fault Coverage for Parity Coding Techniques in Semiconductor Memories
+A Memory System Reliability Model
+On Fault-Set Location In Some System-Level Diagnostic Models
+Transformation a Petri Net-Like Labelled Graph to a Directed Graph for Design Error Detection
+Checking Experiments for Concurrent Systems
+Supervision and Fault Diagnosis Software for the Central Control of an SPC Telephone Exchange
+Quantification and Measurement of Fault Recovery Performance
+Response to Undesired Events in the Minimal Subset of BSF
+On Sizing Software Testing for Structured Programs
+Rademacher-Walsh Spectral Techniques. A New Tool for Digital Network Fault Diagnosis?
+Error Detection in Digital Devices and Computer Programs with the Aid of Linear Recurrent Equations Over Finite Commutative Groups
+On Verification of Language Processors
+The Concept of Self-Checking Programs
+Availability Reliability and Maintainability Aspects of the Sperry Univac 1100/60
+International Symposium on Fault Tolerant Computing 1980
+Deterministic Reset for the Amdahl 470 V/6 Computer
+A Highly Reliable Computer System Its Implementation and Result
+Rates of Unidirectional 2-Column Errors Detectable by Arithmetic Codes
+Unidirectional Error Codes for Shift Register Memories
+Random-Double-Track-Error Correction in Magnetic Tapes
+Design and Analysis of Codes and Their Self-Checking Circuit Implementations for Correction and Detection of Multiple b-Adjacent Errors
+Single Byte Error Correcting Double Byte Error Detecting Codes for Memory Systems
+A Design for Process State Preservation on Storage Unit Failure
+Masking Triple Fixed Defects in Memory
+Hardware Verification and Design Error Diagnosis
+A Procedure for Functional Design Verification
+System for Symbolic Hardware Algorithm Verification
+SIFT System Design and Implementation
+Design and Appraisal of Operating Systems Matched in Selective Active Redundancy
+Monitors Petri Nets and Error Confinement
+DLP A Fault-Tolerant Decentralized Locking Protocol for Distributed Data Base
+Reliable Program Derivation in Functional Languages by Applying Jackson's Design Method
+Exception Handling and Software-Fault Tolerance
+A Language Framework for the Reliable Programming of Distributed Applications
+Application of the Fault-Tolerant Deadline Mechanism to a Satellite On-Board Computer System
+An Introduction to Robust Data Structures
+A Calculus for Testing Complex Digital Systems
+Application Oriented Microprocessor Test Method
+Bit-Sliced Microprocessors Testing A Case Study
+FITPLA A Programmable Logic Array for Function Independent Testing
+Universal Test Sets for Programmable Logic Arrays
+An Implicit Enumeration Algorithm to Generate Tests for Combinational Logic Circuits
+Test Generation for Combinational Circuits by Structure Description Functions
+Digital Fault Simulation in Bidirectional Bus Circuit Environments
+Structured Design for Testability to Eliminate Test Pattern Generation
+Transition Count Testing of Sequential Machines
+Autonomous Testing and its Application to Testable Design of Logic Circuits
+Digital Circuit Test System Using Statistical Method
+Random Testing of Intermittent Faults in Digital Circuits
+A Performance-Reliability Model for Computing Systems
+The Reliability of Memory Subject to Hard and Soft Failures
+A Unified Method for the Benefit Analysis of Fault-Tolerance
+Periodic Maintenance on the Effect of Imperfectness
+A Statistical Study of Reliability and System Load at SLAC
+Remarks on the Probability of Detecting Faults
+Robust Detection of Intermittent Faults
+A Study of the Effect of Uncertainty in Failure Rate Estimation on System Reliability
+An Evaluation Tool of Fault Detection Mechanisms Efficiency
+AFDT1 Redundancy Plan
+Availability Analysis of Tree-Structured Computer Communication Systems
+Self-Testing and Self-Diagnosing Multicomponent Systems
+Dependability Modeling of Safety Systems
+On the Performance of Software Fault-Tolerance Strategies
+Signal Reliability Evaluation of Self-Checking Networks
+Sequentially Self-Checking Circuits
+Self-Checking Linear Feedback Shift Registers
+Design Specifications of a Self-Checking Detection Processor
+Design of Self-Checking Asynchronous Sequential Circuits
+A Self-Testing Arbiter Circuit for Multimicrocomputer Systems
+Threshold I²L Totally Self Checking Circuits
+Some Extensions to the Theory of System Level Fault Diagnosis
+Support Processor Based System Fault Recovery
+A Fault-Diagnosis Technique for Closed Flow Networks
+Predictions of Multiple Fault Coverage Capability
+Fault Diagnosis in Sequential Circuits Based on an Effect-Cause Analysis
+A Highly Reliable Distributed Loop Network Architecture
+Local Controllers for Packet Switching Networks
+Design of a Fault-Tolerant Packet Communication Computer Architecture
+Easily Testable High Speed Realization of Register-Transfer-Level Operations
+Transparent Protection Of Untestable LSI Microprocessors
+Logic Design of Fault-Tolerant Arithmetic Units Based on the Data Complementation Strategy
+Logic Elements for Fail-Safe Circuit Design
+A Micro-Processor Based Control Unit for High Availability Applications
+Consistency Unit for Fault-Tolerant Multiprocessors
+Design of a Reconfigurable Front-End Processor for Computer Networks
+The Architecture of a Fail-Safe and Fault-Tolerant Computer for Railway Signalling Device
+Fault-Tolerant Design of a Modern Receiving System
+ED/FI A Technique for Improving Computer System RAS
+International Symposium on Fault Tolerant Computing 1981
+Reliability and Maintainability Features in the VAX-11/750
+Fault Handling on the IBM 4341 Processor
+Reliability and Integrity of Distributed Computing Systems
+The MuTEAM System General Guidelines
+MuTEAM Architectural Insights of a Distributed Multimicroprocessor System
+Mechanisms for a Robust Multiprocessing Environment in the MuTEAM Kernel
+Distributed Diagnosis in Multiprocessor Systems The MuTEAM Approach
+An Enhancement to LSSD and Some Applications of LSSD in Reliability Availability and Serviceability
+Store and Generate Built-In-Testing Approach
+Autonomously Testable Programmable Logic Arrays
+A Multiple Fault Testable Design of Programmable Logic Arrays
+Towards Fault Tolerant Process Control Software
+The Software Structure of a Fail-Safe and Fault-Tolerant Computer for Railway Signalling Device
+Exception Handling and Error Recovery Techniques in Modular Systems An Application to the Isaure System
+Closed-Form Solutions of Performability
+SURF A Program for Dependability Evaluation of Complex Fault-Tolerant Computing Systems
+Evaluation of Computer Systems Dependability Using Stochastic Petri Nets
+Workload Performance and Reliability of Digital Computing Systems
+A Module Replacement Policy for Dynamic Redundancy Fault-Tolerant Computing Systems
+A Class of Noncoherent Systems and Their Reliability Analysis
+Fault-Diagnosis in Fully Distributed Systems
+Design of a Self-Diagnosable Modular System
+A Model for Fault-Tolerant Process Maintenance
+On the Sequential Diagnosibility of a Class of Digital Systems
+Self-Checking Programs An Axiomatisation of Program Validation by Executable Assertions
+Current Progress on the Proof of SIFT
+Protection Against External Errors in a Dedicated System
+A Compendium of Robust Data Structures
+Modeling and Analysis of Periodically Renewed Closed Fault-Tolerant Systems
+Reliability and Performance Evaluation of Self-Reconfigurable Systems with Periodic Maintenance
+Optimum Maintenance Policies for a Computer System with Restart
+Reconfiguration Strategies for Reliable Shared Memory Multiprocessor Systems
+A Decentralised Recovery Control Protocol
+Transient Upsets in Microprocessor Controllers
+A New Model for Self-Testing and Self-Diagnosing Multi-Microprocessor Systems
+A Comparison Connection Assignment for Self-Diagnosis of Multiprocessor Systems
+Optimal Fault-Tolerant Realizations of Some Classes of Hierarchical Tree Systems
+Virtual Ring Protection in Distributed Systems
+Fornalization of DLP (A Decentralized Locking Protocol) Using Abstract Data Types
+Test Generation Algorithms for Nonprocedural Computer Hardware Description Languages
+Testing by Verifying Walsh Coefficients
+Fault-Diagnosis of Parallel Processor Interconnection Networks
+A Fault-Tolerant Communication Architecture for Distributed Systems
+Fault-Testing and Diagnosis Implementation in Microprocessor Controlled Data Networks
+Fault Tolerance in REBUS a Distributed System for Industrial Real Time Control
+The Bank Consumer Retail Network
+A Test Pattern Generation System for Sequential Logic Circuits
+A Near Optimal Algorithm for Test Generation in Sequential Circuit Star Algorithm
+Fault Detection for Sequential Machines by Transition-Tours
+Detection of Intermittent Faults in Sequential Circuits
+Fault Tolerant Microprocessor System Design
+A Fault-Tolerant Multi-Microprocessor Architecture for SARGOS
+The Fault-Tolerant Microcomputersystem BFS
+A Self-Checking VLSI Microprocessor for Electronic Engine Control
+Analysis of a Class of Totally Self-Checking Functions Implemented in a MOS LSI General Logic Structure
+Fault-Tolerant Clocking System
+On Systematic SEC-MUED Code
+A Dynamic Stand-By System for Random Access Memories
+A Methodology for On-Line Testing of Microprocessors
+Random Testing of the Data Processing Section of a Microprocessor
+A View from the Trenches Production Testing of a Family of VLSI Multichip Modules
+Fault-Tolerant Multicomputer System for Control Applications
+Component Failure Localization in the E 10 B System
+Report of Subcommittee on Models Fundmental Concepts and Terminology
+International Symposium on Fault Tolerant Computing 1982
+The Four-Universe Information System Model for the Study of Fault-Tolerance
+The Failure Fault (FF) Model
+Dependability A Unifying Concept for Reliable Computing
+A User Oriented Perspective of Fault Tolerant System Models and Terminologies
+Fault Tolerance Terminology Proposals
+Fundamental Concepts of Fault Tolerant Computing
+A Time for Reflection
+A Time for Integration
+Design Diversity The Challenge of the Eighties
+The (42)-Concept Fault Tolerant Computer
+The P.A.D. A Self-Checking LSI Circuit for Fault-Detection in Microcomputers
+The Design of C.fast A Single Chip Fault Tolerant Microprocessor
+Reconfiguration Procedure in a Distributed Multiprocessor System
+A Distributed Concurrency Control Algorithm Based on Transaction Commit Ordering
+A Reliable Distributed Data Management Algorithm A Case Study Sirius Delta
+The Complexity of Fault Detection An Approach to Design for Testability
+Self-Testing Embedded Parity Trees
+A Testable Design of General Purpose Microprocessors
+PENELOPE A Recovery Mechanism for Transient Hardware Failures and Software Errors
+Use of Fault Trees for the Design of Recovery Blocks
+Performance Modeling of Partially Self-Checking Systems
+Test Generation for MOS Complex Gate Networks
+An Approach to Functional Testing of Microprocessors
+Testing for and Distinguishing Between Failures
+The Dynamic Testing of Comb National Logic Networks
+Error Recoverable and Securable Data Communication for Computer Network
+Highly Reliable Loop Computer Network System Based on Autonomous Decentralization Concept
+On Updating Spanning Trees for Routing in Computer Networks
+Synthesis of Fault-Tolerant Beta-Networks
+Performance-Fault Tolerance Tradeoffs in Single Stage Connecting Networks
+The Containment Set Approach to Crash-Proof Microprocessor Controller Design
+Comparison of Memory Chip Organizations vs. Reliability in Virtual Memories
+Interactive Consistency and its Impact on the Design of TMR Systens
+Upset Exposure by Means of Abstraction Verification
+Watchdog Processors and Capability Checking
+On Detecting the Hardware Failures Disrupting Programs in Microprocessors
+Dependability Evaluation of Communication Support Systems for Local Area Distributed Computing
+Aries 81 A Reliability and Life--Cycle Evaluation Tool for Fault-Tolerant Systems
+Generalised Markov Model for Reliability Evaluation of Functionally Degradable Systems
+A Workload Dependent Software Reliability Prediction Model
+The Ubiquitous Parity Bit
+Spectral Techniques for Fault Detection
+The Design of PLAs with Concurrent Error Detection
+Autonomous Linear Feedback Shift Register with On-Line Fault-Detection Capability
+Modified Berger Codes for Detection of Unidirectional Errors
+Double Error Correcting Codes in Binary Coded Radix-r Arithmetic
+Multiplier and Divider Arrays with Concurrent Error Detection
+Low Cost Schemes for Fault Tolerance in Matrix Operations with Processor Arrays
+Partitioning of Large Multicomputer Systems for Efficient Fault Diagnosis
+Self-Diagnosis of Non-Homogeneous Distributed Systems
+A New Diagnosis Theory as the Basis of Intermittent-Fault/ Transient-Upset Tolerant System Design
+A Diagnostic Device for Large Multiprocessor Systems
+A Statistical Load Dependency Model for CPU Errors at SLAC
+Measurement of Fault Detection Mechanisms Efficiency Results
+Hardware Logic Design Faults A Classification and Some Measurements
+Experimenting with Computer Software Complexity and Reliability
+Statistical Design Verification
+Model for VLSI Test Optimization Using the Interrelationships of Fault Coverage Yield and Test Quality
+Test Scheduling in Testable VLSI Circuits
+FMPA A Fault-Tolerant Multi-Microprocessor System Based on Autonomous Decentralization Concept
+International Symposium on Fault Tolerant Computing 1983
+ATTEMPTO A Fault-Tolerant Multiprocessor Working Station; Design and Concepts
+Towards Fault Tolerance in Distributed Systems via Replication of Data An Implementation
+DIOGENES A Methodology for Designing Fault-Tolerant VLSI Processor Arrays
+Built-in-Testing of pI-Testable Iterative Arrays
+Easily-Testable Array Multipliers
+A Fault-Tolerant Scheduling Problem
+Application-Transparent Setting of Recovery Points
+An Integrated Approach to Error Recovery in Distributed Computing Systems
+A Strategy for the Development of Communication Fault-Tolerant Systems by Means of Regular Expressions
+Modelling and Verifying Asynchronous Cooperation Between Microprogrammed Units
+Random Pattern Testability
+The Algorithm Critical Traces for Functions and CHDL Constructs
+On the Acceleration of Test Generation Algorithms
+Fault Influence Function FCR Identification of Multiple Faults in Combinational Circuits
+Test Generation and Fault Diagnosis for Multiple Faults in Combinational Circuits
+Trend Analysis on System Error Flies
+A Specification-Oriented Multi-Version Software Experiment
+Comparison of Software Reliability Predictions
+The Use of Software Metrics to Assess Software Production Methods
+A Performance Considered Model for System Reliability
+A Self-Testing Group-Parity Prediction Checker and its Use for Built-ln Testing
+Modular Realization of Totally Self Checking Checkers for M-Out-Of-N Codes
+Design Method of Totally Self-Checking Checkers For M-Out-Of-N Codes
+Design of Totally Self-Checking Comparators with an Arbitrary Number of Inputs
+A 3-Level Realization of Totally Self-Checking Checkers for M-Out-Of-N Codes
+Reliable Synchronization in Computer Networks
+Voting and Redundancy Management Implemented by Protocols in Distributed Systems
+Reasoning About Programs with Exceptions
+Programming Reliable and Robust Software in ADA
+Roving Emulation as a Fault Detection Mechanism
+CERBERUS-16 An Architecture for a General Purpose Watchdog Processor
+Logic Test Pattern Generation Using Linear Codes
+Increasing Effectiveness of Built-in-Testing by Output Data Modification
+Safety Assertions for Process-Control Systems
+A Robust Data Structure Scheme with Checking Loops
+Architectural Considerations for Detecting Run-Time Errors in Programs
+On Testing Stuck-Open Faults
+Testing for Failure Analysis New Tools and New Test Methods
+Coherence Faults of the Random Access Sequential Networks
+Performance-Related Dependability Evaluation of Supercomputer Systems
+Reliability Markovian Calculation Using Randomization for Fault-Tolerant Computing Systems
+Dynamic Workload Model for Performance/Reliability Analysis of Gracefully Degrading Systems
+Error Correction in Arithmetic Operations Using Time Redundancy
+Logic Design of Fault-Tolerant Dividers Based on Data Complementation Strategy
+Correction of Errors in Data Transmission Using Time Redundancy
+Error Detection and Correction Techniques for Dataflow Systems
+Self-Diagnosis of Multistage Network-Based Computer Systems
+Self-Implicating Structures for Diagnosable Systems
+A Method for Parallel Decoding of Double-Error Correcting Group Codes
+Large System Fault Tolerant Memory Techniques
+Optimal Cost/Reliability Allocation in Communication Networks
+Analysis of the Impact of Error Detection on Computer Performance
+Fault-Tolerance in Binary Tree Architectures
+Random Testing of the Control Section of a Microprocessor
+Test Pattern Generation for Digital Systems on Vector Alternative Graph Model
+A Method for Deriving an Optimal Test Strategy for Microprocessors
+Fault Tolerance in the AXE Switching System Central Control Experience and Development
+No. 5 ESS Strategies for Reliability in a Distributed Processing Environment
+Can the Reliability of Digital Telecommunication Switching Systems be Predicted and Measured?
+A System Approach to Fault Location
+A Computer Aided Test Analysis System CATA
+A Quality Model of System Design and Integration
+Testing PLAs Using Multiple Parallel Signature Analyzers
+A Testable PLA Design with Low Overhead and High Fault Coverage
+PART Programmable Array Testing Based on a Partitioning Algorithm
+Fault-Tolerant Architectures for Multiprocessors and VLSI Systems
+Optimal Fault Detection Test Sequences for Shuffle/Exchange Networks
+Multiple Fault Diagnosis of SW-Banyan Networks
+An Operating System for a TMR Fault-Tolerant System
+SLINK A Communication System for Distributed Process Control
+The Project Galileo Fault Protection System
+A Fault-Tolerant Computer for Autonomous Spacecraft
+A New Design Method of Voter in Fault-Tolerant Redundancy Multiple-Module Multi-Microcomputer System
+The Design of a Microprogram Control Unit with Concurrent Error Detection
+Design Verification by Using Built-In Checkers
+Dependable Computing Concepts and Fault Tolerance Terminology
+International Symposium on Fault Tolerant Computing 1985
+Analysis and Design of Robust Data Structures
+Guidelines for Storage Structure Error Correction
+Robust Trees
+On Self Fault-Diagnosis of the Distributed Systems
+A Generalization of Hybrid Fault Diagnosability
+Diagnosable Systems for Fault Tolerant Computing
+An Adaptative and Evolutive Tool for Test Generation Process Based on Frames and Demons
+Updating Functional Fault Model for Microprocessor Internal Buses
+High-Level Test Generation Using Bus Faults
+Evaluating Vote Assignments with a Probabilistic Metric
+A Fault Identification Algorithm for ti-Diagnosable Systems
+Dynamic Testing Strategy for Distributed Systems
+The Reliability of the IBM MVS/XA Operating System
+A Non-Intrusive Checkpointing Scheme in Distributed Database Systems
+Built-In Self-Test for VLSI Systems with Asynchronous Intermodule Communication
+A Low Overhead High Coverage Built-In Self-Test PLA Design
+An Efficient Built-In Self Test Scheme for Functional Test of Embedded RAMs
+The UCLA DEDIX System A Distributed Testbed for Multiple-Version Software
+A Large Scale Experiment in N-Version Programming
+An Evaluation of Software Fault Tolerance in a Practical System
+On the Use of Linear Sums in Exhaustive Testing
+Totally Self-Checking CMOS Circuits Using a Hybrid Realization
+Analysis of a Fault-Tolerant Distributed Diagnosis Algorithm
+Constructing Optimal Test Schedules for VLSI Circuits Having Built-In Test Hardware
+Specification and Verification of a Synchronization Protocol for Comparison of Results
+Trusting Implementations of an Application-Level Communication Protocol Inter-Library Loan
+Tools and Methodology for Testing OSI Protocol Entities
+Application of a Clock Synchronization Validation Methodology to the SIFT Computer System
+Atomic Broadcast From Simple Message Diffusion to Byzantine Agreement
+Reliable Clock-Driven Process Synchronization Algorithms
+Watchdog Processors Error Coverage and Overhead
+PREDICT Probabilistic Estimation of Digital Circuit Testability
+Compensating Faults in Triple Modular Redundancy
+On Scheduling Tasks with a Quick Recovery from Failure
+Fault Tolerant Deadlock Detection in Distributed Database Systems
+Implementation of Interrupt Handler for Loosely-Synchronized TMR Systems
+The Input/Output Architecture of the (4.2) Concept Fault-Tolerant Computer
+The Comparison Approach to Multiprocessor Fault Diagnosis
+A Fault-Tolerant FFT Processor [1985]
+The Architecture of MARS
+DFT Distributed Fault Tolerance Analysis and Design
+A Virtual TMR Node
+A Data Compression Technique for Built-In Self Test
+Accumulator Compression Testing
+Generalized Compaction Function Testable Design of Sequential Machines Using Checking Experiments
+On the Dependability Evaluation of High Safety Systems
+Numerical Evaluation of Guaranteed Availability
+Introducing Redundancy into VLSI Designs for Yield and Performance Enhancement
+Fault-Tolerant FFT Networks
+Modular Approach to Fault-Tolerant Binary Tree Architectures
+Evaluation of a Self-Checking Version of the MC 68000 Microprocessor
+Safety Analysis Using Petri Nets
+Dependability Evaluation of Complex Computer Systems Stochastic Petri Net Modeling
+Parameter Tuning Criterion in the L/V Software Reliability Model
+A Totally Self-Checking Generalized Prediction Checker and its Use for Built-In Testing
+Strongly Language Disjoint Checkers
+Error Secure/Propagating Concept and its Application to the Design of Strongly Fault Secure Processors
+A New Linguistic Approach to Backward Error Recovery
+Building Undo/Redo Operations into the C Programming Language
+Design of Fast Self-Testing Checkers for a Class of Berger Codes
+On FET Stuck-Open Fault-Detectable CMOS Memory Elements
+Techniques for Efficient MOS Implementation of Totally Self-Checking Checkers
+Assessment of Software Quality for the Airbus A 310 Automatic Pilot
+A Unified Approach to Concurrent Error Detection in Highly Structured Logic Arrays
+International Symposium on Fault Tolerant Computing 1984
+Concurrent Error Detection in Iterative Logic Arrays
+Strongly Code Disjoint Checkers
+Error Reporting in the Intel iAPX 432
+Installability Availability Reliability and Maintainability Aspects of the Sperry® System 11
+Critical Issues in the Design of a Reconfigurable Control Computer
+Robust Tests for Stuck-Open Faults in CMOS Combinational Logic Circuits
+On Testability of CMOS-Domino Logic
+The Effect of Random Defects and Tester Accuracy on the Quality and Yield of VLSI Circuits
+The Effect of Imperfect Periodic Maintenance on Fault Tolerant Computer Systems
+Device Failures and System Activity A Thermal Effects Model
+Modeling Imperfect Coverage in Fault-Tolerant Systems
+Byte-Oriented Error-Correcting Codes for Semiconductor Memory Systems
+A Class of Odd-Weight-Column SEC-DED-SbED Codes for Memory System Applications
+Systematic Unidirectional Error Detecting Codes
+Experimental Validation of Six Fault-Tolerant Software Reliability Models
+Adaptive Software Reliability Modelling
+Stopping Rules for a Debugging Process Based on Different Software Reliability Models
+Panel 2 Measurement and Experimentation Dependability and Performance Evaluation
+Panel 3 Fault-Tolerance Issues in Implementation of Systems Using Wafer-Scale Integration
+Multiple Fault Detection and Location in Large Combinational Circuits
+Fault Coverage of Pseudo-Exhaustive Testing
+A Delay Test Generator for Logic LSI
+Synchronization and Fault-Masking in Redundant Real-Time Systems
+Fault Tolerant Processor Concepts and Operation
+MEUNET A High Performance High Availability Packet Switch
+Program EDARSMS for Evaluation of Diagnosis and Repair Strategy in Multicomputer Systems
+Design for Diagnosability Issues in Rectangular Banyan Networks
+System-Level Self-Diagnosis in n-Cube-Connected Multiprocessor Networks
+A Statistical Study of Hardware-Related Software Errors in MVS
+Efficient Error Detection Techniques for Hash Tables in Database Systems
+Experiments in Testinq Communication Protocol Implementations
+A Functional Testing Method for Microprocessors
+Functional Testing of Microprocessors in a User Environment
+Experimental Results from Random Testing of Microprocessors
+A Fault-Tolerant Architecture for Network Storage Systems
+Fault-Tolerant Crosspoint Switching Networks
+Reliability and Fault Diagnosis Analysis of Fault-Tolerant Multistage Interconnection Networks
+Design Approach for a VLSI Self-Checking MIL-STD-1750A Microprocessor
+Totally Self Checking Checkers for Low Cost Arithmetic Codes
+The Design of Totally Self-Checking Embedded Checkers
+Towards Fault Tolerance in a Distributed Applicative Multiprocessor
+A Knowledge-Based System Using Design for Testability Rules
+The Application of Artificial Intelligence Techniques to Reliable and Fault-Tolerant Computing
+Built-In Tests for VLSI Finite-State Machines
+A Testbed for Evaluating Fault-Tolerant Distributed Systems
+Assigning Processes to Processors A Fault-Tolerant Approach
+Panel Sessions on Measurement and Experimentation Dependability and Performance Evaluation
+t-Error Correcting All Unidirectional Error Detecting Codes Starting from Cyclic AN Codes
+Two Dimensional ARC Codes
+A Rotational (14·449) SEC-DED-S4ED Code for Byte Organized Fault Tolerant Memory Applications
+DMERT A Fault Tolerant Environment for Diverse Applications
+TDFS A Distributed File Server for Reliable Applications in Telecommunication Systems
+Increased Fault Coverage through Multiple Signatures
+A New Condensed Linear Feedback Shift Register Design for VLSI/System Testing
+Signature Analysis of Multi-Output Circuits
+Optimistic Recovery An Asynchronous Approach to Fault-Tolerance in Distributed Systeims
+Fault Tolerant Techniques for Control Signals in Bus Communication Protocols
+Dynamically Reconfigurable Fault-Tolerant Array Processors
+Processor Monitoring Using Asynchronous Signature Instruction Streams
+Fault-Tolerant Multibus Architectures for Multiprocessors
+A Hardware Supported General Rollback Technique
+RMISE and C1nt Two Fault-Tolerant Interconnection ß-Networks
+Group Graphs As Interconnection Networks
+A Practical Variation of the O(n2.5) Fault Diagnosis Algorithm
+A PLA Design for Ease of Test Generation
+Orphan Detection
+International Symposium on Fault Tolerant Computing 1987
+On the Correctness of Orphan Elimination Algorithms
+Sender-Based Message Logging
+CONT A Concurrent Test Generation Algorithm
+Is There Hope for Linear Time Fault Simulation?
+Fault Analysis in Switch-Level Networks by Implicit Enumeration
+(Almost) No Cost Clock Synchronization (Preliminary Version)
+Consensus with Dual Failure Modes
+Diagnosis of Processors with Byzantine Faults in a Distributed Computing System
+A Probabilistic Approach to Locally Exhaustive Testing
+Shift Register Testing of Sequential Machines
+Algebraic and Structural Computation of Signal Probability and Fault Detectability in Combinational Circuits
+Crash Recovery for Binary Trees
+A Locally Correctable AVL Tree
+Avalon Language Support for Reliable Distributed Systems
+A Systematic Code for Detecting t-Unidirectional Errors
+On Unordered Codes
+Three-Level Totally Self-Checking Checker For 1-out-of-n Code
+Hardware- and Software-Fault Tolerance Definition and Analysis of Architectural Solutions
+Data Diversity An Approach to Software Fault Tolerance
+Community Error Recovery in N-Version Software A Design Study with Experimentation
+Concurrent Error Correction in Unidirectional Linear Arithmetic Arrays
+Extended Precision Checksums
+A Conceptual Model of Multi-Version Software
+An Empirical Study of Software Error Detection Using Self-Checks
+Efficient Scheduling in a TMR Database System
+A General Purpose Cache-Aided Rollback Error Recovery (CARER) Technique
+A Highly Available Storage System Using the Checksum Method
+System-Level Fault Diagnosis in Malicious Environments
+System-Level Fault Diagnosability in Probabilistic and Weighted Models
+A Synthesis Approach to Design Optimally Fault Tolerant Network Architecture
+A Concurrent Error Detecting Conjugate Gradient Algorithm on a Hypercube Multiprocessor
+Fault-Tolerant Convolution Using Real Systematic Cyclic Codes
+Performance Analysis of a Generalized Upset Detection Procedure
+A Performability Analysis of Two Multi-Processor Systems
+Monte Carlo Simulation of Computer System Availability/Reliability Models
+Software Dependability of a Telephone Switching System
+Using Redundancy for Concurrent Testing and Repairing of Systolic Arrays
+Reconfiguration of VLSI Arrays A Covering Approach
+Self Test Using Unequiprobable Random Patterns
+On the Reconvergent Structure of Combinational Circuits with Applications to Compact Testing
+Methodologies for Testing Embedded Content Addressable Memories
+Cost Analysis of On Chip Error Control Coding for Fault Tolerant Dynamic RAMs
+Test Generation for Arithmetic Units by Graph Labelling
+Yield and Reliability Enhancement of Large Area Binary Tree Architectures
+A Reconfigurable Modular Fault Tolerant Binary Tree Architecture
+An Approach to Fault Diagnosis in Multimicrocomputer Systems Algorithm and Simulation
+A Fault Tolerant Signalling Transfer Point
+Building Dependable Systems How to Keep Up with Complexity
+International Symposium on Fault Tolerant Computing 1995
+Design of Fault-Tolerant Computers
+Niche Successes to Ubiquitous Invisibility Fault-Tolerant Computing Past Present and Future
+Software Dependability A Personal View
+Dependable Computing Concepts Limits Challenges
+Dependability in Telecommunications
+Automotive Electronics--Present State and Future Prospects
+Dependable Medical Systems
+Probabilistic Modeling
+Challenges in Fault Detection
+Experimental Evaluation [1995]
+Availability of Commercial Parallel Systems
+International Symposium on Fault Tolerant Computing 1996
+Dependability of Railway Control Systems
+A Unified Built-In-Self-Test Scheme UBIST
+International Symposium on Fault Tolerant Computing 1988
+Some Related Problems in Architecture and Fault-Tolerance Exception Detection Recovery and Securlty
+International Symposium on Fault Tolerant Computing 1989
+The Fault Tolerance Approach of the Advanced Architecture On-Board Processor
+Dependable Onboard Computer Systems with a New Method Stepwise Negotiating Voting
+Use of a Functional Programming Model in Fault Tolerant Parallel Processing
+An Economical Scan Design for Sequential Logic Test Generation
+Row/Column Pattern Sensitive Fault Detection in RAMs via Built-In Self-Test
+Advanced Automatic Test Pattern Generation Techniques for Path Delay Faults
+On Self-Diagnosable Multiprocessor Systems Diagnosis by the Comparison Approach
+Fault Diagnosis for Sparsely Interconnected Multiprocessor Systems
+Fault-Tolerance in the Advanced Automation System (Invited)
+International Symposium on Fault Tolerant Computing 1990
+Distributed Syndrome Decoding for Regular Interconnected Structures
+Fault-Tolerance in a High-Speed 2D Convolver/Correlator Starloc
+Design and Reconfiguration Strategies for Near-Optimal k-Fault-Tolerant Tree Architectures
+Imperfectly Connected 2-D Arrays for Image Processing
+Comprehensive Evaluation of a Two-Dimensional Configurable Array
+Easily Testable PLA-Based Finite State Machines
+The Design of Random-Testable Sequential Circuits
+BALLAST A Methodology for Partial Scan Design
+Design of Fault-Tolerant Clocks with Realistic Failure Assumptions
+A Fast Timing Verification Method Based on the Independence of Units
+Clock Synchronization in MAFT
+Ultrahigh Reliability Estimates for Systems Exhibiting Globally Time-Dependent Failure Processes
+Evaluation of Fault-Tolerant Systems with Nonhomogeneous Workloads
+Modeling of Fault-Tolerant Techniques in Hierarchical Systems
+Performability of a Token Bus Network under Transient Fault Conditions
+Using Passive Replicates in Delta-4 to Provide Dependable Distributed Computing
+Distance Agreement Protocols
+A Design for a Fault-Tolerant Distributed Implementation of Linda
+Some New EC/AUED Codes
+Unidirectional 9-bit Byte Error Detecting Codes for Computer Memory Systems
+Byte Unidirectional Error Correcting Codes
+Design of Efficient Balanced Codes
+Defects and Reliability Analysis of Large Software Systems Field Experience
+Fault Tolerant Multiprocessor for Digital Switching Systems
+F-T in Telecommunications Networks State Perspectives Trends
+Reliable Design of High-Speed Cache and Control Store Memories
+A System for Supporting Multi-Language Versions for Software Fault Tolerance
+Fault Identification in Robust Data Structures
+Formal Verification of Programs with Exceptions
+Pseudo-Exhaustive Test and Segmentation Formal Definitions and Extended Fault Coverage Results
+Computations over Finite Monoids and their Test Complexity
+A New Approach of Test Confidence Estimation
+Estimation of Maximum Currents for Fault Tolerant Design of Power Distribution Systems in Integrated Circuits
+A Proposal for a Fault-Tolerant Binary Hypercube Architecture
+Message Routing in HARTS with Faulty Components
+Evaluation of Error Detection Schemes Using Fault Injection by Heavy-ion Radiation
+Fault Injection for Dependability Validation of Fault-Tolerant Computing Systems
+Understanding Large System Failures A Fault Injection Experiment
+Workload Redistribution for Fault-Tolerance in a Hard Real-Time Distributed Computing System
+Modelling Correlated Transient Failures in Fault-Tolerant Systems
+Optimal Control of Latent Fault Accumulation
+A Strongly Fault-Secure and Strongly Code-Disjoint Realization of Combinational Circuits
+A Generalized Theory of Fail-Safe Systems
+Fault Detection in CVS Parity Trees Application to SSC CVS Parity and Two-Rail Checkers
+Specification and Proof of a Distributed Recovery Algorithm for Functional Languages
+Techniques for Facilitating the Design of Fault Tolerant Systems
+Simulation of the JPL Mark-III Hypercube
+Fault Detection and Diagnosis of K-UCP Circuits Under Totally Observable Condition
+Automating Mission Critical Computing Systems Development
+Advanced Information Processing System Avionics Design Methodology
+TERESA An Expert System for Automatic Switched Services Maintenance
+AI Technology for On-Line Fault Testing and Localization
+An Expert System for Diagnosis of Local Area Networks
+Diagnosing Problems in On-Line Computing Systems
+Control-Flow Checking Using Watchdog Assists and Extended-Precision Checksums
+A Study of Time-Redundant Fault Tolerance Techniques for High-Performance Pipelined Computers
+A Theoretical Investigation of Generalized Voters for Redundant Systems
+Replication Within Atomic Actions and Conversations A Case Study in Fault-Tolerance Duality
+Fast Simulation of Large Markovian Reliability/Availability Models for Repairable Fault-Tolerant Computer Systems
+CHAOSart Support for Real-Time Atomic Transactions
+Language Constructs for Timed Atomic Commitment
+Neural Computing for Built-In Self-Repair of Embedded Memory Arrays
+Bi-Level Reconfigurations of Fault Tolerant Arrays in Bi-Modal Computational Environments
+An Automorphic Approach to the Design of Fault-Tolerant Microprocessors
+On the Provision of Backward Error Recovery in Production Programming Languages
+Hardware Assisted Recovery from Transient Errors in Redundant Processing Systems
+Recoverable Distributed Shared Virtual Memory Memory Coherence and Storage Structures
+An Analytical Model for Computing Hypercube Availability
+Fail-Softness Evaluation in Multiple-Bus Local Computer Networks
+Detailed Modeling of Fault-Tolerant Processor Arrays
+Characterization and Design of Sequentially t-Diagnosable Systems
+Probabilistic Diagnosis of Multiprocessor Systems with Arbitrary Connectivity
+Reliability Analysis and Comparison of Two Fail-op/Fail-op/Fail-safe Architectures
+Challenges in Designing Fault-Tolerant Systems
+International Symposium on Fault Tolerant Computing 1991
+Designing Error Detection and Recovery for a Fault-Tolerant Computer System
+Evolving Systems for Continuous Availability
+Practical Problems in the Design of Fault-Tolerant Hardware
+Design Process for High Availability Systems
+On Establishing Fault Tolerance Objectives
+A Fault-Tolerant FFT Processor [1991]
+Protecting Processing Elements in Communications Satellites
+International Symposium on Fault Tolerant Computing 1992
+Replicated Distributed Processes in Manetho
+Active Replication in Delta-4
+Design for Fault-Tolerance in System ES/9000 Model 900
+Dynamic Reconfiguration of CSP Programs for Fault Tolerance
+Compiler-Assisted Static Checkpoint Insertion
+Transis A Communication Sub-System for High Availability
+Fault-Tolerant Real-Time Communication in Distributed Computing Systems
+The t/(n-1)-Diagnosability and its Applications to Fault Tolerance
+Design of Fully Exercised SFS/SCD Logic Networks
+Design of Static CMOS Self-Checking Circuits Using Built-In Current Sensing
+Multiple Signature Analysis A Framework for Built-In Self-Diagnostic
+Design and Analysis of Multibus Systems Using Projective Geometry
+Uniformization and Exponential Transformation Techniques for Fast Simulation of Highly Dependable Non-Markovian Systems
+Design and Modeling of Clustered RAID
+Fast Simulation of Markovian Reliability/Availability Models with General Repair Policies
+Efficient Fault-Tolerant Mesh and Hypercube Architectures
+Free Dimensions An Effective Approach to Achieving Fault Tolerance in Hypercubes
+Optimal Ring Embedding in Hypercubes with Faulty Links
+Routing in Modular Fault Tolerant Multiprocessor Systems
+Performance Bounds in List Scheduling of Redundant Tasks on Multi-Processors
+Scheduling Message Processing for Reducing Rollback Propagation
+Reliability Modeling of Large Fault-Tolerant Systems
+Models for Time Coalescence in Event Logs
+Divide-and-Conquer Approach to Test Generation for Large Synchronous Sequential Circuits
+Finite State Machine Testing Based on Growth and Disappearance Faults
+An Efficient Test Generation Algorithm Based on Search State Dominance
+Testing with Correlated Test Vectors
+Removal of Redundancy in Logic Circuits Under Classification of Undetectable Faults
+Incorporating Testability Considerations in High-Level Synthesis
+Synthesis of Multi-Level Combinational Circuits for Complete Robust Path Delay Fault Testability
+Structural Technique for Fault-Protection in Asynchronous Interfaces
+On Combining Off-Line BIST and On-Line Control Flow Checking
+Direct Methods for Synthesis of Self-Monitoring State Machines
+A Study of the Effects of Transient Fault Injection Into a 32-Bit RISC with Built-In Watchdog
+Two Software Techniques for On-Line Error Detection
+FERRARI A Tool for the Validation of System Dependability Properties
+Fault Injection for the Formal Testing of Fault Tolerance
+A New Statistical Approach for Fault-Tolerant VLSI Systems
+Chip Test Optimization Using Defect Clustering Information
+Wafer Testing with Pairwise Comparisons
+Failure Mode Assumptions and Assumption Coverage
+Closure and Convergence A Formulation of Fault-Tolerant Computing
+Optimal Algorithms for Exact Inexact and Approval Voting
+Fault Tolerant Neural Networks in Optimization Problems
+Protecting Practical FFT Implementations that Share Common Processing Elements
+More Robust Tests in Algorithm-Based Fault-Tolerant Matrix Multiplication
+Efficient Utilization of Spare Capacity for Fault Detection and Location in Multiprocessor Systems
+Design and Analysis of Software Reconfiguration Strategies for Hypercube Multicomputers Under Multiple Faults
+Outage Times in Fault-Tolerant Systems
+Recovery/Serviceability System Test Improvements for the IBM ES/9000 520 Based Models
+Latent Design Faults in the Development of Multiflow's TRACE/200
+A Comparison of Software Defects in Database Management Systems and Operating Systems
+Unordered Error-Correcting Codes and Their Applications
+Single b-Bit Byte Error Correcting and Double Bit Error Detecting Codes for High-Speed Memory Systems
+Efficient Multiple Unidirectional Byte Error-Detecting Codes for Computer Memory Systems
+Improved Construction Methods for Error Correcting Constant Weight Codes
+Scheduling with Rollback Constraints in High-Level Synthesis of Self-Recovering ASICs
+A Posteriori Agreement for Fault-Tolerant Clock Synchronization on Broadcast Networks
+Analysis and Experimental Evaluation of Comparison-Based System-Level Diagnosis for Multiprocessor Systems
+International Symposium on Fault Tolerant Computing 1994
+Efficient Algorithmic Circuit Verification Using Indexed BDDs
+A Cache Protocol for Error Detection and Recovery in Fault-Tolerant Computing Systems
+Faster Checkpointing with N+1 Parity
+On the Use and Implementation of Message Logging
+A Study of Throughput Degradation Following Single Node Failure in a Data Sharing System
+Identifying Software Problems Using Symptoms
+The Impact of Fault Expansion on the Interval Estimate for Fault Detection Coverage
+On Latching Probability of Particle Induced Transients in Combinational Networks
+Communication in a Configurable Fault-Tolerant and Distributed UNIX System
+International Symposium on Fault Tolerant Computing 1986
+Realization Validation and Operation of a Fault-Tolerant Multiprocessor ARMURE
+High Performance Fault Tolerant Real Time Computer Architecture
+Design of NMOS Strongly Fault Secure Circuits Using Unidirectional Errors Detecting Codes
+Built-In Self Test of a CMOS ALU
+The Concept of a Fault-Tolerant and Easily-Testable Associative Memory
+Field Experience of Computer Controlled Switching Systems
+Mechanisms to Enhance File Availability in Distributed Systems
+Voting with a Variable Number of Copies
+System-Level Primitives for Fault-Tolerant Distributed Computing
+Algorithmic Generation of Test Patterns for Circuits with Tri-State Modules
+An Application of Unate Function Theory to Functional Testing
+Testing in Two-Dimensional Iterative Logic Arrays
+The System Availability Estimator
+On a Class of Integrated Performance/Reliability Models Based on Queueing Networks
+METEFAC Design and Implementation of a Software Tool for Modeling and Evaluation of Complex Fault-Tolerant Computing Systems
+Fault-Diagnosis in a Multiple-Path Interconnection Network
+Fault-Tolerant Routing in Multistage Interconnection Networks
+Constructions of Large Fault-Tolerant Communication Network Models
+Backward Error Recovery in a UNIX Environment
+Implementing a General Error Recovery Mechanism in a Distributed Operating System
+A Scheme for Coordinated Execution of Independently Designed Recoverable Distributed Processes
+Experimental Evaluation of Two Concurrent Error Detection Schemes
+'Votrics' Voting Triple Modular Computing System
+An Experiment on the Size of Fault Detection Tests for Testable PLAs
+Software Errors in Experimental Systems Having Ultra-Reliabily Requirements
+An Empirical Study of Failure Probabilities in Multi-Version Software
+The Effectiveness of Software Error-Detection Mechanisms in Real-Time Operating Systems
+Fault-Masking with Reduced Redundant Communication
+Fault-Tolerant Issues in the Design of a Highly Available High-Speed Controller for HVDC Transmission
+The Container Concept for Relaying Packets in Fault-Tolerant Computer Networks
+Panel on Safety Issues for Computer Controlled Systems
+Design and Performance Evaluation of Mutually Synchronized Fault-Tolerant Clock Systems
+The Impact of Communication Network Properties on Reliable Broadcast Protocols (Preliminary Version)
+Clock Synchronization in the Presence of Omission and Performance Faults and Processor Joins
+Hybrid Fault Diagnosability with Unreliable Communication Links
+On Complexity of Diagnosability and Diagnosis Problems in System-Level Diagnosis
+An Efficient Algorithm for Multiprocessor Fault Diagnosis Using the Comparison Approach
+Evaluation of Global Checkpoint Rollback Strategies for Error Recovery in Concurrent Processing Systems
+Numerical Evaluation of Performability and Job Completion Time in Repairable Fault-Tolerant Systems
+Fault Latency in the Memory An Experimental Study on VAX 11/780
+Random Testing Versus Deterministic Testing of RAMs
+Markov Models for the Random Testing Analysis of Cards
+Transition Faults in Combinational Circuits Input Transition Test Generation and Fault Simulation
+Reconfigurable Cube-Connected Cycles Architectures
+A Graph Model for Diagnosis and Reconfiguration and Its Application to a Fault-Tolerant Multiprocessor System
+Concurrent Fault Diagnosis in Multiple Processor Systems
+Fault Diagnosis by Testable Diagnosis Array
+A Built-In Self-Testable Design Method for Sequential Circuits
+An Exact Analysis for Efficient Computation of Random-Pattern Testability in Combinational Circuits
+Fast and Easily Testable Implementation of Arithmetic Functions
+Two-Dimensional Low-Cost Arithmetic Residue Codes Effectiveness and Arithmetic Algorithms
+A Byzantine Resilient Fault Tolerant Computer for Nuclear Power Plant Applications
+On Implementing Fault-Tolerance in Binary Hypercubes
+A Fault-Tolerant Multipipeline Architecture
+A Self-Exercising Self-Checking Memory Design
+Evaluation of Transient Hazards in Microprocessor Controllers
+Fault Collapsing Techniques for MOS VLSI Circuits
+Knowledge-Based Testing and Diagnosis of Analog Circuit Boards
+Exception Handling in Replicated Systems with Voting
+The Use of Prolog for Executable Specification and Verification of Easily Testable Designs
+Parallel Multisignature Analysis of Faults in the Multi-Output Digital System
+Pseudoexhaustive Test Pattern Generator with Enhanced Fault-Coverage
+A General Scheme to Optimize Error Masking in Built-In Self-Testing
+Improved Parallel Signature Checkers/Analyzers
+METFAC Design and Implementation of a Software Tool for Modeling and Evaluation of Complex Fault-Tolerant Computing Systems
+Fault Tolerance Using Communicating Sequential Processes
+Software Implemented Fault Tolerance Technologies and Experience
+International Symposium on Fault Tolerant Computing 1993
+Optimal Resiliency Against Mobile Faults (Extended Abstract)
+The Variation of Software Survival Time for Different Operational Input Profiles
+Randomized Distributed Agreement Revisited (Extended Abstract)
+Panel Limits in Dependability in the Context of Distributed Systems
+Designing High-Performance & Reliable Superscalar Architectures The Out of Order Reliable Superscalar (O3RS) Approach
+International Conference on Dependable Systems and Networks 2000
+Validating the Intel Pentium 4 Microprocessor
+International Conference on Dependable Systems and Networks 2001
+Managing Dependencies A Key Problem in Fault-Tolerant Distributed Algorithms
+International Symposium on Fault Tolerant Computing 1997
+An Approach to Fault-Tolerant Parallel Processing on Intermittently Idle Heterogeneous Workstations
+Renegotiable Quality of Service A New Scheme for Fault Tolerance in Wireless Networks
+VERIFY Evaluation of Reliability Using VHDL-Models with Embedded Fault Descriptions
+Toward Accessibility Enhancement of Dependability Modeling Techniques and Tools
+Evaluation of a 32-Bit Microprocessor with Built-In Concurrent Error-Detection
+Probabilistic Checkpointing
+Portable Checkpointing for Heterogeneous Architectures
+A Communication-Induced Checkpointing Protocol that Ensures Rollback-Dependency Traceability
+A Method to Automate User Interface Testing Using Variable Finite State Machines
+MetriStation A Tool for User-Interface Fault Detection
+Towards a Statistical Approach to Testing Object-Oriented Programs
+Work in Progress and Outrageous Opinions
+How Hard Is Hard Real-Time Communication on Field-Buses?
+Experimental Evaluation of Failure-Detection Schemes in Real-Time Communication Networks
+Graceful Degradation in Real-Time Control Applications Using (m k)-Firm Guarantee
+ACTIV-LOCSTEP A Test Generation Procedure Based on Logic Simulation and Fault Activation
+Robust Search Algorithms for Test Pattern Generation
+Optimal Structural Diagnosis of Wiring Networks
+A New Approach to Realizing Fault-Tolerant Multiprocessor Scheduling by Exploiting Implicit Redundancy
+Fault Recovery Mechanism for Multiprocessor Servers
+An Object-Oriented Testbed for the Evaluation of Checkpointing and Recovery Systems
+Using Non-Volatile Storage to Improve the Reliability of RAID5 Disk Arrays
+Using Virtual Links for Reliable Information Retrieval Across Point-to-Point Networks
+On the Design of Constant Weight Codes for VLSI Systems
+On Finding an Optimal Combination of Error Detection Mechanisms Based on Results of Fault Injection Experiments
+Dependability Analysis of a Commercial High-Speed Network
+Fault-Injection-Based Testing of Fault-Tolerant Algorithms in Message-Passing Parallel Computers
+Model- and Experiment-Based Evaluation Tools Tool Demonstration Sessions
+Robust Emulation of Shared Memory Using Dynamic Quorum-Acknowledged Broadcasts
+Fail-Awareness An Approach to Construct Fail-Safe Applications
+A Lightweight Solution to Uniform Atomic Broadcast for Asynchronous Systems
+Integrating Checkpointing with Transaction Processing
+Implementing the Swiss Exchange Trading System
+A Flexible Clustered Approach to High Availablity
+Partial Scan Beyond Cycle Cutting
+Microarchitectural Synthesis of ICS with Embedded Concurrent Fault Isolation
+COFTA Hardware-Software Co-Synthesis of Heterogeneous Distributed Embedded System Architectures for Low Overhead Fault Tolerance
+Discriminating Fault Rate and Persistency to Improve Fault Treatment
+A General Model for Reliability Maximization Problem Under Given Redundancy
+Predicting Physical Processes in the Presence of Faulty Sensor Readings
+Experimental Evaluation of Computer-Based Railway Control Systems
+Reliability-Oriented Design of a Distributed Control System for High-Voltage Switchgear Stations
+Redundancy Management Software Services for Seawolf Ship Control System
+Panel Vision for High-Availability of the Global Infrastructure
+International Symposium on Fault Tolerant Computing 1998
+Panel Cyber Threats
+How Fail-Stop are Faulty Processes?
+Xception Enhanced Automated Fault-Injection Environment
+International Conference on Dependable Systems and Networks 2002
+Session 6A Overview  Panel Dependability and the Grid
+Panel on Dependability Benchmarking Overview Methods Techniques and Approaches
+Intrusion Tolerant Systems Workshop
+Workshop on Dependability and Robotics
+Dependability of E-Commerce Systems Workshop Agenda
+Workshop on Dependability Benchmarking
+Workshop on Dependable Middleware-Based Systems
+Dependable Computer Networks
+International Conference on Dependable Systems and Networks 2003
+MAFALDA-RT A Tool for Dependability Assessment of Real-Time Systems
+PoDSy 2003 Principles of Dependable Systems Workshop
+Model Checking for Dependable Software-Intensive Systems Workshop
+First Workshop on the Design of Self-Managing Systems
+Self-Stabilization Workshop
+Proceedings of the 2004 International Conference on Dependable Systems and Networks (DSN 2004)
+International Conference on Dependable Systems and Networks 2004
+A Portable Implementation Framework for Intrusion-Resilient Database
+Workshop on Assurance Cases Best Practices Possible Obstacles and Future Opportunities
+NonStop Advances Architecture
+International Conference on Dependable Systems and Networks 2005
+How Resilient are Distributed f Fault/Intrusion-Tolerant Systems?
+A Data-Centric Approach to Checksum Reuse for Array-Intensive Applications
+Testing the Dependability and Performance of Group Communication Based Database Replication Protocols
+Dependability Benchmarking of Computing Systems
+Workshop on Dependable Software  Tools and Methods
+1st Workshop on Hot Topics in System Dependability (HotDep 05)
+Workshop on Assurance of Networking Systems Dependability Service Level Agreements
+Memory-Conscious Reliable Execution on Embedded Chip Multiproces
+International Conference on Dependable Systems and Networks 2006
+Static Analysis to Enforce Safe Value Flow in Embedded Control
+Barbarians in the Gate An Experimental Validation of NIC-based Distributed Firewall Performance and Flood Tolerance
+In-Register Duplication Exploiting Narrow-Width Value for Improving Register
+Run-Time Reconfiguration for Emulating Transient Faults in VLSI Systems
+A General Framework for Scalability and Performance Analysis of DHT
+Designing dependable storage solutions for
+Accurate and Automated System Call Policy-Based
+Performance Assurance via Software Rejuvenation
+Automatic Recovery Using Bounded Partially Observable Markov Decision
+An Approach for Detecting and Distinguishing Errors versus Attacks in Sensor Networks
+A Component-Level Path Composition Approach for
+Empirical and Analytical Evaluation of Systems with
+Workshop on Applied Software Reliability (WASR)
+Transparent redundancy in the time-triggered architecture
+Resource scheduling in dependable integrated modular avionics
+Executable assertions for detecting data errors in embedded control systems
+Experiences with group communication middleware
+Towards dependable home networking an experience report
+Design implementation and performance of checkpointing in NetSolve
+Efficient incremental checkpointing of Java programs
+A C/C++ source-to-source compiler for dependable applications
+Assessment of the applicability of COTS microprocessors in high-confidence computing systems a case study
+Evaluating COTS standards for design of dependable systems
+Whither generic recovery from application faults? A fault study using open-source software
+Software-implemented fault detection for high-performance space applications
+An automatic SPIN validation of a safety critical railway control system
+Sensitivity analysis on dependencies in dynamic availability models for large systems
+Fault-tolerant execution of mobile agents
+Exploiting non-determinism for reliability of mobile agent systems
+A new rolling stock architecture using safety computers and networks
+Reliability-availability-serviceability characteristics of a compressed-memory system
+A fault tolerant signal processing computer
+Performability of algorithms for connection admission control
+On the quality of service of failure detectors
+Fault-secure scheduling of arbitrary task graphs to multiprocessor systems
+Diagnosis of regular structures
+OFTT a fault tolerance middleware toolkit for process monitoring and control Windows NT applications
+DEEM a tool for the dependability modeling and evaluation of multiple phased systems
+Loki a state-driven fault injector for distributed systems
+Sensitivity analysis for system design improvement
+Joint evaluation of performance and robustness of a COTS DBMS through fault-injection
+Robustness testing of the Microsoft Win32 API
+From crash fault-tolerance to arbitrary-fault tolerance towards a modular approach
+Dynamic byzantine quorum systems
+A tool suite for diagnosis and testing of software design specifications
+Enabling automated analysis through the formalization of object-oriented modeling diagrams
+Deadlock detection of EFSMs using simultaneous reachability analysis
+A low latency loss tolerant architecture and protocol for wide area group communication
+A reliable many-to-many multicast protocol for group communication over ATM networks
+A gossip-based reliable multicast for large-scale high-throughput applications
+Fault-tolerant Ethernet for IP-based process control A demonstration
+Demonstration of the remote exploration and experimentation (REE) fault-tolerant parallel-processing supercomputer for spacecraft onboard scientific data processing
+Test-point insertion to enhance test compaction for scan designs
+Method to recover Internet packet losses using (n n-1 m) convolutional codes
+One-shot Reed-Solomon decoding for high-performance dependable systems
+A fault injection approach based on reflective programming
+On the emulation of software faults by software fault injection
+Reliability testing of applications on Windows NT
+Implementing flexible object group invocation in networked systems
+Implementing e-Transactions with asynchronous replication
+Data replication strategies for fault tolerance and availability on commodity clusters
+Designing high-performance and reliable superscalar architectures-the out of order reliable superscalar (O3RS) approach
+Fault tolerance through re-execution in multiscalar architecture
+A fault tolerance infrastructure for dependable computing with high-performance COTS components
+Synthesis of interconnection networks A novel approach
+The best of both worlds A hybrid approach to solve consensus
+Synchronous system and perfect failure detector Solvability and efficiency issues
+The timely computing base Timely actions in the presence of uncertain timeliness
+Reconfiguration based failure restoration in wavelength-routed WDM networks
+Towards continuous availability of Internet services through availability domains
+Issues in interoperability and performance verification in a multi-ORB telecommunications environment
+Algorithms for improving the dependability of firewall and filter rule lists
+Dynamic-distributed differentiated service for multimedia applications
+Testing for software vulnerability using environment perturbation
+Survivability analysis of network specifications
+Benchmarking anomaly-based detection systems
+Avoiding loss of fairness owing to process crashes in fair data exchange protocols
+A formal-specification based approach for protecting the domain name system
+The reliability of diverse systems a contribution using modelling of the fault creation process
+Difficulties measuring software risk in an industrial environment
+Techniques for estimation of design diversity for combinational logic circuits
+Concurrent error detection in fast unitary transform algorithms
+Fault-tolerant high-performance matrix multiplication theory and practice
+How to model link failures a perception-based fault model
+A checkpointing tool for Palm operating system
+Model-based synthesis of fault trees from Matlab-Simulink models
+GOOFI generic object-oriented fault injection tool
+Quantifying the reliability of embedded systems by automated analysis
+Avoiding priority inversion on the processing of requests by active replicated servers
+A dynamic replica selection algorithm for tolerating timing faults
+Online reconfiguration in replicated databases based on group communication
+Improving driver robustness an evaluation of the Devil approach
+Robustness testing and hardening of CORBA ORB implementations
+Constructing self-testable software components
+An approach for analysing the propagation of data errors in software
+Enhancing survivability of security services using redundancy
+Distributing trust on the Internet
+Protection of software-based survivability mechanisms
+Intrusion-tolerant group management in Enclaves
+FATOMAS-a fault-tolerant mobile agent system based on the agent-dependent approach
+A framework for database audit and control flow checking for a wireless telephone network controller
+Analysis of the effects of outages on the quality of service of GPRS network systems
+A secure and highly available distributed store for meeting diverse data storage needs
+State synchronization and recovery for strongly consistent replicated CORBA objects
+A procedure-based dynamic software update
+Design and evaluation of routing schemes for dependable real-time connections
+Performance evaluation of dependable real-time communication with elastic QoS
+Experimental evaluation of the fail-silent behavior of a distributed real-time run-time support built from COTS components
+A study of failure models in feedback control systems
+A strategy for testing MetaObject protocols in reflective architectures
+Applicability of non-specification-based approaches to logic testing for software
+Reducing critical failures for control algorithms using executable assertions and best effort recovery
+Run-time fault detection in monitor based concurrent programming
+Synergistic coordination between software and hardware fault tolerance techniques
+Performance validation of fault-tolerance software a compositional approach
+Graybox stabilization
+REESE a method of soft error detection in microprocessors
+A fault tolerant approach to microprocessor design
+An experimental study of security vulnerabilities caused by errors
+Scalable fault-tolerant aggregation in large process groups
+Lightweight probabilistic broadcast
+Middleware support for voting and data fusion
+The SIMBA user alert service architecture for dependable alert delivery
+Recovery in fault-tolerant distributed microcontrollers
+Ensuring dependable processor performance an experience report on pre-silicon performance validation
+The design and use of persistent memory on the DNCP hardware fault-tolerant platform
+Validating the Intel(R) Pentium(R) 4 microprocessor
+A software-implemented fault injection methodology for design and validation of system fault tolerance
+Hazard analysis in object oriented design of dependable systems
+Byzantine fault tolerance can be fast
+Performance evaluation of exception handling in I/O libraries
+Exactly-once delivery in a content-based publish-subscribe system
+An adaptive framework for tunable consistency and timeliness using replication
+Generic timing fault tolerance using a timely computing base
+Lessons learned in building a fault-tolerant CORBA system
+Model checking safety properties of servo-loop control systems
+Formal development of an embedded verifier for Java Card byte code
+Detection of invalid routing announcement in the Internet
+An adaptive architecture for monitoring and failure analysis of high-speed networks
+Edge-based fault detection in a DiffServ network
+An evaluation of connectivity in mobile wireless ad hoc networks
+Model checking performability properties
+Process modelling to support dependability arguments
+On the use of disaster prediction for failure-tolerance in feedback control systems
+On the placement of software mechanisms for detection of data errors
+Robust software no more excuses
+An automated approach to increasing the robustness of C libraries
+Secure INtrusion-Tolerant Replication on the Internet
+Coordination of mobile processes with mobile groups
+Optimizing buffer management for reliable multicast
+Reliability and survivability in the Reduced Ship's Crew by Virtual Presence system
+Impact of deep submicron technology on dependability of VLSI circuits
+Experimental evaluation of time-redundant execution for a brake-by-wire application
+Masquerade detection using truncated command lines
+Quantifying the cost of providing intrusion tolerance in group communication systems
+Developing a heterogeneous intrusion tolerant CORBA system
+Distributed object middleware to support dependable information sharing between organisations
+Dependability and the grid issues and challenges
+MAFALDA-RT a tool for dependability assessment of real-time systems
+Mr. Fusion a programmable data fusion middleware subsystem with a tunable statistical profiling service
+A dependable SNMP-based tool for distributed network management
+The design and implementation of an intrusion tolerant system
+Reducing the cost of group communication with semantic view synchrony
+SWIM scalable weakly-consistent infection-style process group membership protocol
+Probabilistic multicast
+Experimental evaluation of a COTS system for space applications
+Experimental analysis of the errors induced into Linux by three fault injection techniques
+Reliability and availability analysis for the JPL Remote Exploration and Experimentation System
+A realistic look at failure detectors
+Implementation and performance evaluation of an adaptable failure detector
+A versatile and modular consensus protocol
+Small byzantine quorum systems
+Modeling the effect of technology trends on the soft error rate of combinational logic
+Detecting processor hardware faults by means of automatically generated virtual duplex systems
+A portable and fault-tolerant microprocessor based on the SPARC v8 architecture
+Soft error sensitivity characterization for microprocessor dependability enhancement strategy
+Track-based disk logging
+Transactional rollback for language-based systems
+Time-constrained failure diagnosis in distributed embedded systems
+32-bit cyclic redundancy codes for Internet applications
+Measuring end-user availability on the Web practical experience
+Advanced pattern recognition for detection of complex software aging phenomena in online transaction processing servers
+Jaca a reflective fault injection tool based on patterns
+Automatic generation of availability models in RAScad
+Evaluating the security threat of firewall data corruption caused by instruction transient errors
+Modeling and quantification of security attributes of software systems
+Stepwise construction and refinement of dependability models
+Ditto processor
+Caveat a tool for software validation
+CLAIRE an event-driven simulation tool for test and validation of software programs
+C-Sim the C language enhancement for discrete-time simulation
+DrawNet++ a flexible framework for building dependability models
+Libsafe transparent system-wide protection against buffer overflow attacks
+NFTAPE networked fault tolerance and performance evaluator
+PhFit a general phase-type fitting tool
+SHARPE 2002 Symbolic Hierarchical Automated Reliability and Performance Evaluator
+SMART stochastic model-checking analyzer for reliability and timing
+SREPT a tool for Software Reliability Estimation and Prediction
+Xception/sup TM/ enhanced automated fault-injection environment
+Performance analysis of a consensus algorithm combining stochastic activity networks and measurements
+Performability analysis of guarded-operation duration a successive model-translation approach
+A simple characterization of provably efficient prefetching algorithms
+An experimental evaluation of the REE SIFT environment for spaceborne applications
+Pinpoint problem determination in large dynamic Internet services
+Reducing recovery time in a small recursively restartable system
+Recovery and performance balance of a COTS DBMS in the presence of operator faults
+The scale factor a new degree of freedom in phase type approximation
+Efficient state space generation of GSPNs using decision diagrams
+An adaptive decomposition approach for the analysis of stochastic Petri nets
+Parallel randomization for large structured Markov chains
+Test and development process retrospective a case study using ODC triggers
+Impact of fault management server and its failure-related parameters on high-availability communication systems
+Analysis of failure and recovery rates in a wireless telecommunications system
+Application performance assurance using end-to-end user level monitoring
+Resource management policies in GPRS wireless internet access systems
+Evaluating the impact of different document types on the performance of web cache replacement schemes
+A validation of the pseudo self-similar traffic model
+Evaluation of the maximum level reached by a queue over a finite period
+Modeling the coverage and effectiveness of fault-management architectures in layered distributed systems
+Self-organizing systems with self-diagnosability
+A compositional approach to monitoring distributed systems
+Validation and evaluation of a software solution for fault tolerant distributed synchronization
+Masquerade detection using enriched command lines
+Decision-support for certification by calculating the evidential volume of a product
+Multi-legged argumentsthe impact of diversity upon confidence in dependability arguments
+Reliable broadcast in a computational hybrid model with Byzantine faults crashes and recoveries
+Adaptive gossip-based broadcast
+Scalably supporting durable subscriptions in a publish/subscribe system
+Pragmatic fault tolerance for railway control and safety protection of the channel tunnel
+Dependability assessment of safety-critical system software by static analysis methods
+Integrating recovery strategies into a primary substation automation system
+The OLAP and data warehousing approaches for analysis and sharing of results from dependability evaluation experiments
+Building SWIFI tools from temporal logic specifications
+Definition of software fault emulation operators a field data study
+Robustness benchmarking for hardware maintenance events
+Evaluation of fault handling of the time-triggered architecture with bus and star topology
+LSRP local stabilization in shortest path routing
+A preemptive deterministic scheduling algorithm for multithreaded replicas
+An algorithm for automatically obtaining distributed and fault-tolerant static schedules
+Detection and handling of MAC layer misbehavior in wireless networks
+A study of packet delivery performance during routing convergence
+Low overhead fault tolerant networking in Myrinet
+Dependable and secure data storage and retrieval in mobile wireless networks
+Design implementation and evaluation of repairable file service
+From crash tolerance to authenticated byzantine tolerance a structured approach the cost and benefits
+Adaptive software rejuvenation degradation model and rejuvenation scheme
+Human-machine diversity in the use of computerised advisory systems a case study
+Rambo II rapidly reconfigurable atomic memory for dynamic networks
+The design of wearable systems a shift in development effort
+Dynamic verification of end-to-end multiprocessor invariants
+ICR in-cache replication for enhancing data cache reliability
+Benchmarking the dependability of different OLTP systems
+Persistent-state checkpoint comparison for troubleshooting configuration failures
+HEALERS a toolkit for enhancing the robustness and security of existing applications
+The anacapa system
+Node failure detection and membership in CANELy
+Design and implementation of a consistent time service for fault-tolerant distributed systems
+Asynchronous implementation of failure detectors
+Communication strategies for heartbeat-style failure detectors in wireless ad hoc networks
+TPC server fault tolerance using connection migration to a backup server
+Transparent TCP connection failover
+Engineering fault-tolerant TCP/IP servers using FT-TCP
+N-way fail-over infrastructure for reliable servers and routers
+On the design of robust integrators for fail-bounded control systems
+A fault-tolerant java virtual machine
+Towards implementing multi-layer reflection for fault-tolerance
+Automatic detection and masking of non-atomic exception handling
+Characterization of linux kernel behavior under errors
+Reproducible dependability benchmarking experiments based on unambiguous benchmark setup descriptions
+A hybrid fault injection approach based on simulation and emulation co-operation
+Pre-processing input data to augment fault tolerance in space applications
+Duplex a reusable fault tolerance extension framework for network access devices
+Reliable communication in overlay networks
+Dependability enhancement for IEEE 802.11 wireless LAN with redundancy techniques
+Cost-optimization of the IPv4 zeroconf protocol
+Evaluating the condition-based approach to solve consensus
+How bad are wrong suspicions? towards adaptive distributed protocols
+A combinatorial method for the evaluation of yield of fault-tolerant systems-on-chip
+Real-time estimation of event-driven traffic latency distributions when layered on static schedules
+ParEs aparameter-estimation-tool
+Compiler-directed program-fault coverage for highly available Java internet services
+A data-driven finite state machine model for analyzing security vulnerabilities
+Probabilistic validation of an intrusion-tolerant replication system
+An abstract interpretation-based timing validation of hard real-time avionics software
+Performance analysis of a hierarchical failure detector
+Comparison of failure detectors and group membership performance study of two atomic broadcast algorithms
+Opportunity-adaptive qos enhancement in satellite constellations a case study
+Jaca a software fault injection tool
+INERTE integrated nexus-based real-time fault injection tool for embedded systems
+Hardware fault injection with UMLinux
+On integrating the MOBIUS and MODEST modeling tools
+Dependable LQNS a performability modeling tool for layered systems
+ETMCC model checking performability properties of Markov chains
+A methodology for dependability and performability analysis in SAM
+Reliability analysis of fault-tolerant systems with common-cause failures
+Validation of approximate dependability models of a RAID architecture with orthogonal organization
+A user-perceived availability evaluation of a web based travel agency
+Software aging and multifractality of memory resources
+Deadlock resolution via exceptions for dependable Java applications
+A voltage scheduling heuristic for real-time task graphs
+On dynamic assignment of impatient customers to parallel queues
+Keynote recent discoveries from paxos
+Performance and dependability of structured peer-to-peer overlays
+Robust aggregation protocols for large-scale overlay networks
+Impact of path diversity on multi-homed and overlay networks
+Fault detection and isolation techniques for quasi delay-insensitive circuits
+Tolerating hard faults in microprocessor array structures
+Characterizing the effects of transient faults on a high-performance processor pipeline
+Dynamic quarantine of Internet worms
+HOURS achieving DoS resilience in an open service hierarchy
+Robust protection against fault-injection attacks on smart cards implementing the advanced encryption standard
+A defense-centric taxonomy based on attack manifestations
+A practical analysis of low-density parity-check erasure codes for wide-area storage applications
+A decentralized algorithm for erasure-coded virtual disks
+Efficient Byzantine-tolerant erasure-coded storage
+Cyclic redundancy code (CRC) polynomial selection for embedded networks
+Fault tolerant computation on ensemble quantum computers
+The recursive nanobox processor grid a reliable system architecture for unreliable nanotechnology devices
+The impact of technology scaling on lifetime reliability
+Model checking a fault-tolerant startup algorithm from design exploration to exhaustive fault simulation
+Verifying Web applications using bounded model checking
+Automated synthesis of multitolerance
+Exposing and eliminating vulnerabilities to denial of service attacks in secure gossip-based multicast
+Data-aware multicast
+Timed uniform consensus resilient to crash and timing faults
+Caching-enhanced scalable reliable multicast
+The effect of testing on reliability of fault-tolerant software
+Quantifying the reliability of proven SPIDER group membership service guarantees
+Generic faultloads based on software faults for dependability benchmarking
+Improving system dependability with functional alternatives
+Cheap Paxos
+The join problem in dynamic network algorithms
+A framework for dynamic Byzantine storage
+Dependable initialization of large-scale distributed software
+A bi-criteria scheduling heuristic for distributed embedded systems under reliability and real-time constraints
+Proactive recovery in distributed CORBA applications
+Assured reconfiguration of embedded real-time software
+Fault tolerance tradeoffs in moving from decentralized to centralized embedded systems
+Fault diversity among off-the-shelf SQL database servers
+Does your result checker really check?
+Experience with evaluating human-assisted recovery processes
+Automated system design for availability
+Secure distributed DNS
+SCIDIVE a stateful and cross protocol intrusion detection architecture for voice-over-IP environments
+A portable implementation framework for intrusion-resilient database management systems
+A qualitative analysis of the intrusion-tolerance capabilities of the MAFTIA architecture
+FRTR a scalable mechanism for global routing table consistency
+On failure dependent protection in optical grooming networks
+Analyses of the reverse path forwarding routing algorithm
+Delivering packets during the routing convergence latency interval through highly connected detours
+An adaptive algorithm for efficient message diffusion in unreliable environments
+Efficient hierarchic management for reconfiguration of networked information systems
+Collective endorsement and the dissemination problem in malicious environments
+Support for mobility and fault tolerance in Mykil
+Implementing simple replication protocols using CORBA portable interceptors and Java serialization
+In advance activation of backup channels for real-time transmission
+Why PCs are fragile and what we can do about it a study of Windows registry problems
+Dependable adaptive real-time applications in wormhole-based systems
+High throughput Byzantine fault tolerance
+An architectural framework for providing reliability and security support
+Diverse firewall design
+Component middleware to support non-repudiable service interactions
+Customizing dependability attributes for mobile service platforms
+Discovering 1-FT routes in mobile ad hoc networks
+Intrusion tolerance and anti-traffic analysis strategies for wireless sensor networks
+Safety optimization a combination of fault tree analysis and optimization techniques
+Repairable fault tree for the automatic evaluation of repair policies
+Availability measurement and modeling for an application server
+Benchmarking the dependability of Windows NT4 2000 and XP
+Checkpointing of control structures in main memory database systems
+Hierarchical computation of interval availability and related metrics
+Model checking action- and state-labelled Markov chains
+Model checking dependability attributes of wireless group communication
+Min-max checkpoint placement under incomplete failure information
+Assessing the impact of dynamic power management on the functionality and the performance of battery-powered appliances
+An SLA-oriented capacity planning tool for streaming media services
+QoS of timeout-based self-tuned failure detectors the effects of the communication delay predictor and the safety margin
+Optimal object state transfer recovery policies for fault tolerant distributed systems
+Failure data analysis of a large-scale heterogeneous server environment
+Evaluating the impact of limited resource on the performance of flooding in wireless sensor networks
+Fault tolerant energy aware data dissemination protocol in sensor networks
+Cluster-based failure detection service for large-scale ad hoc wireless network applications
+A Markov reward model for reliable synchronous dataflow system design
+A method for performance analysis of earliest-deadline-first scheduling policy
+An efficient algorithm for the transient analysis of a class of deterministic stochastic Petri nets
+Analysis of second-order Markov reward models
+On benchmarking the dependability of automotive engine control applications
+Characterization of the impact of faulty drivers on the robustness of the Linux kernel
+A framework for evaluating storage system dependability
+Error sensitivity of the Linux kernel executing on PowerPC G4 and Pentium 4 processors
+Workshop on interdisciplinary approaches to achieving and analysing system dependability
+Diwans workshop on dependability issues in wireless ad hoc networks and sensor networks
+Twin workshops on architecting dependable systems (wads 2004)
+Workshop on fault diagnosis and tolerance in cryptography
+Workshop on assurance cases best practices possible obstacles and future opportunities 1 July 2004 Florence Italy
+Student forum
+Fast abstracts
+Observation of Local and Distant Earthquakes and Tsunami Warning System
+Assured reconfiguration of fail-stop systems
+NonStop/spl reg/ advanced architecture
+How fast can eventual synchrony lead to consensus?
+ReStore symptom based soft error detection in microprocessors
+Combining error masking and error detection plus recovery to combat soft errors in static CMOS circuits
+On-line detection of control-flow errors in SoCs by means of an infrastructure IP core
+User interface dependability through goal-error prevention
+Stability monitoring and analysis of learning in an adaptive system
+Effective testing and debugging techniques for a group communication system
+Error propagation profiling of operating systems
+How resilient are distributed f fault/intrusion-tolerant systems?
+Towards a theory of insider threat assessment
+Constructing multi-layered boundary to defend against intrusive anomalies an autonomic detection coordinator
+A model of stateful firewalls and its properties
+GoCast gossip-enhanced overlay multicast for fast and dependable group communication
+SMRP fast restoration of multicast sessions from persistent failures
+Efficient Byzantine broadcast in wireless ad-hoc networks
+Internet routing anomaly detection and visualization
+Assessing the performance of erasure codes in the wide-area
+Finding critical traffic matrices
+A distributed state monitoring service for adaptive application management
+Definition and specification of accrual failure detectors
+The effects of algorithmic diversity on anomaly detector performance
+On partial protection in groomed optical WDM mesh networks
+Resilient routing layers for recovery in packet networks
+Perturbation-resistant and overlay-independent resource discovery
+Cruz Application-Transparent Distributed Checkpoint-Restart on Standard Operating Systems
+A multi-level meta-object protocol for fault-tolerance in complex architectures
+Crash data collection a Windows case study
+Scalable and robust WLAN connectivity using access point array
+Ringing out fault tolerance. A new ring network for superior low-cost dependability
+A system demonstration of ST-TCP
+A data-centric approach to checksum reuse for array-intensive applications
+Small parity-check erasure codes exploration and observations
+Using erasure codes efficiently for storage in a distributed system
+Coverage and the use of cyclic redundancy codes in ultra-dependable systems
+Authenticated system calls
+Detecting stealth software with Strider GhostBuster
+Defeating memory corruption attacks via pointer taintedness detection
+Checking array bound violation using segmentation hardware
+Panel Statement
+Fast Byzantine consensus
+A hybrid and adaptive model for fault-tolerant distributed computing
+Adaptive indulgent consensus
+Microarchitecture-based introspection a technique for transient-fault tolerance in microprocessors
+Reversible fault-tolerant logic
+Co-design based approach to improve robustness in networked control systems
+H-RAFT heuristic reachability analysis for fault tolerance protocols modelled in SDL
+Filtering failure logs for a BlueGene/L prototype
+Design time reliability analysis of distributed fault tolerance algorithms
+SoftArch an architecture-level tool for modeling and analyzing soft errors
+ADEPTS adaptive intrusion response using attack graphs in an e-commerce environment
+Neutralization of errors and attacks in wireless ad hoc networks
+Modeling and automated containment of worms
+Fatih detecting and isolating malicious routers
+Combining response surface methodology with numerical models for optimization of class-based queueing systems
+On a method for mending time to failure distributions
+A performability-oriented software rejuvenation framework for distributed applications
+Optimizing the pulsing denial-of-service attacks
+Towards a security benchmark for database management systems
+An experimental evaluation to determine if port scans are precursors to an attack
+LITEWORP a lightweight countermeasure for the wormhole attack in multihop wireless networks
+Experimental evaluation of the QoS of failure detectors on wide area network
+Probabilistic QoS guarantees for supercomputing systems
+Ensembles of models for automated diagnosis of system performance problems
+A framework for node-level fault tolerance in distributed real-time systems
+Experimental dependability evaluation of a fail-bounded jet engine control system for unmanned aerial vehicles
+TIBFIT trust index based fault tolerance for arbitrary data faults in sensor networks
+Improving TCP performance for multihop wireless networks
+A spatial fluid-based framework to analyze large-scale wireless sensor networks
+Are you still there? A lightweight algorithm to monitor node presence in self-configuring networks
+A novel approach for fitting probability distributions to real trace data with the EM algorithm
+Model checking Markov reward models with impulse rewards
+A wavefront parallelisation of CTMC solution using MTBDDs
+Lumping matrix diagram representations of Markov models
+Neutron SER characterization of microprocessors
+Microprocessor sensitivity to failures control vs. execution and combinational vs. sequential logic
+Engineering over-clocking reliability-performance trade-offs for high-performance register files
+Analysis of probabilistic trapezoid protocol for data replication
+Testing the dependability and performance of group communication based database replication protocols
+Model-based failure analysis of journaling file systems
+Modeling coordinated checkpointing for large-scale supercomputers
+Workshop Abstract
+Delivering Dependability A Moving Target
+Efficient High Hamming Distance CRCs for Embedded Networks
+Memory-Conscious Reliable Execution on Embedded Chip Multiprocessors
+Static Analysis to Enforce Safe Value Flow in Embedded Control Systems
+The Startup Problem in Fault-Tolerant Time-Triggered Communication
+A Reconfigurable Generic Dual-Core Architecture
+A Dependable System Architecture for Safety-Critical Respiratory-Gated Radiation Therapy
+User Interface Defect Detection by Hesitation Analysis
+Dynamic Verification of Memory Consistency in Cache-Coherent Multithreaded Computer Architectures
+Automatic Instruction-Level Software-Only Recovery
+Exploring Fault-Tolerant Network-on-Chip Architectures
+Scaling Byzantine Fault-Tolerant Replication toWide Area Networks
+Optimal Resilience for Erasure-Coded Byzantine Distributed Storage
+Lucky Read/Write Access to Robust Atomic Storage
+One-step Consensus with Zero-Degradation
+Consensus with Byzantine Failures and Little System Synchrony
+Solving Atomic Broadcast with Indirect Consensus
+Eventual Leader Election with Weak Assumptions on Initial Knowledge Communication Reliability and Synchrony
+Hotspots The Root Causes of Non-Uniformity in Self-Propagating Malware
+A Multi-Resolution Approach forWorm Detection and Containment
+Honeypot-Aware Advanced Botnet Construction and Maintenance
+HoVer Erasure Codes For Disk Arrays
+Storage Allocation in Unreliable Peer-to-Peer Systems
+Reliability for Networked Storage Nodes
+A large-scale study of failures in high-performance computing systems
+Tracking Probabilistic Correlation of Monitoring Data for Fault Detection in Complex Systems
+Efficiently Detecting All Dangling Pointer Uses in Production Servers
+In-Register Duplication Exploiting Narrow-Width Value for Improving Register File Reliability
+CADRE Cycle-Accurate Deterministic Replay for Hardware Debugging
+Collecting and Analyzing Failure Data of Bluetooth Personal Area Networks
+Improving BGP Convergence Delay for Large-Scale Failures
+Secure Split Assignment Trajectory Sampling A Malicious Router Detection System
+A General Framework for Scalability and Performance Analysis of DHT Routing Systems
+Dependability Analysis of Virtual Memory Systems
+Assessment of the Effect of Memory Page Retirement on System RAS Against Hardware Faults
+Designing dependable storage solutions for shared application environments
+A Statistical Analysis of Attack Data to Separate Attacks
+VoIP Intrusion Detection Through Interacting Protocol State Machines
+Mitigating Active Attacks Towards Client Networks Using the Bitmap Filter
+Accurate and Automated System Call Policy-Based Intrusion Prevention
+BlueGene/L Failure Analysis and Prediction Models
+Performance Assurance via Software Rejuvenation Monitoring Statistics and Algorithms
+Automatic Recovery Using Bounded Partially Observable Markov Decision Processes
+Using Attack Injection to Discover New Vulnerabilities
+Assessing the Attack Threat due to IRC Channels
+A Component-Level Path Composition Approach for Efficient Transient Analysis of Large CTMCs
+Evaluating the Performability of Systems with Background Jobs
+A Contribution Towards Solving the Web Workload Puzzle
+Empirical and Analytical Evaluation of Systems with Multiple Unreliable Servers
+R-Opus A Composite Framework for Application Performability and QoS in Shared Resource Pools
+Cost-Effective Configuration of Content Resiliency Services Under Correlated Failures
+High Throughput Total Order Broadcast for Cluster Environments
+Improving the Fault Resilience of Overlay Multicast for Media Streaming
+Randomized Intrusion-Tolerant Asynchronous Services
+A Performance Study on the Signal-On-Fail Approach to Imposing Total Order in the Streets of Byzantium
+Workshop on Architecting Dependable Systems (WADS)
+Workshop on Empirical Evaluation of Dependability and Security (WEEDS)
+Student Forum
+Fast Abstracts
+Science and Engineering A Collusion of Cultures
+International Conference on Dependable Systems and Networks 2007
+Augmenting Branch Predictor to Secure Program Execution
+A Firewall for Routers Protecting against Routing Misbehavior
+An Architectural Approach to Preventing Code Injection Attacks
+Failure Resilience for Device Drivers
+Fault Tolerance Connectors for Unreliable Web Services
+Robustness and Security Hardening of COTS Software Libraries
+Automatic Verification and Discovery of Byzantine Consensus Protocols
+Knowledge Connectivity vs. Synchrony Requirements for Fault-Tolerant Agreement in Unknown Networks
+Communication Predicates A High-Level Abstraction for Coping with Transient and Dynamic Faults
+Synchronous Consensus with Mortal Byzantines
+Reliability Techniques for RFID-Based Object Tracking Applications
+Profiling Attacker Behavior Following SSH Compromises
+Dependability Assessment of Grid Middleware
+Assessing Robustness of Web-Services Infrastructures
+Protecting Cryptographic Keys from Memory Disclosure Attacks
+Fault Tolerant Planning for Critical Robots
+Insights into the Sensitivity of the BRAIN (Braided Ring Availability Integrity Network)--On Platform Robustness in Extended Operation
+A Tunable Add-On Diagnostic Protocol for Time-Triggered Systems
+Enhanced Reliability Modeling of RAID Storage Systems
+On a Modeling Framework for the Analysis of Interdependencies in Electric Power Systems
+Superscalar Processor Performance Enhancement through Reliable Dynamic Clock Frequency Tuning
+Determining Fault Tolerance of XOR-Based Erasure Codes Efficiently
+Fault Tolerant Approaches to Nanoelectronic Programmable Logic Arrays
+Concilium Collaborative Diagnosis of Broken Overlay Routes
+R-Sentry Providing Continuous Sensor Services against Random Node Failures
+A Fast Rejuvenation Technique for Server Consolidation with Virtual Machines
+A Cost-Effective Dependable Microcontroller Architecture with Instruction-Level Rollback for Soft Error Recovery
+Architecture-Level Soft Error Analysis Examining the Limits of Common Assumptions
+Feedback Redundancy A Power Efficient SEU-Tolerant Latch Design for Deep Sub-Micron Technologies
+Using Register Lifetime Predictions to Protect Register Files against Soft Errors
+Using Process-Level Redundancy to Exploit Multiple Cores for Transient Fault Tolerance
+Inherent Time Redundancy (ITR) Using Program Repetition for Low-Overhead Fault Tolerance
+Utilizing Dynamically Coupled Cores to Form a Resilient Chip Multiprocessor
+BlackJack Hard Error Detection with Redundant Threads on SMT
+Confidence Its Role in Dependability Cases for Risk Assessment
+Assurance Based Development of Critical Systems
+Multiprocessors May Reduce System Dependability under File-Based Race Condition Attacks
+Understanding Resiliency of Internet Topology against Prefix Hijack Attacks
+User Discrimination through Structured Writing on PDAs
+How to Choose a Timing Model?
+Electing an Eventual Leader in an Asynchronous Shared Memory System
+Minimizing Response Time for Quorum-System Protocols over Wide-Area Networks
+HyParView A Membership Protocol for Reliable Gossip-Based Broadcast
+A Lightweight Mechanism for Dependable Communication in Untrusted Networks
+Dynamic Cross-Realm Authentication for Multi-Party Service Interactions
+Enhancing DNS Resilience against Denial of Service Attacks
+Automatic Cookie Usage Setting with CookiePicker
+Greedy Receivers in IEEE 802.11 Hotspots
+Emergent Structure in Unstructured Epidemic Multicast
+The Case for FEC-Based Reliable Multicast in Wireless Mesh Networks
+On the Selection of Error Model(s) for OS Robustness Evaluation
+Experimental Risk Assessment and Comparison Using Software Fault Injection
+Foundations of Measurement Theory Applied to the Evaluation of Dependability Attributes
+A Framework for Architecture-Level Lifetime Reliability Modeling
+Processor-Level Selective Replication
+Robustness Testing of the Windows DDK
+SLAM Sleep-Wake Aware Local Monitoring in Sensor Networks
+What Supercomputers Say A Study of Five System Logs
+How Do Mobile Phones Fail? A Failure Data Analysis of Symbian OS Smart Phones
+A Real-Time Network Traffic Profiling System
+RAS by the Yard
+Web Services Wind Tunnel On Performance Testing Large-Scale Stateful Web Services
+Application of Software Watchdog as a Dependability Software Service for Automotive Safety Relevant Systems
+Evaluating the Impact of Simultaneous Round Participation and Decentralized Decision on the Performance of Consensus
+On the Cost of Modularity in Atomic Broadcast
+Eventually k-Bounded Wait-Free Distributed Daemons
+Measuring Availability in Optimistic Partition-Tolerant Systems with Data Constraints
+Scaling and Continuous Availability in Database Server Clusters through Multiversion Replication
+Improving Recoverability in Multi-tier Storage Systems
+Portable and Efficient Continuous Data Protection for Network File Servers
+Variational Bayesian Approach for Interval Estimation of NHPP-Based Software Reliability Models
+Dynamic Fault Tree Analysis Using Input/Output Interactive Markov Chains
+Uniformity by Construction in the Analysis of Nondeterministic Stochastic Systems
+A Reinforcement Learning Approach to Automatic Error Recovery
+On the Quality of Service of Crash-Recovery Failure Detectors
+E2EProf Automated End-to-End Performance Management for Enterprise Systems
+Bounding Peer-to-Peer Upload Traffic in Client Networks
+Performability Models for Multi-Server Systems with High-Variance Repair Durations
+Computing Battery Lifetime Distributions
+Quantifying the Effectiveness of Mobile Phone Virus Response Mechanisms
+DSN 2007 Tutorials
+DSN 2007 Workshops
+Workshop on Dependable Application Support for Self-Organizing Networks (DASSON 2007)
+Third Workshop on Hot Topics in System Dependability HotDep'07
+Workshop on Architecting Dependable Systems (WADS 2007)
+Assurance Cases for Security The Metrics Challenge
+Workshop on Dependable and Secure Nanocomputing
+The National Programme for Information Technology in the UK Health Service Dependability Challenges and Strategies
+Industry Session
+PODS revisited-a study of software failure behaviour
+A large scale second generation experiment in multi-version software description and early results
+In search of effective diversity a six-language study of fault-tolerant flight control software
+A sequential circuit test generation using threshold-value simulation
+Advanced automatic test pattern generation and redundancy identification techniques
+Generating pattern sequences for the pseudo-exhaustive test of MOS-circuits
+Volatile logging in n-fault-tolerant distributed systems
+Approaches to implementation of a repairable distributed recovery block scheme
+Fault tolerant concurrent C a tool for writing fault tolerant distributed programs
+Computational complexity of controllability/observability problems for combinational circuits
+An iterative technique for calculating aliasing probability of linear feedback signature registers
+RIDDLE a foundation for test generation on a high level design description
+Analysis of workload influence on dependability
+Reliability analysis of non repairable systems using stochastic Petri nets
+An open layered architecture for dependability analysis and its application
+FIAT-fault injection based automated testing environment
+On simulating faults in parallel
+Accelerated fault simulation by propagating disjoint fault-sets
+A reconvergent fanout analysis for efficient exact fault simulation of combinational circuits
+Fault simulation in a multilevel environment the MOZART approach
+Modelling the influence of unreliable software in distributed computer systems
+Dependability evaluation of software fault-tolerance
+Experimental evaluation of software reliability growth models
+A unified built-in-test scheme UBIST
+An implementation and analysis of a concurrent built-in self-test technique
+An on-line error-detectable array divider with a redundant binary representation and a residue code
+General linear codes for fault-tolerant matrix operations on processor arrays
+Watchdog parity channels for digital filter protection
+Robust search methods for B-trees
+Saturation reduced idleness for improved fault-tolerance
+Agreeing on who is present and who is absent in a synchronous distributed system
+An easily testable parallel multiplier
+On the design of robust testable CMOS combinational logic circuits
+The design of fast totally self-checking Berger code checkers based on Berger code partitioning
+The implementation and application of micro rollback in fault-tolerant VLSI systems
+Hardware and software fault tolerance a unified architectural approach
+The Delta-4 approach to dependability in open distributed computing systems
+Fault tolerant parallel processor architecture overview
+Almost certain diagnosis for intermittently faulty systems
+On minimizing testing rounds for fault identification
+A recursive procedure for optimally designing a hybrid fault diagnosable system
+A probabilistic method for fault diagnosis of multiprocessor systems
+Diagnostic reasoning in digital systems
+GEMINI-a logic system for fault diagnosis based on set functions
+Reliabilities of two fault-tolerant interconnection networks
+Fault-tolerant BIBD networks
+Disk dual copy methods and their performance
+Reliable design of large crosspoint switching networks
+Design and reconfiguration strategies for near-optimal <e1>k</e1>-fault-tolerant tree architectures
+A fault-tolerant parallel processor modeled by a linear cellular automaton
+Approaches for the repair of VLSI/WSI RRAMs by row/column deletion
+Minimum fault coverage in reconfigurable arrays
+Masking asymmetric line faults using semi-distance codes
+An evaluation of system-level fault tolerance on the Intel hypercube multiprocessor
+An efficient multi-dimensional grids reconfiguration algorithm on hypercube
+The connectivity of hypergraph and the design of fault-tolerant multibus systems
+Multiple stuck-at fault testability of self-testing checkers
+Polynomial time solvable fault detection problems
+Three-valued neural networks for test generation
+CATCH-compiler-assisted techniques for checkpointing
+Cache-aided rollback error recovery (CARER) algorithm for shared-memory multiprocessor systems
+Cache management in a tightly coupled fault tolerant multiprocessor
+Checkpointing and rollback-recovery in distributed object based systems
+Design and analysis of test schemes for algorithm-based fault tolerance
+A fault-tolerant strategy for hierarchical control in distributed computing systems
+Static allocation of process replicas in fault tolerant computing systems
+A novel concurrent error detection scheme for FFT networks
+A dependence graph-based approach to the design of algorithm-based fault tolerant systems
+Hierarchical design and analysis of fault-tolerant multiprocessor systems using concurrent error detection
+Loss-tolerance for electronic wallets
+A formalism for monitoring real-time constraints at run-time
+Impact of reconfiguration logic on the optimization of defect-tolerant integrated circuits
+Fault covers in reconfigurable PLAs
+Availability evaluation of MIN-connected multiprocessors using decomposition technique
+Estimates of MTTF and optimal number of spares of fault-tolerant processor arrays
+Fault-tolerance in the Advanced Automation System
+Anomaly detection for diagnosis
+A software fault tolerance experiment for space applications
+An experience of a critical software development
+Identifying the cause of detected errors
+An analysis of a reconfigurable binary tree architecture based on multiple-level redundancy
+Fault-intolerance of reconfigurable systolic arrays
+Strategies for reconfiguring hypercubes under faults
+Distributed algorithms for shortest-path deadlock-free routing and broadcasting in arbitrarily faulty hypercubes
+Limits to the fault-tolerance of a feedforward neural network with learning
+Effects of transient gate-level faults on program behavior
+Failure analysis and modeling of a VAXcluster system
+Zero aliasing compression
+Signature analysers based on additive cellular automata
+Burst asymmetric/unidirectional error correcting/detecting codes
+A highly decentralized implementation model for the programmer-transparent coordination (PTC) scheme for cooperative recovery
+Specification and proof of a distributed recovery algorithm
+Reliable diagnosis and repair in constant-degree multiprocessor systems
+Optimal multiple syndrome probabilistic diagnosis
+Practical application and implementation of distributed system-level diagnosis theory
+Design of microprocessors with built-in on-line test
+The minimal test set for sorting networks and the use of sorting networks in self-testing checkers for unordered codes
+Distributed probabilistic fault diagnosis for multiprocessor systems
+Tolerating transient faults in MARS
+The error-resistant interactively consistent architecture (ERICA)
+The Delta-4 extra performance architecture (XPA)
+Fast simulation of dependability models with general failure repair and maintenance processes
+On the modeling of workload dependent memory faults
+On the modelling and testing of recovery block structures
+The transformation approach to the modeling and evaluation of the reliability and availability growth
+On the design of path delay fault testable combinational circuits
+Fault detection and diagnosis of <e1>k</e1>-UCP circuits under totally observable condition
+Optimized synthesis of self-testable finite state machines
+Techniques for building dependable distributed systems multi-version software testing
+On the performance of software testing using multiple versions
+Error models for robust storage structures
+Using certification trails to achieve software fault tolerance
+Concurrent error detection and correction in real-time systolic sorting arrays
+A software based approach to achieving optimal performance for signature control flow checking
+Modeling recovery time distributions in ultrareliable fault-tolerant systems
+Software defects and their impact on system availability-a study of field failures in operating systems
+Error/failure analysis using event logs from fault tolerant systems
+Fault tolerance testing in the Advanced Automation System
+Fault-tolerance experiments of the `Hiten' onboard space computer
+TSUNAMI a path oriented scheme for algebraic test generation
+An architectural level test generator for a hierarchical design environment
+Test generation for synchronous sequential circuits using multiple observation times
+Functional test generation for pipelined computer implementations
+Design decisions for the FTM a general purpose fault tolerant machine
+The Stratus architecture
+Signature analysis with modified linear feedback shift registers (M-LFSRs)
+Signature analysis and test scheduling for self-testable circuits
+Bounds on signature analysis aliasing for random testing
+Construction and analysis of fault-secure multiprocessor schedules
+A fault-tolerant FFT processor
+Concurrent error detection and fault-tolerance in linear digital state variable systems
+The IBM S/390 Sysplex Timer
+Bridging transition and stuck-open faults in self-testing CMOS checkers
+Multiple fault analysis using a fault dropping technique
+VLSI implementation of a self-checking self-exercising memory system
+The UCLA mirror processor a building block for self-checking self-repairing computing nodes
+Load sharing in hypercube multicomputers in the presence of node failures
+Cost effectiveness analysis of different fault tolerance strategies for hypercube systems
+An evaluation of fault-tolerant hypercube architectures for onboard computing
+An optimal algorithm for distributed system level diagnosis
+An adaptive distributed system-level diagnosis algorithm and its implementation
+Probabilistic diagnosis algorithms tailored to system topology
+Certification trails for data structures
+Tolerating failures in the bag-of-tasks programming paradigm
+Fault tolerance in parallel implementations of functional languages
+Optimal broadcasting in faulty hypercubes
+A multiple-fault tolerant sorting network
+Fault-tolerant gamma interconnection networks
+Some practical issues in the design of fault-tolerant multiprocessors
+A multiple copy approach for delivering messages under deadline constraints
+State space generation for degradable multiprocessor systems
+Exploiting instruction-level resource parallelism for transparent integrated control-flow monitoring
+Optimal signature placement for processor-error detection using signature monitoring
+A new approach to control flow checking without program modification
+Fault-tolerant communications processing
+Performability analysis of distributed real-time systems with repetitive task invocation
+The RM recovery services
+Recovery concepts for data sharing systems
+Burst and unidirectional error detecting codes
+Pattern sensitive fault testing of RAMs with built-in ECC
+Fault-tolerant memory design in the IBM application system/400
+Gracefully degradable disk arrays
+An experimental study on software structural testing deterministic versus random input generation
+Evaluation of deterministic fault injection for fault-tolerant protocol testing
+Program fault tolerance based on memory access behavior
+Distributed reconfiguration and recovery in the advanced architecture on-board processor
+On the reconfiguration of memory arrays containing clustered faults
+Reconfiguration algorithm for fault-tolerant arrays with minimum number of dangerous processors
+A distributed fault tolerant architecture for nuclear reactor and other critical process control applications
+Approaches to design of temporary blackout handling capabilities and an evaluation with a real-time tightly coupled network testbed
+The role of formal methods in the requirements analysis of safety-critical systems a train set example
+System level diagnosis Combining detection and location
+The <e1>t</e1>(<e1>n</e1>-1)-diagnosability and its applications to fault tolerance
+Design of multiprocessor systems for concurrent error detection and fault diagnosis
+Integrity S2 a fault-tolerant Unix platform
+Branch recovery with compiler-assisted multiple instruction retry
+Durable memory RS/6000 system design
+Test pattern generation for path delay faults in synchronous sequential circuits using multiple fast clocks and multiple observation times
+Dynamic state and objective learning for sequential circuit automatic test generation using recomposition equivalence
+Checkpoint/rollback in a distributed system using coarse-grained dataflow
+Highly available cluster a case study
+Optimal fault-tolerant leader election in chordal rings
+Fault-tolerant routing strategy in hypercube systems
+Connectivity and fault tolerance of multiple-bus systems
+Training techniques to obtain fault-tolerant neural networks
+Experimental evaluation of the fail-silent behavior in computers without error masking
+Behavioral synthesis of testable designs
+Architectural timing verification and test for super scalar processors
+Implementing fault tolerance with an attribute and functional based model
+The performance of two-phase commit protocols in the presence of site failures
+On the effectiveness of residue code checking for parallel two's complement multipliers
+Balanced codes for noise reduction in VLSI systems
+A SEC-BED-DED code with byte plus bit error detection
+A service policy for real-time customers with (mk) firm deadlines
+Roll-forward and rollback recovery performance-reliability trade-off
+Performability-driven adaptive fault tolerance
+Checking linked data structures
+Systematic incorporation of efficient fault tolerance in systems of cooperating parallel programs
+Checking mergeable priority queues
+Modeling and analysis of system dependability using the System Availability Estimator
+Implementation of high availability mechanisms in the air traffic control SIR-S system
+Automatic verifying approach for product specification using FTA
+Concurrent error-detection and modular fault-tolerance in a 32-bit processing core for embedded space flight applications
+On codeword testing of two-rail and parity TSC checkers
+SEU-tolerant SRAM design based on current monitoring
+Concurrent error detection in self-timed VLSI
+Device-level transient fault modeling
+On microprocessor error behavior modeling
+Fault injection into VHDL models the MEFISTO tool
+Diagnosis of processor arrays
+Algorithm-based fault location and recovery for matrix computations
+Replication and allocation of task modules in distributed real-time systems
+Analysis of a fault-tolerant multiprocessor scheduling algorithm
+Effects of resource utilization monitoring in fault recovery
+Dependability at the user interface
+Measuring robustness of a fault tolerant aerospace system
+Modeling and testing a critical fault-tolerant multi-process system
+On the development of fault-tolerant on-board control software and its evaluation by fault injection
+Fault tolerance in concurrent object-oriented software through coordinated error recovery
+Implementing fault tolerant applications using reflective object-oriented programming
+Software schemes of reconfiguration and recovery in distributed memory multicomputers using the actor model
+Design verification of a super-scalar RISC processor
+Error detection and handling in a superscalar speculative out-of-order execution processor system
+Why optimistic message logging has not been used in telecommunications systems
+The ELEKTRA railway signalling system field experience with an actively replicated system with diversity
+Stopping rules for the operational testing of safety-critical software
+Evaluation of software dependability based on stability test data
+Measurement of failure rate in widely distributed software
+VAX/VMS event monitoring and analysis
+Checking the integrity of trees
+On-line error monitoring for several data structures
+Software rejuvenation analysis module and applications
+Design fault tolerance in operating systems based on a standardization project
+Completely asynchronous optimistic recovery with minimal rollbacks
+Algorithm-based diskless checkpointing for fault tolerant matrix operations
+Fault simulation of IDDQ tests for bridging faults in sequential circuits
+A new diagnosis approach for short faults in interconnects
+Node covering error correcting codes and multiprocessors with very high average fault tolerance
+A class of optimal fixed-byte error protection codes for computer systems
+Gracefully degrading systems using the bulk-synchronous parallel model with randomised shared memory
+A recoverable distributed shared memory integrating coherence and recoverability
+Reduced overhead logging for rollback recovery in distributed shared memory
+Componentwise decomposition for an efficient reliability computation of systems with repairable components
+Dependability assessment using binary decision diagrams (BDDs)
+Feasibility and effectiveness of the algorithm for overhead reduction in analog checkers
+Towards totally self-checking delay-insensitive systems
+Implicit signature checking
+A switch-level algorithm for simulation of transients in combinational logic
+Combining software-implemented and simulation-based fault injection into a single fault injection method
+Optimal recovery point insertion for high-level synthesis of recoverable microarchitectures
+Synthesizing finite state machines for minimum length synchronizing sequence using partial scan
+Synthesis for testability by sequential redundancy removal using retiming
+A flexible ServerNet-based fault-tolerant architecture
+Availability and performance evaluation of database systems under periodic checkpoints
+A model for the analysis of the fault injection process
+Process allocation for load distribution in fault-tolerant multicomputers
+A fault-tolerant protocol for location directory maintenance in mobile networks
+Fault-tolerant clock synchronization for distributed systems using continuous synchronization messages
+Self-stabilizing mutual exclusion in the presence of faulty nodes
+ARMOR analyzer for reducing module operational risk
+Dependability modelling in a prototype development framework
+OBDD-based optimization of input probabilities for weighted random pattern generation
+LOCSTEP a logic simulation based test generation procedure
+Systematic validation of pipeline interlock for superscalar microarchitectures
+Interactive consistency algorithms based on voting and error-correcting codes
+Optimal resiliency against mobile faults
+Fault tolerance in safety critical automotive applications cost of agreement as a limiting factor
+Fault-tolerance for off-the-shelf applications and hardware
+The Totem system
+Checkpointing and its applications
+Efficient failure recovery in multi-disk multimedia servers
+DEPENDABLE COMPUTING AND FAULT TOLERANCE CONCEPTS AND TERMINOLOGY
+THE STAR (SELF-TESTING-AND-REPAIRING) COMPUTER AN INVESTIGATION OF THE THEORY AND PRACTICE OF FAULT
+THE ARCHlTECTURAL ELEMENTS OF A SYMMETRIC FAULT-TOLERANT MULTIPROCESSOR
+A STUDY OF STANDARD BUILDlNG BLOCKS FOR THE DESIGN OF FAULT-TOLERANT DlSTRIBUTED COMPUTER SYSTEMS
+THE
+Error Recoverable and Securable Data Communicatlon for ComPuter Network
+HIGHLY RELIABLE LOOP COMPUTER NETWORK SYSTEM BASED ON AUTONOMOUS DECENTRALIZATION CONCEPT
+THE ARCHITECTURE OF MARS
+The Delta-4 Approach to Dependability in Open Distributed Computing Systems
+Fault Tolerant Parallel Processor Architecture Overview
+Design and Reconfiguration Strategies for Near-Optimal k-fault-tolerant Tree Architectures
+Integrity S2 A Fault-Tolerant Unix Platform
+OBSERVER A CONCEPT FOR ON-LINE DETECTION OF CONTROL ERRORS IN CONCURRENT SYSTEMS
+TRANSIENT UPSETS IN MICROPROCESSOR CONTROLLERS
+WATCHDOG PROCESSORS AND CAPABILITY CHECKING
+LOW COST SCHEMES FOR FAULT TOLERANCE IN MATRIX OPEBATIONS WITH PROCESSOR ABBAYS
+Processor Monitoring Using Asynchronous Signatured Instruction Streams
+N-VERSION PROGRAMMINC A FAULT-TOLERANCE APPROACH TO RELlABlLlTY OF SOFTWARE OPERATlON
+EXCEPTION HANDLING AND SOFTWARE-FAULT TOLERANCE
+IN SEARCH OF EFFECTIVE DIVERSITY A SIX-LANGUAGE STUDY OF FAULT-TOLERANT FLIGHT CONTROL SOFTWARE
+RELIABILITY MODELING FOR FAULT TOLERANT COMPUTERS
+PERFORMANCE RELATED RELIABILITY MEASURES FOR COMPUTING SYSTEMS
+ON EVALUATlNG THE PERFORMABlLlTY OF DEGRADABLE COMPUTlNG SYSTEMS
+SURF A PROGRAM FOR DEPENDABILITY EVALUATlON OF COMPLEX FAULT-TOLERANT COMPUTING SYSTEMS
+ARLES 81 A RELIABILITY AND LIFE--CYCLE EVALUATTON TOOL FOR FAULT-TOLERANT SYSTEMS
+MODELING IMPERFECT COVERAGE IN FAULT-TOLERANT SYSTEMS
+THE SYSTEM AVAILABlLITY ESTIMATOR
+A CONCEPTUAL MODEL OF MULTI-VERSION SOFTWARE
+DEPENDABILITY EVALUATION OF SOFTWARE FAULT-TOLERANCE
+STAREX SELF-REPAIR ROUTINES SOFTWARE RECOVERY IN THE JPL-STAR COMPUTER
+STATE RESTORATION IN DISTRIBUTED SYSTEMS
+CATCH Compiler-Assisted Techniques for Checkpointing
+Fault Tolerance in Parallel Implementations of Functional Languages
+Nonblocking and Orphan-Free Message Logging Protocols
+REALIZATION OP FAIL-SAFE SEQUENTIAL MACHINES BY USING K-OUT-OF-N CODE
+Design of Totally Self-Checking Check Circuits for M-out of-N Codes
+SHIFT REGISTERS DESIGNED FOR ON-LINE FAULT DETECTION
+A DESIGN FOR PROCESS STATE PRESERVATION ON STORAGE UNIT FAILURE
+ED/FI A TECHNIQUE FOR IMPROVING COMPUTER SYSTEM RAS
+MULTIPLIER AMD DIVIDER ARRAYS WITH CONCURRENT ERROR DETECTION
+A GENERALIZED THEORY OF FAIL+SAFE SYSTEMS
+ON THE SPECIFICATION AND ANALYSIS OF LARGE DIGITAL FUNCTIONS
+AN ENHANCEMENT TO LSSD AND SOME APPLICATIONS OF LSSD IN RELIABILITY AVAILABILITY AND SERVICEABILIT
+TEST SCHEDULING IN TESTABLE VLSI CIRCUITS
+ON THE DIAGNOSABILITY OF DIGITAL SYSTEMS
+FAULT-DIAGNOSIS IN FULLY DISTRIBUTED SYSTEMS
+An Adaptive Distributed System-Level Diagnosis Algorithm and Its Implementation
+ANALYSIS OF LOGIC CIRCUITS WITH FAULTS USING INPUT SIGNAL PROBABILITIES
+A METHODOLOGY FOR FUNCTIONAL LEVEL TESTING OF MICROPROCESSORS
+APPLICATION ORIENTED MICROPROCESSOR TEST METHOD
+AN IMPLICIT ENUMERATION ALGORITHM TO GENERATE TESTS FOR COMBINATIONAL LOGIC CIRCUITS
+RANDOM TESTING OF THE DATA PROCESSING SECTION OF A MICROPROCESSOR
+ON THE ACCELERATION OF TEST GENERATION ALGORlTHMS
+TEST GENERATION FOR SYNCHRONOUS SEQUENTIAL CIRCUITS USING MULTIPLE OBSERVATION TIMES
+WORKLOAD PERFORMANCE AND RELlABlLlTY OF DIGITAL COMPUTlNG SYSTEMS
+A STATISTICAL LOAD DEPENDENCY MODEL FOR CPU ERRORS AT SLAC
+The Design Concepts and Operational Results of Fault-tolerant Computer Systems for the Shinkansen Tr
+FlAT -- Fault Injection Based Automated Testing Environment
+FAULT INJECTION FOR DEPENDABILITY VALIDATION OF FAULT-TOLERANT COMPUTING SYSTEMS
+Simulation of Software Behavior Under Hardware Faults
+A FAULT-TOLERANT DIGITAL CLOCKING SYSTEM
+INTERACTIVE CONSISTENCY AND ITS IMPACT ON THE DESIGN IN TMR SYSTEMS
+ATOMIC BROADCAST FROM SIMPLE MESSAGE DIFFUSION TO BYZANTINE AGREEMENT
+A Formally Verified Algorithm for Interactive Consistency Under a Hybrid Fault Model
+Reconfiguration and transient recovery in state machine architectures
+Recoverable mobile environment design and trade-off analysis
+Evaluating quorum systems over the Internet
+A fault simulation method for crosstalk faults in synchronous sequential circuits
+Random pattern testing for sequential circuits revisited
+Dynamic test compaction for synchronous sequential circuits using static compaction techniques
+FT-NFS an efficient fault-tolerant NFS server designed for off-the-shelf workstations
+Design and evaluation of fault-tolerant shared file system for cluster systems
+Multiple fault diagnosis in sequential circuits using sensitizing sequence pairs
+Fault diagnosis using state information
+Modeling the dependability of CAUTRA a subset of the French air traffic control system
+A new methodology for calculating distributions of reward accumulated during a finite interval
+Algebraic techniques for the optimization of control flow checking
+Executable assertions and timed traces for on-line software error detection
+A multiple bus broadcast protocol resilient to non-cooperative Byzantine faults
+Consensus service a modular approach for building agreement protocols in distributed systems
+Group majority and strict agreement in timed asynchronous distributed systems
+Optimal two-level unequal error control codes for computer systems
+Symbol error correcting codes for memory applications
+Limitations of VLSI implementation of delay-insensitive codes
+Verification of fault tolerance and real time
+A framework for conformance testing of systems communicating through rendezvous
+Supporting nondeterministic execution in fault-tolerant systems
+Reliable broadcasting in product networks with Byzantine faults
+Spare processor allocation for fault tolerance in torus-based multicomputers
+A comparative analysis of event tupling schemes
+Generation of an error set that emulates software faults based on field data
+An approach towards benchmarking of fault-tolerant commercial systems
+The design of totally self-checking checkers for some classes of Hadamard codes
+Behavioral synthesis of fault secure controller/datapaths using aliasing probability analysis
+Efficient service of rediscovered software problems
+Formal methods for the validation of fault tolerance in autonomous spacecraft
+Compiler-assisted generation of error-detecting parallel programs
+Evaluation of checkpoint mechanisms for massively parallel machines
+The redundancy mechanisms of the Ariane 5 Operational Control Center
+Highly available directory services in DCE
+Experimental evaluation of the fail-silent behaviour in programs with consistency checks
+Testing of fault-tolerant and real-time distributed systems via protocol fault injection
+Experimental assessment of parallel systems
+Self-checking and fail-safe LSIs by intra-chip redundancy
+Technologies for designing dependable A/D converters
+Two error-detecting and correcting circuits for space applications
+Mitigating operator-induced unavailability by matching imprecise queries
+Hardware-efficient and highly-reconfigurable 4- and 2-track fault-tolerant designs for mesh-connected multicomputers
+Application transparent fault management in fault tolerant Mach
+Faults symptoms and software fault tolerance in the Tandem GUARDIAN90 operating system
+Increasing system availability through on-line software version change
+Fast simulation of steady-state availability in non-Markovian highly dependable systems
+Interval availability distribution computation
+Characterizing a lumping heuristic for a Markov network reliability model
+Comparison of hybrid modular redundant multiprocessor systems with respect to performabilities
+The design concepts and operational results of fault-tolerant computer systems for the Shinkansen train control
+Development of a benchmark to measure system robustness
+The variation of software survival time for different operational input profiles (or why you can wait a long time for a big bug to fail)
+A class of error locating codes for byte-organized memory systems
+Unidirectional error control codes
+A proposal for error-tolerating codes
+Progressive retry for software error recovery in distributed systems
+Nonblocking and orphan-free message logging protocols
+Relaxing consistency in recoverable distributed shared memory
+EXOP (Extended Operation) A new logical fault model for digital circuits
+Efficient testing of tree circuits
+A BDD-based algorithm for computation of exact fault detection probabilities
+Detection and discrimination of injected network faults
+Software fault injection and its application in distributed systems
+Simulation of software behavior under hardware faults
+Estimators for fault tolerance coverage evaluation
+Fault-tolerant wormhole routing in meshes
+Designing concurrent checking sorting networks
+Wildcard dimensions coding theory and fault-tolerant meshes and hypercubes
+Design of neural networks to tolerate the mixture of two types of faults
+Exploiting data flow information in algorithm-based fault tolerance
+Tolerance determination for algorithm-based checks using simplified error analysis techniques
+Optimum Kalman detector/corrector for fault-tolerant linear processing
+A fast and accurate gate-level transient fault simulation environment
+Wear-out simulation environment for VLSI designs
+Theory and practice of sequential machine testing and testability
+Programmable space compaction for BIST
+Balance testing of logic circuits
+Algorithmic synthesis of high level tests for data path designs
+Impact of behavioral learning on the compilation of sequential circuit tests
+An efficient replication protocol exploiting logical tree structures
+Specifying fault tolerance within Stark's formalism
+A formally verified algorithm for interactive consistency under a hybrid fault model
+Randomized distributed agreement revisited
+Fast on-line failure recovery in redundant disk arrays
+Disk array storage system reliability
+An analytic treatment of the reliability and performance of mirrored disk subsystems
+A case for fault-tolerant memory for transaction processing
+Efficient distributed diagnosis in the presence of random faults
+Distributed on-line diagnosis in the presence of arbitrary faults
+Adaptive voting for fault (VFF) node scheme for distributed self-diagnosis
+Design and synthesis for testability of synchronous sequential circuits based on strong-connectivity
+A synthesis tool for fault-tolerant finite state machines
+Optimal self-recovering microarchitecture synthesis
+TTP A time-triggered protocol for fault-tolerant real-time systems
+Virtually-synchronous communication based on a weak failure suspector
+Early delivery totally ordered multicast in asynchronous environments
+Byzantine agreement with a minimum number of messages both in the faultless and worst case
+Efficient memory access checking
+The risk of data corruption in microprocessor-based systems
+Efficient implementations of self-checking adders and ALUs
+On concurrent error detection location and correction of FFT networks
+Panel Session On  Limits In Dependability
+AIRBUS A320/A330/A340 electrical flight controls A family of fault-tolerant systems
+SACEM A fault tolerant system for train speed control
+Concurrent error detection/correction in the HAL MMU chip
+Use of protocol validation and verification techniques in the design of a fault-tolerant computer architecture
+Development of a fault tolerant computer system for the HERMES space shuttle
+A systematic and comprehensive tool for software reliability modeling and measurement
+SoRel A tool for reliability growth analysis and prediction from statistical failure data
+The use of object groups to implement dependability in a process control supervision system
+SURF-2 A program for dependability evaluation of complex hardware and software systems
+Dependability evaluation using UltraSAN
+The FIGARO dependability evaluation workbench in use Case studies for fault-tolerant computer systems
+Vision for high-availability of the global infrastructure
+A hierarchical approach for dependability analysis of a commercial cache-based RAID storage architecture
+Proving correctness of a controller algorithm for the RAID Level 5 System
+Practical issues in the use of ABFT and a new failure model
+PREACHES-portable recovery and checkpointing in heterogeneous systems
+Experimental assessment of workstation failures and their impact on checkpointing systems
+RENEW a tool for fast and efficient implementation of checkpoint protocols
+Supporting multiple levels of criticality
+Conceptual models for the reliability of diverse systems-new results
+Improving system reliability with automatic fault tree generation
+Cyber threats
+The SunSCALR framework for Internet servers
+Design implementation and evaluation of highly available distributed call processing systems
+TFT a software system for application-transparent fault tolerance
+The timed asynchronous distributed system model
+Fault-tolerant broadcasts in CAN
+A technique for automated validation of fault tolerant designs using laser fault injection (LFI)
+MEFISTO-L a VHDL-based fault injection tool for the experimental assessment of fault tolerance
+Strong partitioning protocol for a multiprocessor VME system
+Fault-tolerant communication algorithms in toroidal networks
+Fault detection and recovery coverage improvement by clock synchronized duplicated systems with optimal time diversity
+Fault tolerance via N-modular software redundancy
+Communication-induced determination of consistent snapshots
+Avoiding the babbling-idiot failure in a time-triggered communication system
+Automated robustness testing of off-the-shelf software components
+How fail-stop are faulty programs?
+Optimal replica control protocols exhibit symmetric operation availabilities
+A fault-tolerant algorithm for decentralized on-line quorum adaptation
+A generalized test generation procedure for path delay faults
+A comparison of simulation based and scan chain implemented fault injection
+From dependable computing systems to computing for integrated dependable systems?
+Reliability modeling of hard real-time systems
+Modelling software operational reliability via input domain-based reliability growth model
+Rare events in stochastic dynamical systems and failures in ultra-reliable reactive programs
+Software exploitation of a fault-tolerant computer with a large memory
+Improving software robustness with dependability cases
+How safe is probabilistic checkpointing?
+Avoiding checkpoint contamination in parallel systems
+A survivable avionics system for space applications
+Validation of the fault/error handling mechanisms of the Teraflops supercomputer
+On the use of formal techniques for validation
+Time-triggered architecture for safety-related distributed real-time systems in transportation systems
+Fault-tolerance of spaceborne semiconductor mass memories
+Fault-tolerant computer for the Automated Transfer Vehicle
+The design and architecture of the Microsoft Cluster Service-a practical approach to high-availability and scalability
+G4 a fault-tolerant CMOS mainframe
+NCAPS application high availability in Unix computer clusters
+Stable memory in substation automation a case study
+Verification of a safety-critical railway interlocking system with real-time constraints
+Dependability assessment of a computerized nuclear protection system
+Algorithm based fault tolerance versus result-checking for matrix computations
+International Symposium on Fault Tolerant Computing 1999
+An algorithm based error detection scheme for the multigrid algorithm
+MetaKernels and fault containment wrappers
+Comparing the robustness of POSIX operating systems
+Multiprocessor architecture using an audit trail for fault tolerance
+Egida an extensible toolkit for low-overhead fault-tolerance
+Incremental messages micro-kernel services for flexible and efficient management of replicated data
+Rigorous development of a safety-critical system based on coordinated atomic actions
+The systematic improvement of fault tolerance in the Rio file cache
+AR-SMT a microarchitectural approach to fault tolerance in microprocessors
+Routing and wavelength assignment for establishing dependable connections in WDM networks
+Interference robust TCP
+Effect of failures on optimal location management algorithms
+Cots hardware and software in high-availability systems
+Efficient network-flow based techniques for dynamic fault reconfiguration in FPGAs
+Two-step algorithms for maximal diagnosis of wiring interconnects
+Fault identification algorithmic a new formal approach
+A fault tolerance framework for CORBA
+The performance of database replication with group multicast
+Design implementation and performance evaluation of a CORBA group communication service
+An execution service for a partitionable low bandwidth network
+Automatic design of optimal concurrent fault detector for linear analog systems
+Some transmission time analysis for the parallel asynchronous communication scheme
+Fault tolerance channel coding and arithmetic source coding combined
+On the necessity of on-line-BIST in safety-critical applications-a case-study
+Winckp a transparent checkpointing and rollback recovery tool for Windows NT applications
+A user-level checkpointing library for POSIX threads programs
+The DSPNexpress 2.000 performance and dependability modeling environment
+The Galileo fault tree analysis tool
+Special seminar intrusion detection
+An analysis of communication induced checkpointing
+The average availability of parallel checkpointing systems and its importance in selecting runtime parameters
+Reducing test application time for full scan embedded cores
+Synthesis of circuits derived from decision diagrams-combining small delay and testability
+Experimental study of Internet stability and backbone failures
+A Columbus' egg idea for CAN media redundancy
+Message logging in mobile computing
+Evaluating the effectiveness of fault tolerance in replicated database management systems
+Identification of test cases using a formal approach
+Performance and reliability evaluation of passive replication schemes in application level fault tolerance
+Dependability analysis of distributed computer systems with imperfect coverage
+Real time estimation for usage-dependent reliability on a dual-backbone network subsystem
+Wrapping windows NT software for robustness
+Functional and faulty behavior analysis some experiments and lessons learnt
+Programmable memory BIST and a new synthesis framework
+The algebra of security
+IEEE Symposium on Security and Privacy 1988
+Concerning modeling of computer security
+Security specifications
+A secure distributed operating system
+Extended discretionary access controls
+A fault tolerance approach to computer viruses
+A prototype real-time intrusion-detection expert system
+Views as the security objects in a multilevel secure relational database management system
+ASDViews [relational databases]
+Inference aggregation detection in database management systems
+A bandwidth computation model for covert storage channels and its applications
+Reasoning about knowledge in multilevel secure distributed systems
+Implementing commercial data integrity with secure capabilities
+Using mandatory integrity to enforce `commercial' security
+The trusted path between SMITE and the user
+Cascaded authentication
+Reverification of a microprocessor
+Noninterference and the composability of security properties
+A formal specification and verification method for the prevention of denial of service
+An axiomatic basis of trust in distributed systems
+Security policy modeling for the next-generation packet switch
+The SeaView security model
+A near-term design for the SeaView multilevel database system
+Controlling logical inference in multilevel database systems
+Network security the parts of the sum
+IEEE Symposium on Security and Privacy 1989
+Statistical models of trust TCBs vs. people
+Symbol security condition considered harmful
+New methods for immediate revocation
+A secure identity-based capability system
+Access meditation in a message passing kernel
+A formal model for Unix setuid
+Policy vs. mechanism in the Secure TUNIS operating system
+The incorporation of multi-level IPC into Unix
+Aggregation and inference facts and fallacies
+A security model for object-oriented databases
+A security policy for an A1 DBMS (a trusted subject)
+On the cell suppression by merging technique in the lattice model of summary tables
+Using narrowing in the analysis of key management protocols
+A software engineering approach to designing trustworthy software
+Formal model of a trusted file server
+LOCK trek navigating uncharted space
+Tea and I an allergy [computer security]
+Security issues in policy routing
+The hierarchical model of distributed system security
+The Chinese Wall security policy
+A new security policy model
+A framework for expressing models of security policy
+On the derivation of secure components
+A model for secure information flow
+Transformation of access rights
+A model for specifying multi-granularity integrity policies
+Detection of anomalous computer session activity
+Layering central authentication on existing distributed system terminal services
+Authenticated group key distribution scheme for a large distributed network
+Defending systems against viruses through cryptographic authentication
+A proposal for a verification-based virus filter
+With microscope and tweezers an analysis of the Internet virus of November 1988
+The design and implementation of a secure auction service
+IEEE Symposium on Security and Privacy 1995
+Cryptographic credit control in pre-payment metering systems
+Preserving privacy in a network of mobile computers
+Holding intruders accountable on the Internet
+Integrating security in CORBA based object architectures
+Practical Domain and Type Enforcement for UNIX
+A multilevel file system for high assurance
+Formal methods in the THETA kernel
+Absorbing covers and intransitive non-interference
+CSP and determinism in security modelling
+The semantics and expressive power of the MLR data model
+A network version of the Pump
+An architecture for covert channel control in realtime networks and multiprocessors
+Version pool management in a multilevel secure multiversion transaction manager
+Capacity estimation and auditability of network covert channels
+Supporting security requirements in multilevel real-time databases
+The Intel 80x86 processor architecture pitfalls for secure systems
+Recent-secure authentication enforcing revocation in distributed systems
+Reasoning about accountability in protocols for electronic commerce
+The Interrogator model
+An analysis of the timed Z-channel
+IEEE Symposium on Security and Privacy 1996
+Defining noninterference in the temporal logic of actions
+Computer security training and education a needs analysis
+A security policy model for clinical information systems
+What do we mean by entity authentication?
+A fair non-repudiation protocol
+Limitations on design principles for public key protocols
+Ensuring atomicity of multilevel transactions
+View-based access control with high assurance
+Supporting multiple access control policies in database systems
+An immunological approach to change detection algorithms analysis and implications
+A sense of self for Unix processes
+Cryptovirology extortion-based security threats and countermeasures
+A security model of dynamic labelling providing a tiered approach to verification
+A communication agreement framework for access/action control
+Decentralized trust management
+Security properties and CSP
+Java security from HotJava to Netscape and beyond
+On two proposals for on-line bankcard payments using open networks problems and solutions
+Secure network objects
+Run-time security evaluation (RTSE) for distributed applications
+Is The Trusted Computing Base Concept Fundamentally Flawed?
+IEEE Symposium on Security and Privacy 1997
+Some weaknesses of the TCB model
+Is the reference monitor concept fatally flawed? The case for the negative
+Toward acceptable metrics of authentication
+An authorization scheme for distributed object systems
+A logical language for expressing authorizations
+Anonymous connections and onion routing
+The design and implementation of a multilevel secure log manager
+A secure and reliable bootstrap architecture
+An MBone proxy for an application gateway firewall
+Secure software architectures
+A general theory of security properties
+Analyzing consistency of security policies
+Ensuring assurance in mobile computing
+Filtering postures local enforcement for global policies
+Providing flexibility in information flow control for object oriented systems
+Automated analysis of cryptographic protocols using Murφ
+How to systematically classify computer security intrusions
+Surviving information warfare attacks on databases
+Execution monitoring of security-critical programs in distributed systems a specification-based approach
+Catalytic inference analysis detecting inference threats due to knowledge discovery
+Security in innovative new operating systems
+Research on proof-carrying code for untrusted-code security
+Access control for the SPIN extensible operating system
+Escort securing Scout paths
+Analysis of a denial of service attack on TCP
+Deniable password snatching on the possibility of evasive electronic espionage
+Number theoretic attacks on secure password schemes
+Access control in an open distributed environment
+IEEE Symposium on Security and Privacy 1998
+Ensuring continuity during dynamic security policy reconfiguration in DTE
+Composing partially-specified systems
+Secure execution of Java applets using a remote playground
+Understanding Java stack inspection
+Efficient key distribution for slow computing devices achieving fast over the air activation for wireless systems
+Efficient and practical fair exchange protocols with off-line TTP
+Asynchronous protocols for optimistic fair exchange
+An automated approach for identifying potential vulnerabilities in software
+Detecting disruptive routers a distributed network monitoring approach
+Timing attacks against trusted path
+Partial security policies to support timeliness in secure real-time databases
+On enabling secure applications through off-line biometric identification
+Strand spaces why is a security protocol correct?
+On the formal definition of separation-of-duty policies and their composition
+Complete safe information flow with decentralized labels
+Stack and queue integrity on hostile platforms
+Necessity and realization of universally verifiable secret sharing
+Towards mobile cryptography
+Access control meets public key infrastructure or assigning roles to strangers
+IEEE Symposium on Security and Privacy 2000
+A security infrastructure for distributed Java applications
+A practically implementable and tractable delegation logic
+Practical techniques for searches on encrypted data
+Efficient authentication and signing of multicast streams over lossy channels
+Searching for a solution engineering tradeoffs and the evolution of provably secure protocols
+Authentication tests
+Protocol-independent secrecy
+Using conservation of flow as a security mechanism in network protocols
+Logic induction of valid behavior specifications for intrusion detection
+Using model checking to analyze network vulnerabilities
+Verifying the EROS confinement mechanism
+Fang a firewall analysis engine
+A more efficient use of delta-CRLs
+An efficient dynamic and trust preserving public key infrastructure
+Kronos a scalable group re-keying approach for secure multicast
+LOMAC Low Water-Mark integrity protection for COTS environments
+IRM enforcement of Java stack inspection
+Privacy technology lessons from healthcare
+Security and source code access issues and realities
+Open source in security visiting the bizarre
+Will openish source really improve security?
+Cryptographic security for mobile code
+IEEE Symposium on Security and Privacy 2001
+Networked cryptographic devices resilient to capture
+Protection of keys against modification attack
+Data mining methods for detection of new malicious executables
+Evaluation of intrusion detectors a decision theory approach
+On confidentiality and algorithms programming under the constraints of noninterference
+Preserving information flow properties under refinement
+Understanding trust management systems
+SD3 a trust management system with certified evaluation
+Formal treatment of certificate revocation under communal access control
+Information-theoretic measures for anomaly detection
+A fast automaton-based method for detecting anomalous program behaviors
+Intrusion detection via static analysis
+Performance of public-key-enabled Kerberos authentication in large networks
+A model for asynchronous reactive systems and its application to secure message transmission
+Cryptographic key generation from voice
+A trend analysis of exploitations
+Graph-based authentication of digital streams
+ELK a new protocol for efficient large-group key distribution
+Optical time-domain eavesdropping risks of CRT displays
+IEEE Symposium on Security and Privacy 2002
+Statistical identification of encrypted Web browsing traffic
+Partitioning attacks or how to rapidly clone some GSM cards
+Collaborative filtering with privacy
+P/sup 5/ a protocol for scalable anonymous communication
+Methods and limitations of security policy reconciliation
+On the composition of secure systems
+Binder a logic-based security language
+Design of a role-based trust-management framework
+Constrained delegation
+Using programmer-written compiler extensions to catch security holes
+Improving computer security using extended static checking
+Noninterference and intrusion detection
+Why 6? Defining the operational limits of stide an anomaly-based intrusion detector
+Alert correlation in a cooperative intrusion detection framework
+Intrusion-tolerant Enclaves
+Efficient multicast packet authentication using signature amortization
+Self-healing key distribution with revocation
+Expander graphs for digital stream authentication and robust overlay networks
+Automated generation and analysis of attack graphs
+Stateful intrusion detection for high-speed network's
+Mixminion design of a type III anonymous remailer protocol
+IEEE Symposium on Security and Privacy 2003
+Probabilistic treatment of MIXes to hamper traffic analysis
+Defending anonymous communications against passive logging attacks
+Active mapping resisting NIDS evasion without altering traffic
+Anomaly detection using call stack information
+Defending against denial-of-service attacks with puzzle auctions
+Pi a path identification mechanism to defend against DDoS attacks
+A unified scheme for resource protection in automated trust negotiation
+Beyond proof-of-compliance safety and availability analysis in trust management
+Intransitive non-interference for cryptographic purposes
+Using memory errors to attack a virtual machine
+Specifying and verifying hardware for tamper-resistant software
+Secret handshakes from pairing-based key agreements
+Random key predistribution schemes for sensor networks
+Hardening functions for large scale distributed computations
+A practical revocation scheme for broadcast encryption using smart cards
+Using replication and partitioning to build secure distributed systems
+Vulnerabilities in synchronous IPC designs
+Garbage collector memory accounting in language-based systems
+Keyboard acoustic emanations
+IEEE Symposium on Security and Privacy 2004
+Effects of mobility and multihoming on transport-protocol security
+Analysis of an electronic voting system
+Access control by tracking shallow execution history
+A layered design of discretionary access controls with decidable safety properties
+Symmetric encryption in automatic analyses for confidentiality against active adversaries
+Automatic proof of strong secrecy for security protocols
+An empirical analysis of target-resident DoS filters
+Large-scale IP traceback in high-speed Internet practical techniques and theoretical foundation
+SIFF a stateless Internet flow filter to mitigate DDoS flooding attacks
+Safety in automated trust negotiation
+Securing OLAP data cubes against privacy breaches
+Run-time principals in information-flow type systems
+Formalizing sensitivity in static analysis for intrusion detection
+Fast portscan detection using sequential hypothesis testing
+On-the-fly verification of rateless erasure codes for efficient content distribution
+Multicast authentication in fully adversarial networks
+An interleaved hop-by-hop authentication scheme for filtering of injected false data in sensor networks
+SWATT softWare-based attestation for embedded devices
+Language-based generation and evaluation of NIDS signatures
+IEEE Symposium on Security and Privacy 2005
+Efficient intrusion detection using automaton inlining
+Semantics-aware malware detection
+Distributed detection of node replication attacks in sensor networks
+Detection of denial-of-message attacks on sensor network broadcasts
+Distributed proving in access-control systems
+On safety in discretionary access control
+Seeing-is-believing using camera phones for human-verifiable authentication
+A generic attack on checksumming-based software tamper resistance
+Towards constant bandwidth overhead integrity checking of untrusted data
+BIND a fine-grained attestation service for secure distributed systems
+Relating symbolic and cryptographic secrecy
+Low-cost traffic analysis of Tor
+Leap-frog packet linking and diverse key distributions for improved integrity in network broadcasts
+Remote physical device fingerprinting
+Polygraph automatically generating signatures for polymorphic worms
+Worm origin identification using random moonwalks
+Towards automatic generation of vulnerability-based signatures
+IEEE Symposium on Security and Privacy 2006
+Misleading worm signature generators using deliberate noise injection
+Hamsa fast signature generation for zero-day polymorphic worms with provable attack resilience
+Dataflow anomaly detection
+A framework for the evaluation of intrusion detection systems
+Siren catching evasive malware
+Fundamental limits on the anonymity provided by the MIX technique
+Locating hidden servers
+Practical inference control for data cubes
+Deterring voluntary trace disclosure in re-encryption mix networks
+New constructions and practical applications for private stream searching
+A computationally sound mechanized prover for security protocols
+A logic for constraint-based security protocol analysis
+Simulatable security and polynomially bounded concurrent composability
+Privacy and contextual integrity framework and applications
+FIREMAN a toolkit for firewall modeling and analysis
+Retrofitting legacy code for authorization policy enforcement
+Deriving an information flow checker and certifying compiler for Java
+Automatically generating malicious disks using symbolic execution
+Pixy a static analysis tool for detecting Web application vulnerabilities
+Cobra fine-grained malware analysis using stealth localized-executions
+Integrity (I) codes message integrity protection and authentication over insecure channels
+Cognitive authentication schemes safe against spyware
+Cache cookies for browser authentication
+Secure device pairing based on a visual channel
+SubVirt implementing malware with virtual machines
+Practical attacks on proximity identification systems
+On the secrecy of timing-based active watermarking trace-back techniques
+A safety-oriented platform for Web applications
+Tamper-evident history-independent subliminal-free data structures on PROM storage -or- how to store ballots on a voting machine
+Analysis of the Linux random number generator
+The final nail in WEP's coffin
+Accurate Real-time Identification of IP Prefix Hijacking
+IEEE Symposium on Security and Privacy 2007
+DSSS-Based Flow Marking Technique for Invisible Traceback
+On the Safety and Efficiency of Firewall Policy Deployment
+The Emperors New Security Indicators
+Cryptanalysis of a Cognitive Authentication Scheme (Extended Abstract)
+A Systematic Approach to Uncover Security Flaws in GUI Logic
+Extended Abstract Forward-Secure Sequential Aggregate Authentication
+Extended Abstract Provable-Security Analysis of Authenticated Encryption in Kerberos
+Endorsed E-Cash
+Network Flow Watermarking Attack on Low-Latency Anonymous Communication Systems
+Improving the Robustness of Private Information Retrieval
+Beyond Stack Inspection A Unified Access-Control and Information-Flow Security Model
+Usable Mandatory Integrity Protection for Operating Systems
+Enforcing Semantic Integrity on Untrusted Clients in Networked Virtual Environments
+Information Flow in the Peer-Reviewing Process
+A Cryptographic Decentralized Label Model
+Gradual Release Unifying Declassification Encryption and Key Release Policies
+Fuzzy Multi-Level Security An Experiment on Quantified Risk-Adaptive Access Control
+Exploring Multiple Execution Paths for Malware Analysis
+Lurking in the Shadows Identifying Systemic Threats to Kernel Data
+ShieldGen Automatic Data Patch Generation for Unknown Vulnerabilities with Informed Probing
+Minimal TCB Code Execution
+Using Rescue Points to Navigate Software Recovery
+Moats and Drawbridges An Isolation Primitive for Reconfigurable Hardware Based Systems
+Trojan Detection using IC Fingerprinting
+On the Optimal Communication Complexity of Multiphase Protocols for Perfect Communication
+Ciphertext-Policy Attribute-Based Encryption
+Attacking the IPsec Standards in Encryption-only Configurations
+Multi-Dimensional Range Query over Encrypted Data
+Analyzing and visualizing performance of memory hierarchies
+Monitoring and measuring distributed systems
+Scientific visualization at Los Alamos
+Visualization techniques for high dimensional data sets
+Performance instrumentation and visualization using AXE
+Integrating performance data collection analysis and visualization
+JED just an event display
+Support environment for RP3 performance monitor
+Environments for visualization of program
+Software tools for visualization of performance
+Parallel program visualization using ParVis
+Reflective memory instrumentation issues
+Performance the need for an in-depth view
+A VLSI chip set for a multiprocessor performance measurement system
+Performance of parallel applications on a shared-memory multiprocessor system
+Graphical aids to constructing parallel programs summary
+Standards working group summary
+Dataflow and hybrid dataflow architecture summary
+Performance analysis of parallel applications and systems summary
+Adjunctions and Galois connections
+Categorical Galois theory
+The polarity between approximation and distribution
+Galois connections and complete sublattices
+Galois connections for operations and relations
+Galois connections and polynomial completeness
+Q-Independence and weak automorphisms
+A survey of clones closed under conjugation
+Galois connections for partial algebras
+Complexity of terms and the Galois connection Id-Mod
+Iterated Galois connections in arithmetic and linguistics
+Deductive systems and Galois connections
+A Galois correspondence for digital topology
+Galois connections in category theory topology and logic
+Dyadic mathematics
+What we know about CSCL
+CSCL in higher education?
+Practices and orientations of CSCL
+Building collaborative knowing
+Learning assessment and collaboration in computer-supported environments
+Instructional support in CSCL
+Computer software support for CSCL
+Human support in CSCL
+CSCL-Ware in practice
+Designing sociable CSCL environments
+Introduction and overview
+Personalizing interaction
+Towards psychological customization of information for individuals and social groups
+Personalisation and trust
+I didn't buy it for myself
+An information architecture perspective on personalization
+E-commerce personalization and real-time site monitoring
+Personalized electronic banking services
+Personalized ubiquitous commerce
+Self-service personalization and electronic government
+Creating an E-commerce environment where consumers are willing to share personal information
+Buyer behavior in personalized shopping environments
+Supporting travel decision making through personalized recommendation
+Improving collaborative recommender systems by means of user profiles
+Personalized presentation of policies and processes
+Recommending as personalized teaching
+Impacts of user privacy preferences on personalized systems
+Challenges for user-centric personalization research
+Editors preface
+The socio-political construction of caresys
+Information and communication technologies diffusion in industrial districts
+Where is the innovation?
+Co-ordination of E-government
+Translations in network configurations
+MIS and the dynamics of legitimacy in health care
+Role model for the organisational IT diffusion process
+Should buyers try to shape IT-markets through non-market (collective) action?
+Exploring application service provision
+A framework for the investigation of the institutional layer of IT diffusion
+Taking organizational implementation seriously
+Networked technologies the role of networks in the diffusion and adoption of software process improvement (SPI) approaches
+Open source software
+The diffusion and adoption of mobile computing
+Multiple cortical representations of optic flow processing
+Optic flow and vestibular self-movement cues
+A visual mechanism for extraction of heading information in complex flow fields
+Eye movements and an object-based model of heading perception
+Short-latency eye movements
+Functional neuroanatomy of heading perception in humans
+The event structure of motion perception
+Modeling observer and object motion perception
+Linking perception and neurophysiology for motion pattern processing
+Circular receptive field structures for flow analysis and heading detection
+Parametric measurements of optic flow by humans
+Fast processing of image motion patterns arising from 3-D translational motion
+On the computation of image motion and heading in a 3-D cluttered scene
+From optic flow to laws of control
+Egocentric direction and locomotion
+The utility of not changing direction and the visual guidance of locomotion
+Gaze behaviors during adaptive human locomotion
+How do we control high speed steering?
+Model-based control of perception/action
+A neural model for biological movement recognition
+Controlling bipedal movement using optic flow
+Sensor networks
+Communication protocols for sensor networks
+Energy efficient design of wireless sensor nodes
+Medium access control in wireless sensor networks
+A survey of MAC protocols for sensor networks
+Dissemination protocols for large sensor networks
+Routing on a curve
+Reliable transport for sensor networks
+Data-centric routing and storage in sensor networks
+Compression techniques for wireless sensor networks
+Fundamental limits of networked sensing
+Security for wireless sensor networks
+Key distribution techniques for sensor networks
+Security in sensor networks
+Localization in sensor networks
+Sensor management
+Detecting unauthorized activities using a sensor network
+Analysis of wireless sensor networks for habitat monitoring
+Construction and calculus of types of databases systems
+On the relationship of congruence closure
+Class hierarchies and their complexity
+Static and dynamic type checking
+An algebraic model of subtype and inheritance
+Orderings and types in databases
+Algorithms for set containment inference
+Intensional concepts in an object databases model
+The VISION object-oriented database management system
+Implementing functional databases
+Data abstraction and transaction processing in the database programming language RAPP
+Integration issues in implementing semantic data models
+Sharing persistence and object-orientation a database perspective
+Polymorphic names and iterations
+O2 an object-oriented data model
+Object-oriented data model
+Semantics for transactions in shared object worlds
+A practical language to provide persistence and a rich typing system
+Semantics of updates in logic programming
+Control and optimization strategies in the implementation of LDL
+COL a logic-based language for complex objects
+Representing database programs as objects
+Date and knowledge model a proposal
+The semantics of update in a functional database programming language
+Toward a formalism for module interconnection and version selection
+Manipulating complex objects
+UML-based system specification anddesign
+UML-based co-design for run-time reconfigurable architectures
+A unified approach to code generation from behavioral diagrams
+Platform-independent design for embedded real-time systems
+Real-time system modeling with ACCORD/UML methodology
+UML-based specifications of an embedded system oriented to HW/SW partitioning
+C-based system design
+Space
+Laerte++
+A case study
+Modeling of CSP KPN and SR systems with systemC
+On hardware description in ECL
+Analog and mixed-signal systems
+Rules for analog and mixed-signal VHDL-AMS modeling
+A VHDL-AMS library of hierarchical optoelectronic device models
+Towards high-level analog and mixed-signal synthesis from VHDL-AMS specifications
+Reliability simulation of electronic circuits with VHDL-AMS
+Extending systemC to analog modelling and simulation
+Languages for formal methods
+Linking architectural and component system views by abstract state machines
+A new time extension to calculus based on time consuming transition semantics
+Modeling CHP descriptions in labeled transitions systems for an efficient formal validation of asynchronous circuit specifications
+Combined formal refinement and model checking for real-time systems verification
+Refinement of hybrid systems
+Applications and new languages
+Automotive software engineering
+Systemverilog
+Peer-to-peer networking in mobile communications based on SIP
+Protocols for data propagation in wireless sensor networks
+A-cell
+Third generation WCDMA radio evolution
+Evolution of CDMA from interference-limited to noise-limited
+Power control implementation in 3rd generation CDMA systems
+Power control in wireless networks
+Average outage duration of wireless communication systems
+Enhancing TCP performance in wide-area cellular wireless networks
+Multi-service wireless internet link enhancements
+Portability architecture for nomadic wireless internet access users and security performance evaluation
+Design and implementation of a softswitch for third generation mobile all-IP network
+Clustering in mobile wireless ad hoc networks
+Characterizing uplink load
+Performance analysis and optimization of multi-hop communication systems
+Mobility management for wireless networks
+Efficient information acquisition and dissemination in pervasive computing systems through caching
+Security in wireless mobile and sensor networks
+Waveform shaping techniques for bandwidth-efficient digital modulations
+Multiple antennas
+Diagonal STBC's for fading ISI channels
+Fast routing and recovery protocols in hybrid ad-hoc cellular networks
+Fundamentals of Silicon-based phototransduction
+CMOS APS MTF modeling
+Photoresponse analysis and pixel shape optimization for CMOS APS
+Active pixel sensor design
+Focal-plane analog image processing
+CMOS imager non-uniformity correction using floating-gate adaptation

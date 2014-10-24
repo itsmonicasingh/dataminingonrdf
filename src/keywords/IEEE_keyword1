@@ -1,0 +1,283 @@
+The algebra of security systems_analysis security_of_data Boolean_algebra 
+Concerning `modeling' of computer security systems_analysis security_of_data 
+Security specifications security_of_data specification_languages 
+Extended discretionary access controls distributed_processing operating_systems_(computers) security_of_data 
+A fault tolerance approach to computer viruses fault_tolerant_computing security_of_data programming 
+A prototype real-time intrusion-detection expert system real-time_systems security_of_data supervisory_programs expert_systems 
+Views as the security objects in a multilevel secure relational database management system data_structures relational_databases security_of_data 
+ASDViews [relational databases] data_structures relational_databases security_of_data query_languages 
+Inference aggregation detection in database management systems relational_databases knowledge_engineering query_languages 
+A bandwidth computation model for covert storage channels and its applications storage_management operating_systems_(computers) Markov_processes security_of_data multiprogramming 
+Reasoning about knowledge in multilevel secure distributed systems operating_systems_(computers) security_of_data specification_languages knowledge_engineering 
+Implementing commercial data integrity with secure capabilities operating_systems_(computers) security_of_data 
+Using mandatory integrity to enforce `commercial' security standards operating_systems_(computers) security_of_data 
+The trusted path between SMITE and the user operating_systems_(computers) security_of_data specification_languages user_interfaces 
+Reverification of a microprocessor microprocessor_chips program_verification computer_testing security_of_data theorem_proving 
+Noninterference and the composability of security properties operating_systems_(computers) security_of_data 
+A formal specification and verification method for the prevention of denial of service program_verification multiprocessing_systems parallel_programming operating_systems_(computers) security_of_data specification_languages 
+An axiomatic basis of trust in distributed systems distributed_processing operating_systems_(computers) security_of_data cryptography specification_languages formal_logic formal_languages programming_theory 
+Security policy modeling for the next-generation packet switch packet_switching security_of_data network_operating_systems 
+The SeaView security model relational_databases security_of_data 
+A near-term design for the SeaView multilevel database system relational_databases security_of_data 
+Controlling logical inference in multilevel database systems relational_databases security_of_data knowledge_engineering 
+Network security: the parts of the sum computer_networks security_of_data 
+Statistical models of trust: TCBs vs. people statistical_analysis security_of_data 
+Symbol security condition considered harmful security_of_data software_engineering 
+A secure identity-based capability system security_of_data network_operating_systems 
+Access meditation in a message passing kernel operating_systems_(computers) security_of_data 
+A formal model for Unix setuid operating_systems_(computers) security_of_data Unix 
+Policy vs. mechanism in the Secure TUNIS operating system operating_systems_(computers) security_of_data 
+The incorporation of multi-level IPC into Unix operating_systems_(computers) security_of_data Unix 
+Aggregation and inference: facts and fallacies relational_databases security_of_data inference_mechanisms 
+A security model for object-oriented databases security_of_data database_management_systems 
+A security policy for an A1 DBMS (a trusted subject) relational_databases security_of_data 
+On the cell suppression by merging technique in the lattice model of summary tables probability statistical_analysis table_lookup security_of_data database_management_systems 
+Using narrowing in the analysis of key management protocols protocols software_tools security_of_data cryptography rewriting_systems 
+A software engineering approach to designing trustworthy software security_of_data software_engineering 
+Formal model of a trusted file server distributed_processing file_servers security_of_data 
+LOCK trek: navigating uncharted space security_of_data 
+Tea and I: an allergy [computer security] distributed_processing security_of_data 
+Security issues in policy routing protocols security_of_data 
+The hierarchical model of distributed system security distributed_processing security_of_data 
+The Chinese Wall security policy security_of_data DP_management professional_aspects 
+A `new' security policy model security_of_data DP_management 
+A framework for expressing models of security policy security_of_data project_support_environments 
+On the derivation of secure components formal_specification security_of_data programming_theory 
+A model for secure information flow security_of_data programming_theory 
+Transformation of access rights security_of_data programming_theory decidability 
+A model for specifying multi-granularity integrity policies data_integrity formal_specification security_of_data 
+Detection of anomalous computer session activity security_of_data DP_management 
+Layering central authentication on existing distributed system terminal services distributed_processing security_of_data supervisory_programs 
+Authenticated group key distribution scheme for a large distributed network distributed_processing security_of_data supervisory_programs 
+Defending systems against viruses through cryptographic authentication security_of_data cryptography supervisory_programs 
+A proposal for a verification-based virus filter program_verification formal_specification security_of_data 
+With microscope and tweezers: an analysis of the Internet virus of November 1988 security_of_data network_operating_systems 
+The design and implementation of a secure auction service systems_analysis security_of_data cryptography user_interfaces financial_data_processing 
+Cryptographic credit control in pre-payment metering systems cryptography smart_cards financial_data_processing electricity_supply_industry fraud 
+Preserving privacy in a network of mobile computers distributed_processing security_of_data data_privacy wireless_LAN 
+Holding intruders accountable on the Internet statistical_analysis Internet authorisation security_of_data information_services 
+Integrating security in CORBA based object architectures distributed_processing software_fault_tolerance object-oriented_programming data_integrity application_program_interfaces security_of_data message_authentication 
+Practical Domain and Type Enforcement for UNIX authorisation security_of_data Unix database_management_systems costing 
+A multilevel file system for high assurance data_structures systems_analysis authorisation security_of_data 
+Formal methods in the THETA kernel software_portability formal_specification software_tools object-oriented_methods security_of_data operating_system_kernels network_operating_systems 
+CSP and determinism in security modelling security_of_data deterministic_algorithms algorithm_theory 
+The semantics and expressive power of the MLR data model data_structures relational_databases data_integrity security_of_data database_theory computational_linguistics 
+A network version of the Pump computer_network_reliability performance_evaluation telecommunication_congestion_control simulation security_of_data 
+Version pool management in a multilevel secure multiversion transaction manager protocols client-server_systems transaction_processing concurrency_control security_of_data scheduling software_engineering configuration_management 
+Capacity estimation and auditability of network covert channels computer_networks channel_capacity adaptive_systems security_of_data scheduling telecommunication_channels auditing telecommunication_traffic 
+Supporting security requirements in multilevel real-time databases protocols data_integrity transaction_processing concurrency_control security_of_data feedback timing database_theory 
+The Intel 80x86 processor architecture: pitfalls for secure systems computer_architecture fault_tolerant_computing microprocessor_chips reliability microcomputers security 
+Recent-secure authentication: enforcing revocation in distributed systems distributed_processing formal_specification message_authentication 
+Reasoning about accountability in protocols for electronic commerce protocols public_key_cryptography auditing inference_mechanisms commerce theorem_proving business_communication legislation 
+The Interrogator model protocols software_tools cryptography symbol_manipulation 
+An analysis of the timed Z-channel processor_scheduling security_of_data timing algebra information_theory noise time-varying_channels token_networks 
+Defining noninterference in the temporal logic of actions formal_specification security_of_data temporal_logic 
+Computer security training and education: a needs analysis security_of_data computer_science_education employment training 
+A security policy model for clinical information systems security_of_data data_privacy DP_management medical_information_systems 
+What do we mean by entity authentication? protocols formal_specification message_passing message_authentication cryptography 
+A fair non-repudiation protocol protocols formal_verification cryptography 
+Limitations on design principles for public key protocols protocols public_key_cryptography 
+Ensuring atomicity of multilevel transactions data_integrity transaction_processing security_of_data system_monitoring database_theory 
+View-based access control with high assurance relational_databases computational_complexity authorisation query_processing safety database_theory 
+Supporting multiple access control policies in database systems authorisation security_of_data database_management_systems 
+An immunological approach to change detection: algorithms, analysis and implications security_of_data artificial_intelligence living_systems 
+A sense of self for Unix processes security_of_data Unix living_systems 
+Cryptovirology: extortion-based security threats and countermeasures cryptography computer_viruses 
+A security model of dynamic labelling providing a tiered approach to verification security_of_data formal_verification 
+A communication agreement framework for access/action control security_of_data 
+Decentralized trust management computer_network_management security_of_data cryptography 
+Security properties and CSP security_of_data formal_verification communicating_sequential_processes 
+Java security: from HotJava to Netscape and beyond security_of_data high_level_languages internetworking 
+On two proposals for on-line bankcard payments using open networks: problems and solutions protocols security_of_data cryptography financial_data_processing EFTS MasterCard Visa 
+Run-time security evaluation (RTSE) for distributed applications distributed_processing formal_specification security_of_data 
+Some weaknesses of the TCB model security_of_data information_systems 
+Is the reference monitor concept fatally flawed? The case for the negative security_of_data 
+Toward acceptable metrics of authentication message_authentication 
+An authorization scheme for distributed object systems distributed_processing object-oriented_programming authorisation network_servers 
+Anonymous connections and onion routing Internet telecommunication_network_routing security_of_data data_privacy electronic_mail telecommunication_traffic 
+The design and implementation of a multilevel secure log manager software_performance_evaluation security_of_data database_management_systems data_loggers 
+A secure and reliable bootstrap architecture system_recovery software_reliability data_integrity Internet security_of_data computer_bootstrapping 
+An MBone proxy for an application gateway firewall Internet teleconferencing authorisation 
+Secure software architectures distributed_processing transaction_processing open_systems authorisation security_of_data software_engineering DP_industry 
+A general theory of security properties security_of_data data_privacy information_theory 
+Analyzing consistency of security policies security_of_data formal_logic formal_languages 
+Ensuring assurance in mobile computing object-oriented_programming software_portability security_of_data object-oriented_languages 
+Filtering postures: local enforcement for global policies software_performance_evaluation computer_networks packet_switching telecommunication_network_routing authorisation 
+Providing flexibility in information flow control for object oriented systems object-oriented_programming transaction_processing exception_handling authorisation security_of_data 
+Automated analysis of cryptographic protocols using Murφ protocols client-server_systems cryptography network_operating_systems 
+How to systematically classify computer security intrusions data_integrity security_of_data data_privacy 
+Surviving information warfare attacks on databases software_fault_tolerance data_integrity transaction_processing security_of_data database_management_systems 
+Execution monitoring of security-critical programs in distributed systems: a specification-based approach distributed_processing real-time_systems formal_specification synchronisation security_of_data program_diagnostics system_monitoring Unix 
+Catalytic inference analysis: detecting inference threats due to knowledge discovery relational_databases security_of_data inference_mechanisms uncertainty_handling deductive_databases knowledge_acquisition 
+Security in innovative new operating systems operating_systems_(computers) security_of_data 
+Research on proof-carrying code for untrusted-code security safety-critical_software security_of_data computational_linguistics theorem_proving programming_theory type_theory 
+Access control for the SPIN extensible operating system data_structures storage_management operating_systems_(computers) authorisation message_authentication storage_allocation Modula 
+Escort: securing Scout paths security_of_data network_operating_systems 
+Analysis of a denial of service attack on TCP data_structures transport_protocols Internet computer_crime 
+Deniable password snatching: on the possibility of evasive electronic espionage authorisation message_authentication public_key_cryptography computer_viruses 
+Number theoretic attacks on secure password schemes computer_network_management authorisation message_authentication cryptography number_theory 
+Access control in an open distributed environment client-server_systems open_systems authorisation message_authentication cryptography theorem_proving internetworking Horn_clauses 
+Ensuring continuity during dynamic security policy reconfiguration in DTE protocols security_of_data configuration_management operating_system_kernels 
+Composing partially-specified systems formal_specification security_of_data constraint_theory 
+Secure execution of Java applets using a remote playground object-oriented_programming parallel_programming security_of_data object-oriented_languages 
+Understanding Java stack inspection remote_procedure_calls parallel_programming authorisation theorem_proving object-oriented_languages pushdown_automata 
+Efficient key distribution for slow computing devices: achieving fast over the air activation for wireless systems protocols message_authentication cryptography cellular_radio time_division_multiple_access code_division_multiple_access 
+Efficient and practical fair exchange protocols with off-line TTP protocols electronic_data_interchange message_authentication cryptography 
+Asynchronous protocols for optimistic fair exchange fault_tolerant_computing protocols security_of_data telecommunication_network_reliability telecommunication_channels 
+An automated approach for identifying potential vulnerabilities in software software_fault_tolerance safety-critical_software security_of_data system_monitoring 
+Detecting disruptive routers: a distributed network monitoring approach protocols computerised_monitoring packet_switching message_passing computer_network_management telecommunication_network_routing security_of_data 
+Timing attacks against trusted path authorisation message_authentication timing computer_viruses workstations 
+Partial security policies to support timeliness in secure real-time databases real-time_systems formal_specification concurrency_control security_of_data database_management_systems 
+On enabling secure applications through off-line biometric identification authorisation cryptography biometrics_(access_control) 
+Strand spaces: why is a security protocol correct? protocols message_authentication formal_verification cryptography sequences 
+On the formal definition of separation-of-duty policies and their composition formal_specification authorisation database_management_systems 
+Complete, safe information flow with decentralized labels distributed_processing software_portability security_of_data telecommunication_control data_privacy safety information_theory 
+Stack and queue integrity on hostile platforms data_structures data_integrity security_of_data smart_cards coprocessors 
+Necessity and realization of universally verifiable secret sharing protocols formal_verification public_key_cryptography 
+Towards mobile cryptography software_portability distributed_algorithms cryptography 
+Access control meets public key infrastructure, or: assigning roles to strangers file_servers Internet authorisation message_authentication public_key_cryptography 
+A security infrastructure for distributed Java applications distributed_processing Java authorisation message_authentication cryptography formal_logic document_handling 
+A practically implementable and tractable delegation logic authorisation inference_mechanisms computability knowledge_representation logic_programming_languages programming_language_semantics set_theory 
+Practical techniques for searches on encrypted data computational_complexity file_servers cryptography data_privacy information_retrieval theorem_proving 
+Efficient authentication and signing of multicast streams over lossy channels multicast_communication synchronisation packet_switching message_authentication 
+Searching for a solution: engineering tradeoffs and the evolution of provably secure protocols protocols formal_specification security_of_data formal_logic search_problems theorem_proving genetic_algorithms 
+Authentication tests protocols message_authentication cryptography 
+Protocol-independent secrecy protocols cryptography data_privacy inference_mechanisms 
+Using conservation of flow as a security mechanism in network protocols protocols computer_networks telecommunication_security security_of_data 
+Logic induction of valid behavior specifications for intrusion detection security_of_data Unix formal_logic inductive_logic_programming learning_by_example 
+Using model checking to analyze network vulnerabilities computer_networks telecommunication_security security_of_data 
+Verifying the EROS confinement mechanism program_verification operating_systems_(computers) security_of_data 
+Fang: a firewall analysis engine security_of_data configuration_management intranets 
+A more efficient use of delta-CRLs cryptography certification 
+An efficient, dynamic and trust preserving public key infrastructure authorisation public_key_cryptography certification 
+Kronos: a scalable group re-keying approach for secure multicast groupware multicast_communication Internet authorisation telecommunication_security cryptography 
+LOMAC: Low Water-Mark integrity protection for COTS environments data_integrity software_packages Internet authorisation Unix operating_system_kernels public_domain_software 
+IRM enforcement of Java stack inspection Java authorisation distributed_programming virtual_machines 
+Privacy technology lessons from healthcare security_of_data data_privacy legislation government_policies health_care medical_administrative_data_processing 
+Security and source code access: issues and realities security_of_data computer_software 
+Open source in security: visiting the bizarre security_of_data software_engineering 
+Will openish source really improve security? Java security_of_data public_domain_software 
+Cryptographic security for mobile code cryptography distributed_programming 
+Networked cryptographic devices resilient to capture distributed_processing authorisation cryptography 
+Protection of keys against modification attack cryptography EPROM 
+Data mining methods for detection of new malicious executables security_of_data electronic_mail data_mining pattern_recognition 
+Evaluation of intrusion detectors: a decision theory approach software_performance_evaluation security_of_data decision_theory 
+On confidentiality and algorithms: programming under the constraints of noninterference security_of_data data_privacy cache_storage sorting 
+Preserving information flow properties under refinement security_of_data safety 
+Understanding trust management systems authorisation public_key_cryptography 
+SD3: a trust management system with certified evaluation security_of_data optimisation DATALOG 
+Formal treatment of certificate revocation under communal access control client-server_systems authorisation 
+Information-theoretic measures for anomaly detection computer_network_management security_of_data Unix network_operating_systems information_theory 
+Intrusion detection via static analysis security_of_data program_diagnostics network_operating_systems 
+Performance of public-key-enabled Kerberos authentication in large networks protocols message_authentication public_key_cryptography network_operating_systems 
+A model for asynchronous reactive systems and its application to secure message transmission formal_specification telecommunication_security message_authentication cryptography 
+Cryptographic key generation from voice authorisation cryptography speaker_recognition 
+A trend analysis of exploitations security_of_data 
+Graph-based authentication of digital streams packet_switching telecommunication_security message_authentication 
+ELK, a new protocol for efficient large-group key distribution protocols Internet authorisation public_key_cryptography 
+Optical time-domain eavesdropping risks of CRT displays security_of_data cathode-ray_tube_displays computer_displays phosphors shot_noise video_signal_processing 
+Statistical identification of encrypted Web browsing traffic online_front-ends cryptography data_privacy information_resources telecommunication_traffic 
+Partitioning attacks: or how to rapidly clone some GSM cards table_lookup telecommunication_security message_authentication cryptography smart_cards cellular_radio 
+Collaborative filtering with privacy groupware file_servers electronic_commerce cryptography data_privacy information_needs 
+P/sup 5/ : a protocol for scalable anonymous communication protocols Internet telecommunication_security security_of_data data_privacy 
+Methods and limitations of security policy reconciliation Internet telecommunication_security security_of_data 
+On the composition of secure systems security_of_data 
+Binder, a logic-based security language authorisation distributed_programming certification DATALOG logic_programming 
+Design of a role-based trust-management framework authorisation programming_language_semantics DATALOG 
+Constrained delegation authorisation 
+Using programmer-written compiler extensions to catch security holes program_compilers operating_systems_(computers) security_of_data program_diagnostics 
+Improving computer security using extended static checking formal_specification security_of_data program_diagnostics formal_verification theorem_proving 
+Noninterference and intrusion detection formal_specification authorisation Unix hazards_and_race_conditions 
+Alert correlation in a cooperative intrusion detection framework authorisation 
+Intrusion-tolerant Enclaves protocols software_fault_tolerance groupware cryptography 
+Efficient multicast packet authentication using signature amortization multicast_communication performance_evaluation Internet message_authentication cryptography 
+Self-healing key distribution with revocation multicast_communication telecommunication_security cryptography 
+Expander graphs for digital stream authentication and robust overlay networks computer_network_reliability packet_switching message_authentication graph_theory 
+Automated generation and analysis of attack graphs computer_network_management authorisation telecommunication_security 
+Stateful intrusion detection for high-speed network's local_area_networks security_of_data 
+Mixminion: design of a type III anonymous remailer protocol protocols Internet data_privacy public_key_cryptography 
+Probabilistic treatment of MIXes to hamper traffic analysis probability computer_networks telecommunication_security data_privacy telecommunication_traffic data_encapsulation 
+Defending anonymous communications against passive logging attacks Internet data_privacy telecommunication_traffic 
+Active mapping: resisting NIDS evasion without altering traffic transport_protocols computer_network_management network_topology authorisation network_operating_systems telecommunication_traffic 
+Anomaly detection using call stack information program_diagnostics invasive_software 
+Defending against denial-of-service attacks with puzzle auctions client-server_systems transport_protocols Internet computer_network_management cryptography operating_system_kernels network_operating_systems invasive_software 
+Pi: a path identification mechanism to defend against DDoS attacks Internet computer_network_management authorisation network_operating_systems invasive_software 
+A unified scheme for resource protection in automated trust negotiation computer_network_management authorisation message_authentication cryptography 
+Beyond proof-of-compliance: safety and availability analysis in trust management computational_complexity authorisation decidability 
+Intransitive non-interference for cryptographic purposes real-time_systems data_integrity cryptography error_statistics data_privacy graph_theory 
+Using memory errors to attack a virtual machine Java Internet security_of_data 
+Specifying and verifying hardware for tamper-resistant software formal_specification operating_systems_(computers) security_of_data formal_verification 
+Secret handshakes from pairing-based key agreements computer_network_management authorisation message_authentication cryptography 
+Random key predistribution schemes for sensor networks computer_network_management authorisation cryptography data_privacy distributed_sensors 
+Hardening functions for large scale distributed computations Internet security_of_data 
+A practical revocation scheme for broadcast encryption using smart cards computational_complexity telecommunication_computing cryptography smart_cards television_broadcasting 
+Using replication and partitioning to build secure distributed systems distributed_processing protocols data_integrity program_diagnostics data_privacy compiler_generators 
+Vulnerabilities in synchronous IPC designs performance_evaluation multi-threading security_of_data operating_system_kernels 
+Garbage collector memory accounting in language-based systems distributed_processing Java performance_evaluation storage_management authorisation multiprogramming 
+Keyboard acoustic emanations security_of_data neural_nets keyboards 
+Effects of mobility and multihoming on transport-protocol security mobile_computing transport_protocols Internet message_passing telecommunication_security computer_crime IP_networks 
+Analysis of an electronic voting system security_of_data cryptography government_data_processing 
+Access control by tracking shallow execution history authorisation system_monitoring automata_theory 
+A layered design of discretionary access controls with decidable safety properties authorisation decidability 
+Symmetric encryption in automatic analyses for confidentiality against active adversaries protocols program_diagnostics cryptography 
+Automatic proof of strong secrecy for security protocols protocols message_authentication formal_verification data_privacy Horn_clauses 
+An empirical analysis of target-resident DoS filters telecommunication_congestion_control packet_switching telecommunication_security telecommunication_traffic digital_filters 
+Large-scale IP traceback in high-speed Internet: practical techniques and theoretical foundation Internet packet_switching telecommunication_network_routing telecommunication_security 
+SIFF: a stateless Internet flow filter to mitigate DDoS flooding attacks Internet packet_switching telecommunication_network_routing telecommunication_security security_of_data telecommunication_traffic 
+Safety in automated trust negotiation client-server_systems authorisation electronic_data_interchange data_privacy 
+Securing OLAP data cubes against privacy breaches relational_databases authorisation data_privacy data_mining data_warehouses inference_mechanisms 
+Run-time principals in information-flow type systems data_integrity authorisation data_privacy public_key_cryptography type_theory 
+Formalizing sensitivity in static analysis for intrusion detection formal_specification authorisation telecommunication_security program_diagnostics pushdown_automata 
+Fast portscan detection using sequential hypothesis testing Internet authorisation telecommunication_security message_authentication stochastic_processes computer_crime 
+On-the-fly verification of rateless erasure codes for efficient content distribution program_verification mobile_computing authorisation cryptography data_communication document_handling 
+Multicast authentication in fully adversarial networks multicast_communication packet_switching telecommunication_security message_authentication cryptography error_correction_codes 
+An interleaved hop-by-hop authentication scheme for filtering of injected false data in sensor networks packet_switching authorisation telecommunication_security message_authentication wireless_sensor_networks military_communication 
+SWATT: softWare-based attestation for embedded devices embedded_systems storage_management authorisation formal_verification computer_viruses 
+Language-based generation and evaluation of NIDS signatures computer_network_management security_of_data digital_signatures formal_languages programming_language_semantics 
+Efficient intrusion detection using automaton inlining computer_network_management security_of_data monitoring automata_theory 
+Semantics-aware malware detection invasive_software computer_crime programming_language_semantics 
+Distributed detection of node replication attacks in sensor networks randomised_algorithms security_of_data cryptography multicast_protocols wireless_sensor_networks telecommunication_network_topology emergent_phenomena 
+Detection of denial-of-message attacks on sensor network broadcasts protocols probability mobile_computing telecommunication_security wireless_sensor_networks broadcast_channels game_theory sampling_methods 
+Distributed proving in access-control systems software_performance_evaluation authorisation distributed_algorithms formal_logic cache_storage 
+On safety in discretionary access control computational_complexity authorisation safety decidability 
+Seeing-is-believing: using camera phones for human-verifiable authentication mobile_computing authorisation telecommunication_security cryptography mobile_handsets bar_codes cameras 
+A generic attack on checksumming-based software tamper resistance program_compilers program_verification data_integrity security_of_data 
+Towards constant bandwidth overhead integrity checking of untrusted data software_performance_evaluation data_integrity cryptography tree_data_structures 
+BIND: a fine-grained attestation service for secure distributed systems distributed_processing program_verification data_integrity digital_signatures 
+Relating symbolic and cryptographic secrecy protocols data_privacy public_key_cryptography 
+Low-cost traffic analysis of Tor transport_protocols Internet computer_network_management telecommunication_security security_of_data telecommunication_traffic routing_protocols 
+Leap-frog packet linking and diverse key distributions for improved integrity in network broadcasts data_integrity message_authentication file_organisation routing_protocols ad_hoc_networks 
+Remote physical device fingerprinting protocols Internet computer_network_management telecommunication_security clocks 
+Polygraph: automatically generating signatures for polymorphic worms protocols invasive_software digital_signatures string_matching 
+Worm origin identification using random moonwalks randomised_algorithms invasive_software tree_data_structures 
+Towards automatic generation of vulnerability-based signatures formal_specification security_of_data 
+Misleading worm signature generators using deliberate noise injection invasive_software 
+Dataflow anomaly detection security_of_data data_flow_analysis 
+A framework for the evaluation of intrusion detection systems software_performance_evaluation security_of_data software_metrics 
+Siren: catching evasive malware security_of_data 
+Fundamental limits on the anonymity provided by the MIX technique telecommunication_security 
+Locating hidden servers computer_networks telecommunication_security 
+Practical inference control for data cubes computational_complexity authorisation data_privacy 
+Deterring voluntary trace disclosure in re-encryption mix networks computer_networks cryptography data_privacy 
+New constructions and practical applications for private stream searching search_engines data_privacy information_retrieval 
+A computationally sound mechanized prover for security protocols probability message_authentication public_key_cryptography process_algebra 
+A logic for constraint-based security protocol analysis formal_specification authorisation temporal_logic constraint_handling 
+Simulatable security and polynomially bounded concurrent composability cryptography 
+Privacy and contextual integrity: framework and applications data_integrity data_privacy temporal_logic 
+FIREMAN: a toolkit for firewall modeling and analysis software_tools security_of_data program_diagnostics 
+Retrofitting legacy code for authorization policy enforcement authorisation program_diagnostics software_maintenance 
+Deriving an information flow checker and certifying compiler for Java Java program_compilers security_of_data data_flow_analysis 
+Automatically generating malicious disks using symbolic execution program_debugging Linux computer_viruses 
+Pixy: a static analysis tool for detecting Web application vulnerabilities software_tools Internet security_of_data program_diagnostics 
+Cobra: fine-grained malware analysis using stealth localized-executions multi-threading data_flow_analysis computer_viruses 
+Integrity (I) codes: message integrity protection and authentication over insecure channels message_authentication wireless_sensor_networks wireless_channels 
+Cognitive authentication schemes safe against spyware authorisation computer_crime computer_viruses 
+Cache cookies for browser authentication online_front-ends data_privacy computer_viruses cache_storage 
+Secure device pairing based on a visual channel message_authentication public_key_cryptography 
+SubVirt: implementing malware with virtual machines virtual_machines Linux computer_viruses 
+Practical attacks on proximity identification systems data_privacy ISO_standards radiofrequency_identification 
+On the secrecy of timing-based active watermarking trace-back techniques packet_switching cryptography watermarking 
+A safety-oriented platform for Web applications Internet online_front-ends security_of_data virtual_machines network_operating_systems 
+Tamper-evident, history-independent, subliminal-free data structures on PROM storage -or- how to store ballots on a voting machine data_structures data_privacy PROM public_administration 
+Analysis of the Linux random number generator cryptography operating_system_kernels Linux random_number_generation 
+The final nail in WEP's coffin cryptography wireless_LAN 

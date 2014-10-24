@@ -1,0 +1,198 @@
+Analyzing and visualizing performance of memory hierarchies
+Monitoring and measuring distributed systems
+Scientific visualization at Los Alamos
+Visualization techniques for high dimensional data sets
+Performance instrumentation and visualization using AXE
+Integrating performance data collection analysis and visualization
+JED: just an event display
+Support environment for RP3 performance monitor
+Environments for visualization of program
+Software tools for visualization of performance
+Parallel program visualization using ParVis
+Reflective memory instrumentation issues
+Performance: the need for an in-depth view
+A VLSI chip set for a multiprocessor performance measurement system
+Performance of parallel applications on a shared-memory multiprocessor system
+Graphical aids to constructing parallel programs summary
+Standards working group summary
+Dataflow and hybrid dataflow architecture summary
+Performance analysis of parallel applications and systems summary
+Adjunctions and Galois connections
+Categorical Galois theory
+The polarity between approximation and distribution
+Galois connections and complete sublattices
+Galois connections for operations and relations
+Galois connections and polynomial completeness
+Q-Independence and weak automorphisms
+A survey of clones closed under conjugation
+Galois connections for partial algebras
+Complexity of terms and the Galois connection Id-Mod
+Iterated Galois connections in arithmetic and linguistics
+Deductive systems and Galois connections
+A Galois correspondence for digital topology
+Galois connections in category theory topology and logic
+Dyadic mathematics
+What we know about CSCL
+CSCL in higher education?
+Practices and orientations of CSCL
+Building collaborative knowing
+Learning assessment and collaboration in computer-supported environments
+Instructional support in CSCL
+Computer software support for CSCL
+Human support in CSCL
+CSCL-Ware in practice
+Designing sociable CSCL environments
+Introduction and overview
+Personalizing interaction
+Towards psychological customization of information for individuals and social groups
+Personalisation and trust
+'I didn't buy it for myself'
+An information architecture perspective on personalization
+E-commerce personalization and real-time site monitoring
+Personalized electronic banking services
+Personalized ubiquitous commerce
+Self-service personalization and electronic government
+Creating an E-commerce environment where consumers are willing to share personal information
+Buyer behavior in personalized shopping environments
+Supporting travel decision making through personalized recommendation
+Improving collaborative recommender systems by means of user profiles
+Personalized presentation of policies and processes
+Recommending as personalized teaching
+Impacts of user privacy preferences on personalized systems
+Challenges for user-centric personalization research
+Editors' preface
+The socio-political construction of caresys
+Information and communication technologies diffusion in industrial districts
+Where is the innovation?
+Co-ordination of E-government
+Translations in network configurations
+MIS and the dynamics of legitimacy in health care
+Role model for the organisational IT diffusion process
+Should buyers try to shape IT-markets through non-market (collective) action?
+Exploring application service provision
+A framework for the investigation of the institutional layer of IT diffusion
+Taking organizational implementation seriously
+Ten years on
+Networked technologies - the role of networks in the diffusion and adoption of software process improvement (SPI) approaches
+Open source software
+The diffusion and adoption of mobile computing
+Multiple cortical representations of optic flow processing
+Optic flow and vestibular self-movement cues
+A visual mechanism for extraction of heading information in complex flow fields
+Eye movements and an object-based model of heading perception
+Short-latency eye movements
+Functional neuroanatomy of heading perception in humans
+The event structure of motion perception
+Modeling observer and object motion perception
+Linking perception and neurophysiology for motion pattern processing
+Circular receptive field structures for flow analysis and heading detection
+Parametric measurements of optic flow by humans
+Fast processing of image motion patterns arising from 3-D translational motion
+On the computation of image motion and heading in a 3-D cluttered scene
+From optic flow to laws of control
+Egocentric direction and locomotion
+The utility of not changing direction and the visual guidance of locomotion
+Gaze behaviors during adaptive human locomotion
+How do we control high speed steering?
+Model-based control of perception/action
+A neural model for biological movement recognition
+Controlling bipedal movement using optic flow
+Sensor networks
+Communication protocols for sensor networks
+Energy efficient design of wireless sensor nodes
+Medium access control in wireless sensor networks
+A survey of MAC protocols for sensor networks
+Dissemination protocols for large sensor networks
+Routing on a curve
+Reliable transport for sensor networks
+Data-centric routing and storage in sensor networks
+Compression techniques for wireless sensor networks
+Fundamental limits of networked sensing
+Security for wireless sensor networks
+Key distribution techniques for sensor networks
+Security in sensor networks
+Localization in sensor networks
+Sensor management
+Detecting unauthorized activities using a sensor network
+Analysis of wireless sensor networks for habitat monitoring
+Construction and calculus of types of databases systems
+On the relationship of congruence closure
+Class hierarchies and their complexity
+Static and dynamic type checking
+An algebraic model of subtype and inheritance
+Orderings and types in databases
+Algorithms for set containment inference
+Intensional concepts in an object databases model
+The VISION object-oriented database management system
+Implementing functional databases
+Data abstraction and transaction processing in the database programming language RAPP
+Integration issues in implementing semantic data models
+Sharing persistence and object-orientation: a database perspective
+Polymorphic names and iterations
+O2 an object-oriented data model
+Object-oriented data model
+Semantics for transactions in shared object worlds
+A practical language to provide persistence and a rich typing system
+Semantics of updates in logic programming
+Control and optimization strategies in the implementation of LDL
+COL: a logic-based language for complex objects
+Representing database programs as objects
+Date and knowledge model: a proposal
+The semantics of update in a functional database programming language
+Toward a formalism for module interconnection and version selection
+Manipulating complex objects
+UML-based system specification anddesign
+UML-based co-design for run-time reconfigurable architectures
+A unified approach to code generation from behavioral diagrams
+Platform-independent design for embedded real-time systems
+Real-time system modeling with ACCORD/UML methodology
+UML-based specifications of an embedded system oriented to HW/SW partitioning
+C-based system design
+Space
+Laerte++
+A case study
+Modeling of CSP KPN and SR systems with systemC
+On hardware description in ECL
+Analog and mixed-signal systems
+Rules for analog and mixed-signal VHDL-AMS modeling
+A VHDL-AMS library of hierarchical optoelectronic device models
+Towards high-level analog and mixed-signal synthesis from VHDL-AMS specifications
+Reliability simulation of electronic circuits with VHDL-AMS
+Extending systemC to analog modelling and simulation
+Languages for formal methods
+Linking architectural and component system views by abstract state machines
+A new time extension to Ï-calculus based on time consuming transition semantics
+Modeling CHP descriptions in labeled transitions systems for an efficient formal validation of asynchronous circuit specifications
+Combined formal refinement and model checking for real-time systems verification
+Refinement of hybrid systems
+Applications and new languages
+Automotive software engineering
+Systemverilog
+Peer-to-peer networking in mobile communications based on SIP
+Protocols for data propagation in wireless sensor networks
+A-cell
+Third generation WCDMA radio evolution
+Evolution of CDMA from interference-limited to noise-limited
+Power control implementation in 3rd generation CDMA systems
+Power control in wireless networks
+Average outage duration of wireless communication systems
+Enhancing TCP performance in wide-area cellular wireless networks
+Multi-service wireless internet link enhancements
+Portability architecture for nomadic wireless internet access users and security performance evaluation
+Design and implementation of a softswitch for third generation mobile all-IP network
+Clustering in mobile wireless ad hoc networks
+Characterizing uplink load
+Performance analysis and optimization of multi-hop communication systems
+Mobility management for wireless networks
+Efficient information acquisition and dissemination in pervasive computing systems through caching
+Security in wireless mobile and sensor networks
+Waveform shaping techniques for bandwidth-efficient digital modulations
+Multiple antennas
+Diagonal STBC's for fading ISI channels
+Fast routing and recovery protocols in hybrid ad-hoc cellular networks
+Fundamentals of Silicon-based phototransduction
+CMOS APS MTF modeling
+Photoresponse analysis and pixel shape optimization for CMOS APS
+Active pixel sensor design
+Focal-plane analog image processing
+CMOS imager non-uniformity correction using floating-gate adaptation

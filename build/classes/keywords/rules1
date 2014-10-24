@@ -1,0 +1,396 @@
+social_and_behavioral_sciences
+computer_uses_in_education
+0.3636363636363636
+computer_uses_in_education
+social_and_behavioral_sciences
+0.7999999999999999
+operating_systems_(computers)
+security_of_data
+0.9444444444444445
+vision_and_scene_understanding
+scene_analysis
+1.0
+scene_analysis
+vision_and_scene_understanding
+0.5384615384615384
+analysis
+security_of_data
+0.4615384615384615
+connections
+galois
+0.8888888888888888
+galois
+connections
+0.7272727272727272
+life_and_medical_sciences
+vision_and_scene_understanding
+0.5
+vision_and_scene_understanding
+life_and_medical_sciences
+0.7142857142857143
+protocols
+security_of_data
+0.275
+relational_databases
+security_of_data
+0.7499999999999999
+multilevel
+security_of_data
+1.0
+cryptography
+authorisation
+0.22222222222222224
+authorisation
+cryptography
+0.2
+other_architecture_styles
+network_architecture_and_design
+0.923076923076923
+network_architecture_and_design
+other_architecture_styles
+0.29268292682926833
+network_protocols
+network_architecture_and_design
+0.9523809523809523
+network_architecture_and_design
+network_protocols
+0.4878048780487805
+numerical_algorithms_and_problems
+galois
+0.7499999999999999
+galois
+numerical_algorithms_and_problems
+0.8181818181818181
+cryptography
+message_authentication
+0.25925925925925924
+message_authentication
+cryptography
+0.4375
+network_operating_systems
+security_of_data
+0.6153846153846153
+performance
+performance_of_systems
+0.5333333333333333
+performance_of_systems
+performance
+0.3809523809523809
+detection
+security_of_data
+0.5555555555555556
+control
+authorisation
+0.5263157894736842
+authorisation
+control
+0.16666666666666666
+data_integrity
+security_of_data
+0.5555555555555556
+distributed_processing
+security_of_data
+0.65
+formal_specification
+security_of_data
+0.65
+protocols
+public_key_cryptography
+0.19999999999999998
+public_key_cryptography
+protocols
+0.5714285714285714
+authentication
+message_authentication
+0.6875000000000001
+message_authentication
+authentication
+0.34375000000000006
+protocols
+cryptography
+0.325
+cryptography
+protocols
+0.24074074074074076
+wireless
+network_architecture_and_design
+0.9333333333333333
+network_architecture_and_design
+wireless
+0.34146341463414637
+networks
+network_architecture_and_design
+0.689655172413793
+network_architecture_and_design
+networks
+0.4878048780487805
+authorisation
+message_authentication
+0.18333333333333335
+message_authentication
+authorisation
+0.34375000000000006
+systems
+security_of_data
+0.2553191489361702
+sensor
+networks
+0.782608695652174
+networks
+sensor
+0.6206896551724137
+policy
+security_of_data
+0.9
+performance_of_systems
+multiple_data_stream_architectures_(multiprocessors)
+0.4285714285714285
+multiple_data_stream_architectures_(multiprocessors)
+performance_of_systems
+0.6
+distributed_processing
+distributed
+0.55
+distributed
+distributed_processing
+0.6875000000000001
+model
+security_of_data
+0.5769230769230769
+performance
+multiple_data_stream_architectures_(multiprocessors)
+0.6
+multiple_data_stream_architectures_(multiprocessors)
+performance
+0.6
+networks
+wireless
+0.3448275862068965
+wireless
+networks
+0.6666666666666666
+physical_sciences_and_engineering
+scene_analysis
+0.6923076923076922
+scene_analysis
+physical_sciences_and_engineering
+0.3461538461538461
+sensor
+network_protocols
+0.6521739130434783
+network_protocols
+sensor
+0.7142857142857142
+telecommunication_security
+Internet
+0.36
+Internet
+telecommunication_security
+0.3333333333333333
+security_of_data
+security
+0.2236842105263158
+security
+security_of_data
+0.6938775510204082
+sensor
+network_architecture_and_design
+0.782608695652174
+network_architecture_and_design
+sensor
+0.43902439024390244
+distributed
+security_of_data
+0.5625
+approach
+security_of_data
+0.7999999999999999
+data_privacy
+security_of_data
+0.2903225806451613
+Internet
+authorisation
+0.2962962962962963
+networks
+network_protocols
+0.48275862068965514
+network_protocols
+networks
+0.6666666666666666
+protocols
+message_authentication
+0.19999999999999998
+message_authentication
+protocols
+0.25
+Internet
+security_of_data
+0.4444444444444445
+secure
+security_of_data
+0.65
+system
+security_of_data
+0.5
+systems
+distributed
+0.17021276595744678
+distributed
+systems
+0.5
+life_and_medical_sciences
+scene_analysis
+0.7999999999999999
+scene_analysis
+life_and_medical_sciences
+0.6153846153846153
+networks
+wireless network_architecture_and_design
+0.3448275862068965
+wireless
+networks network_architecture_and_design
+0.6666666666666666
+networks wireless
+network_architecture_and_design
+1.0
+wireless network_architecture_and_design
+networks
+0.7142857142857143
+networks network_architecture_and_design
+wireless
+0.5
+network_architecture_and_design
+networks wireless
+0.24390243902439024
+sensor
+networks network_architecture_and_design
+0.6521739130434783
+networks
+sensor network_architecture_and_design
+0.5172413793103448
+sensor networks
+network_architecture_and_design
+0.8333333333333334
+networks network_architecture_and_design
+sensor
+0.75
+sensor network_architecture_and_design
+networks
+0.8333333333333334
+network_architecture_and_design
+networks sensor
+0.36585365853658536
+networks
+network_protocols network_architecture_and_design
+0.48275862068965514
+networks network_protocols
+network_architecture_and_design
+1.0
+network_protocols
+networks network_architecture_and_design
+0.6666666666666666
+network_protocols network_architecture_and_design
+networks
+0.7
+networks network_architecture_and_design
+network_protocols
+0.7
+network_architecture_and_design
+networks network_protocols
+0.34146341463414637
+networks
+sensor network_protocols
+0.41379310344827586
+sensor
+networks network_protocols
+0.5217391304347827
+networks sensor
+network_protocols
+0.6666666666666667
+sensor network_protocols
+networks
+0.8
+networks network_protocols
+sensor
+0.8571428571428572
+network_protocols
+sensor networks
+0.5714285714285714
+sensor
+network_protocols network_architecture_and_design
+0.6521739130434783
+sensor network_protocols
+network_architecture_and_design
+1.0
+network_protocols
+sensor network_architecture_and_design
+0.7142857142857142
+network_protocols network_architecture_and_design
+sensor
+0.75
+sensor network_architecture_and_design
+network_protocols
+0.8333333333333334
+network_architecture_and_design
+sensor network_protocols
+0.36585365853658536
+life_and_medical_sciences
+vision_and_scene_understanding scene_analysis
+0.5
+vision_and_scene_understanding
+life_and_medical_sciences scene_analysis
+0.7142857142857143
+vision_and_scene_understanding scene_analysis
+life_and_medical_sciences
+0.7142857142857143
+life_and_medical_sciences vision_and_scene_understanding
+scene_analysis
+1.0
+life_and_medical_sciences scene_analysis
+vision_and_scene_understanding
+0.625
+scene_analysis
+vision_and_scene_understanding life_and_medical_sciences
+0.3846153846153846
+networks
+sensor network_protocols network_architecture_and_design
+0.41379310344827586
+sensor networks
+network_protocols network_architecture_and_design
+0.6666666666666667
+sensor network_protocols
+networks network_architecture_and_design
+0.8
+networks sensor network_protocols
+network_architecture_and_design
+1.0
+sensor network_protocols network_architecture_and_design
+networks
+0.8
+sensor network_architecture_and_design
+networks network_protocols
+0.6666666666666667
+sensor
+networks network_protocols network_architecture_and_design
+0.5217391304347827
+networks sensor network_architecture_and_design
+network_protocols
+0.8
+networks network_protocols network_architecture_and_design
+sensor
+0.8571428571428572
+networks network_protocols
+sensor network_architecture_and_design
+0.8571428571428572
+network_protocols
+sensor networks network_architecture_and_design
+0.5714285714285714
+network_protocols network_architecture_and_design
+sensor networks
+0.6
+networks network_architecture_and_design
+sensor network_protocols
+0.6
+network_architecture_and_design
+sensor networks network_protocols
+0.29268292682926833
